@@ -1,0 +1,16 @@
+#NB: paths can be absolute or local
+
+[Tools]
+reader	./Tools
+normaliser	./Tools #The script can be empty: in that case a default normaliser will be implemented
+
+[Data]
+conllu	./Treebanks/la_omnia.conllu
+derivation	./Morphology #the three files compound, derived and ADV.tsv can be empty, but they are needed (and supplied for Latin)
+
+[Parameters]
+lang	la
+classifier	InflClass #NounClass is another example; possibly also Gender, etc.
+inversion	False
+lemmas	True
+threshold	0 # 0 or less for no threshold

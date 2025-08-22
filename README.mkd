@@ -1,0 +1,13 @@
+# quidverbumst
+
+Code and materials associated to the paper "*Quid verbumst?* Applying a definition of word to Latin in Universal Dependencies", by Flavio Massimiliano Cecchini, presented at [2025's SyntaxFest in Ljubljana](https://syntaxfest.github.io/syntaxfest25/).
+
+This `README` is in progress. 
+
+The folder contains all necessary files to run the scripts on any (modulo adjustments) UD treebank. These include script to read and handle CoNLL-U files developed personally by me.
+
+The folder `PublishedPaper` contains in particular the data used for the article and mentioned as being "in the repository". There is also some extra materials with some relevance to this work.
+
+The data in the main folder is updated (with respect to both UD release and script refinement) and might vary slightly from those presented in the paper. 
+
+Thanks for your patience, and do not hesitate to contact me for any question, doubt or comment! 

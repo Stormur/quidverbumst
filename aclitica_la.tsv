@@ -1,0 +1,3224 @@
+intus	ADP	intus	6	AdpType=Prep		
+que	CCONJ	que,usque	31536	Gender=Fem,Masc,Neut|Tac=est		
+neue	SCONJ	neu,neue,niue	196	Polarity=Neg		
+ample	ADJ	ample,amplissime,amplius	708	Degree=Abs,Cmp|Form=Adverbial		
+qualis	DET	qualiter	1	Form=Adverbial|PronType=Rel	qualis,quale,qualia,quali,qualibus,qualium,quales,qualem	Number,Case,Gender,InflClass
+et	CCONJ	cccxiid,ccxiid,et,liiiilxii,lxxxiid,lxxxixxlu,lxxxuiid,lxxxulxxuiii,uiid,xiid,xiil	60279	Gender=Fem,Masc,Neut|Tac=est		
+an	PART	an	2265	PartType=Int|Polarity=Neg		
+illic	DET	illi	1	Form=Adverbial	illunc,illisce,illoc,illiusce,illaec,illac,illuc,illanc,illace,illic	PronType,Number,Case,Gender,InflClass,AdvType
+qui	PRON	quatenus,ubi	4	AdvType=Loc|Compound=Yes|Form=Adverbial|PronType=Rel	quo,quorum,quem,quarum,quid,quoii,quei,quos,quoiius,quibu,quoiia,quoi,que,quas,quis,qua,cuius,quoius,cui,qui,quae,quod,quibus,queis,quam	ExtPos,Person,Number,Case,Gender,InflClass
+in	ADP	endo,im,in,indu,intantum	45357	AdpType=Prep|ExtPos=SCONJ|Gender=Fem,Masc,Neut		
+sum	AUX	2foret<potitus>,<benedictum>est,<futuram>fuisse,<maledictum>est,<pessumdatus>sit,<satisdatum>erit,<satisdaturos>esse,<satisfactum>esse,<satisfactum>est,<satisfactum>sit,ademptast,datast,sunt<conati>,sunt<manumissi>	14	_	fuerant,ente,es,ero,sumus,simus,fuat,este,futurae,essendi,essemus,fuissent,esses,forem,eratis,fuerat,fuero,estote,fore,fuam,erunt,ess,sunto,esse,escit,fuerunt,entium,futurus,essent,fuistis,erat,fui,sum,estis,essendum,essendo,futura,eram,fuisse,fuisses,fuant,eramus,fuissemus,fuisti,siem,fueramus,fuerint,esto,futuros,futuram,sim,essem,futuri,fuimus,fuissetis,sumu,fuit,eris,sunt,sies,erimus,est,eras,erant,entia,siet,fuisset,<qui>cumquest,fuerim,sient,essetis,future,sint,fuerit,fueratis,foret,fuere,fueris,fuerimus,ualentulast,sitis,opust,fueritis,sis,ens,erit,futurum,meast,fuas,futuris,fueras,esset,futuro,forent,haudquaquamst,futuras,iuriiurandost,sit,fueram,eritis,fuissem,fores	TraditionalMood,Tac,Person,Aspect,TraditionalTense,Mood,InflClass[nominal],Number,VerbForm,Case,InflClass,Gender,Tense
+ne	PART	ne,ni,sicin,tun	3604	PartType=Emp,Int,Neg|Polarity=Neg		
+aut	CCONJ	aut	7602	_		
+non	PART	noenum,non	33010	Gender=Fem,Neut|PartType=Neg|Polarity=Neg		
+nec	CCONJ	dum,nec,necnon	8107	Polarity=Neg		
+quis	ADV	quid	44	PronType=Int		
+ab	ADP	a,ab,abs,aps	14491	AdpType=Prep|Gender=Fem,Masc,Neut|Tac=est		
+hinc	DET	hinc	1087	AdvType=Loc|Case=Loc|Form=Adverbial|PronType=Dem		
+unus	DET	unis	8	Case=Abl,Dat|Gender=Fem,Masc,Neut|Number=Plur|NumType=Card	unam,duae,unius,primum,una,unum,duabus,unus,unas,unae,une,duo,duas,unos,uno,uni	NumForm,NumValue,PronType,InflClass
+at	CCONJ	ast,at	2416	Gender=Masc		
+atque	CCONJ	ac,atque	7371	Form=Emp		
+circa	ADP	circa	521	AdpType=Prep		
+tamen	PART	tamen	4969	ExtPos=SCONJ|Form=Emp|Gender=Fem|PronType=Dem		
+sed	CCONJ	sed,set	13700	Gender=Fem,Masc		
+tam	DET	tam	2668	Form=Adverbial|PronType=Dem		
+sortior	VERB	sortiebatur	1	Aspect=Imp|Lilaflcat=LatI|Mood=Ind|Number=Sing|Person=3|Tense=Past|TraditionalMood=Indicativus|TraditionalTense=Imperfectum|Voice=Pass	sortiti,sortirentur,sortiri,sortiremur,sortitas,sortitis,sortiretur,sortiar,sortitum,sortitae,sortientur,sortiuntur,sortientium,sortiendam,sortiebantur,sortiantur,sortita,sortiendo,sortite,sortitus,sortire,sortiere,sortiturus,sortiturum,sortitur,sortiente,sortietur,sortiatur	Tac,InflClass[nominal],VerbForm,Case,Gender,InflClass
+audio	VERB	audiuerimus	4	Aspect=Perf|Lilaflcat=LatI|Mood=Ind,Sub|Number=Plur|Person=1|Tense=Fut,Past|TraditionalMood=Indicativus,Subiunctivus|TraditionalTense=Futurum,Perfectum|Voice=Act	auditu,audire,audiens,audirentur,audirem,audiendos,audiuerim,audite,auditur,audiuit,audiretur,audienda,audimus,audior,audituri,audisses,audit,audiueram,audiuisti,audiebamus,audieras,audiente,audierint,audiebas,audieritis,audibant,audiantur,audita,audi,audientur,audierunt,audii,audito,audientibus,audiuero,audis,audiebam,audiuistis,audibis,audiatur,audiar,audiamus,auditus,auditae,audituros,auditote,audientium,auditum,audiebatis,audieramus,audiretis,audiuisse,audiri,audistis,audiam,audiebatur,audiit,audierit,auditi,audierant,audiuere,audienti,audisse,audisti,audiebant,audiemus,audiere,audin,audiuerant,audiuimus,audiebantur,audies,audiendi,audieram,audiuntur,audiendo,audiendis,audibat,audisset,audissem,audiero,audiuerat,audimur,audiuerit,auditam,audierim,audituram,audiuissent,audient,audiet,audituro,audissent,audiant,audiebat,auditurum,audietis,audias,audiat,audiunt,audientis,auditurus,audieris,audierat,audiuisset,audietur,auditos,audio,audiremus,audiuerunt,audirent,audientem,audiendam,audiret,audiui,audientes,audiendum,audiendus,audiatis,audires,audirer,audibam,auditis	Tac,InflClass[nominal],VerbForm,Case,InflClass,Gender
+placide	ADJ	placide,placidius	32	Degree=Cmp|Form=Adverbial		
+diu	NOUN	diu,diutissime,diutius	821	AdvType=Tim|Degree=Abs,Cmp|Form=Adverbial		
+uel	CCONJ	uel	3653	ExtPos=SCONJ		
+nihil	PRON	nichil,nil	491	Form=Adverbial|Polarity=Neg|PronType=Ind,Neg	nihilum,nihilo,nihil	Case,InflClass
+ultimus	ADJ	ultuma,ultumum,ultumus	4	Case=Abl,Acc,Nom|Gender=Fem,Masc,Neut|Number=Sing	ultimorum,ulterius,ultimos,ultimarum,ultimas,ultime,ultima,ulteriorem,ultimum,ultimus,ultimam,ultimi,ultimo,ultimae,ultimis	InflClass,Degree
+ad	ADP	ad	19035	AdpType=Prep|Gender=Fem,Masc,Neut|Proper=Yes		
+nondum	PART	nondum	525	AdvType=Tim|Compound=Yes|Gender=Neut|Polarity=Neg		
+tandem	ADV	tandem	516	PronType=Dem		
+si	SCONJ	s,sei,si,sis	14286	ExtPos=SCONJ|PronType=Int		
+simul	ADV	semul,simul	1349	AdvType=Tim|ExtPos=SCONJ|Gender=Masc		
+pereo	VERB	periti	1	Aspect=Perf|Case=Nom|Gender=Masc|InflClass[nominal]=IndEurO|Lilaflcat=LatI|Number=Plur|TraditionalMood=Participium|TraditionalTense=Perfectum|VerbForm=Part|Voice=Pass	periturus,periture,pereamus,pereuntes,pereat,pereant,pereundi,perituros,periisti,pereo,perire,periistis,peribat,periturae,perituro,pereunda,pereuntibus,peribant,perires,pereundum,pereatis,perisses,peribo,pereundo,perissent,peri,periissem,peristi,peritura,perisse,peribit,perirent,pereuntium,perierunt,perisset,pereuntia,pereuntis,periturum,perierat,periit,perit,pereas,peribunt,periisset,perierint,periturorum,periremus,perierit,pereunt,periere,perimus,peris,pereuntem,perituri,perierant,periisse,periretis,peream,pereunte,periret,perituram,perii,perituras,perirem	Tac,Person,Mood,InflClass,Tense
+cum	ADP	cum	6667	AdpType=Prep|Gender=Fem		
+ecce	INTJ	eccam,eccas,ecce,eccillam,eccos,eccum	332	_		
+alius	DET	aliter	16	Form=Adverbial|PronType=Con	alio,alias,aliam,alios,aliarum,alia,alius,alii,aliud,aliae,aliut,aliis,alium,aliorum,alie	Number,Case,Gender,InflClass
+haud	PART	hau,haud,haut	916	PartType=Neg|Polarity=Neg		
+nouus	ADJ	nouissime	2	Degree=Abs|Form=Adverbial	nouis,nouissimum,nouae,nouissimam,nouom,nouissimos,nouum,noue,nouissimo,nouos,nouorum,nouissumi,nouissimus,noua,noui,nouo,nouas,nouissimis,nouus,nouissima,nouissimae,nouarum,nouam,nouissimi	Proper,Number,Case,Gender,InflClass
+certus	ADJ	certissime	1	Degree=Abs|Form=Adverbial	certius,certissimae,certissimus,certum,certam,certus,certissimas,certast,certos,certissimo,certas,certarum,certis,certo,certissimam,certiorem,certae,certissima,certiores,certi,certissimi,certiore,certissimis,certior,certa,certissimum,certiora,certorum	Number,Case,Gender,InflClass
+ut	SCONJ	ut,uti,utut	20149	ExtPos=ADV|Gender=Fem,Masc,Neut|PronType=Int,Rel		
+inter	ADP	inter	2912	AdpType=Prep|Gender=Fem,Neut		
+ue	CCONJ	ue	666	_		
+cum	SCONJ	cum,quom,quum	12004	Gender=Fem,Masc,Neut|PronType=Rel		
+deficio	VERB	deficienter	2	Form=Adverbial|TraditionalMood=Participium|TraditionalTense=Praesens	deficiantur,defecto,defecerit,deficiuntur,deficiebant,deficiens,deficiant,defecit,defecere,deficitur,deficiat,defectis,deficiet,deficeret,deficimus,defecerant,deficerentur,defecturam,deficiamus,deficerent,deficiunt,defecisset,defectum,defecisse,defectae,deficiebat,defecimus,deficere,deficientibus,deficit,deficientes,deficeretur,defecissent,deficiam,deficient,deficiatis,defecerat,deficior,defeceris,deficientia,defecturos,defecerint,deficiendi,deficiente,deficiatur,defice,defecerunt,deficientem,deficientis,deficias,defecta,defici	Tac,Aspect,Person,InflClass[nominal],Mood,Number,VerbForm,Case,InflClass,Voice,Gender,Tense
+de	ADP	de	9176	AdpType=Prep|Proper=Yes		
+quamuis	SCONJ	quamuis	843	Compound=Yes|PronType=Rel		
+per	ADP	per,perqu	10464	AdpType=Prep		
+quoque	PART	quoque	2511	Form=Emp|Gender=Fem		
+ceterum	DET	ceterum	372	Form=Adverbial|PronType=Con		
+hactenus	DET	hactenus	64	Form=Adverbial		
+opus	NOUN	opust	1	Gender=Neut	operum,opere,opu,operi,opus,operibus,opera,operis	Number,Case,InflClass
+nisi	SCONJ	nisi	3738	Compound=Yes|Polarity=Neg		
+quod	SCONJ	quod	11585	ExtPos=SCONJ|Gender=Neut|PronType=Rel		
+multum	DET	multum,plurima,plurimum,plurumum	509	Degree=Abs|Form=Adverbial|Gender=Fem|NumType=Card|PronType=Ind	plus	Number,Case,InflClass
+supra	ADP	supra	321	AdpType=Prep		
+raro	ADJ	rarissime,rarius,raro	71	Degree=Abs,Cmp|Form=Adverbial		
+numquam	ADV	numquam,nunquam	1302	AdvType=Tim|Compound=Yes|Polarity=Neg		
+dumtaxat	VERB	dumtaxat	55	Form=Adverbial		
+ibi	PRON	ibi	743	AdvType=Loc|Form=Adverbial|PronType=Dem		
+enim	PART	enim,inter<iectast>	8141	Form=Emp		
+super	ADP	super	613	AdpType=Prep		
+apud	ADP	apud,aput	1757	AdpType=Prep|Gender=Masc		
+ideo	DET	ideo	863	Compound=Yes|Form=Adverbial|PronType=Dem		
+magis	ADJ	magi,magis,maxime,maxume	3451	Degree=Abs,Cmp|Form=Adverbial|Gender=Fem,Masc		
+quam	SCONJ	quam,quamde	7156	ConjType=Cmpr|Gender=Fem|PronType=Rel		
+pro	ADP	facturumsatiesse,pro	2528	AdpType=Prep|Gender=Fem,Masc		
+mox	ADV	mox	544	AdvType=Tim		
+secundum	ADP	secundum	3341	AdpType=Prep|VerbForm=Part		
+partior	VERB	partitam	1	Aspect=Perf|Case=Acc|Gender=Fem|InflClass[nominal]=IndEurA|Lilaflcat=LatI|Number=Sing|TraditionalMood=Participium|TraditionalTense=Perfectum|VerbForm=Part|Voice=Pass	partiendas,partiens,partiatur,partitus,partiaris,partimur,partire,partita,partior,partiendae,partiendi,partiti,partiris,partiuntur,partiri,partiturum,partitur,partito,partiamur,partiebantur,partirentur	Tac,Person,Mood,InflClass,Tense
+neque	CCONJ	nec,neque	4863	Polarity=Neg		
+unde	PRON	unde	1685	AdvType=Loc|Form=Adverbial|PronType=Int,Rel		
+totidem	DET	totidem	138	Compound=Yes|Form=Adverbial,Emp|NumType=Card|PronType=Dem		
+perinde	ADV	perinde	86	_		
+sub	ADP	sub	1536	AdpType=Prep|Gender=Fem,Masc,Neut		
+huc	DET	hoc,huc,huci,hucine	646	AdvType=Loc|Form=Adverbial|PronType=Dem		
+tum	ADV	tum	2748	AdvType=Tim|Gender=Fem|PronType=Dem		
+super	PRON	super	107	Form=Adverbial		
+intro	PRON	intro	98	Form=Adverbial		
+inde	PRON	ind,inde	885	AdvType=Loc|Form=Adverbial|PronType=Dem		
+insuper	PRON	insuper	79	AdvType=Loc|Compound=Yes|Form=Adverbial		
+rursus	PRON	rursum,rursumque,rursus,rursusque,rusum,rusus	599	Form=Adverbial|VerbForm=Part		
+ac	CCONJ	ac	5550	Gender=Masc		
+cito	VERB	citissime,citissume,citius,cito	295	AdvType=Tim|Degree=Abs,Cmp|Form=Adverbial	citarentur,citat,citabantur,citem,citatur,citaretur,citaret,citaui,citamur,citatas,citauit,citato,citarier,citari,citabat,citati,citatum,citatis,citabo,citabere,citentur,citantur,citatus,citetur,cita,citarem	TraditionalMood,Aspect,Person,InflClass[nominal],Mood,TraditionalTense,Number,VerbForm,Case,InflClass,Voice,Gender,Tense
+ter	NUM	ter	229	Form=Adverbial|NumType=Mult		
+retro	PRON	retro	156	AdvType=Loc|Form=Adverbial		
+penitus	NOUN	penitus	189	AdvType=Loc|Form=Adverbial		
+siue	CCONJ	seu,siue	1111	_		
+subito	VERB	subito	315	Form=Adverbial|VerbForm=Part		
+iam	ADV	iam	4854	AdvType=Tim		
+saepe	ADV	saepe,saepissime,saepissume,saepius,sepe,sepissime	1619	AdvType=Tim|Degree=Abs,Cmp		
+frustra	ADV	frustra	327	_		
+nunc	ADV	nunc,nunciam	3556	AdvType=Tim		
+ubi	SCONJ	ubi	1901	AdvType=Loc|PronType=Rel		
+quo	PRON	quo	369	AdvType=Loc|Form=Adverbial|PronType=Int,Rel		
+utrimque	DET	utrimque,utrinque	141	AdvType=Loc|Form=Adverbial,Emp|PronType=Con		
+post	ADP	post	1270	AdpType=Prep		
+sentio	VERB	sentiendi,sentientia	2	Aspect=Imp,Prosp|Case=Gen,Nom|Gender=Neut|InflClass[nominal]=IndEurI,IndEurO|Lilaflcat=LatI|Number=Plur,Sing|TraditionalMood=Gerundium,Participium|TraditionalTense=Praesens|VerbForm=Part|Voice=Act,Pass	senserim,sentirem,sentientis,sentientium,sensistis,sentimus,sensurus,sensura,sentientibus,sensurum,sensurae,sentiremus,senties,senseritis,sensuri,sensero,sentis,sensere,sentias,sentiunt,sentitur,senserant,sensissem,sentientem,sensuros,sentiuntur,sentiret,senseris,sentit,sentientes,sentirent,sensisses,sensisti,sensuram,sentient,sentiens,sentio,sentiemus,sentiendum,sentite,sentitis,sensisset,sensissent,sentiamus,senti,sentiendo,sentienti,sentiat,senseras,sentietis,sensisse,sentiri,sensit,sentiretur,sentiebat,sentiatur,sentiatis,sensi,sentire,sentiant,senserint,sentiebam,sentiet,sensimus,sentiente,senserunt,sentires,sentiam,sentiebant,sentiebatis,senserat,senserit	Tac,Person,Mood,InflClass,Tense
+propior	ADJ	propiora,propiore,propiorem,propiores,propioribus,propioris,propius,proximae,proximarum,proximas,proximiorem,proximo,proximorum,proximos,proxuma,proxumae,proxumam,proxumi,proxumis,proxumo,proxumos,proxumum,proxumus	264	Case=Abl,Acc,Dat,Gen,Loc,Nom|Gender=Fem,Masc,Neut|Number=Plur,Sing	proximam,proxima,proximis,proximum,proximus,propior,proximi	InflClass,Degree
+leuiter	ADJ	leuissime,leuiter,leuius	122	Degree=Abs,Cmp|Form=Adverbial		
+tunc	ADV	tum,tunc	762	AdvType=Tim|ExtPos=ADV|PronType=Dem		
+illuc	DET	illuc	199	AdvType=Loc|Form=Adverbial|PronType=Dem		
+postquam	SCONJ	postquam	654	Compound=Yes|PronType=Rel		
+uenio	VERB	uenissemus	1	Aspect=Perf|Lilaflcat=LatI|Mood=Sub|Number=Plur|Person=1|Tense=Pqp|TraditionalMood=Subiunctivus|TraditionalTense=Plusquamperfectum|Voice=Act	uenisti,ueni,ueniunt,uenient,uenientem,ueniebamus,ueniretur,uenirent,ueniretis,ueniant,ueniri,ueneris,uenimu,uenturis,uenios,uenires,uenientia,uenerant,ueniremus,uenisse,uenturos,ueneramus,uenerim,uenisset,uenies,uenistis,uenturus,uenere,ueneras,ueniens,ueniet,ueniente,uenite,ueniamus,uenerit,uenio,uenero,ueniat,ueniendi,ueniendum,uenientum,uenis,uenturae,ueniebat,uenientibus,uenisses,ueneratis,uenito,uenissent,ueniebam,ueniundum,ueneram,ueniebatis,ueniam,uentura,uenerunt,ueniret,ueniatur,uenturi,uenerint,uenturum,uenerimus,uenientis,uenitis,uenturam,uenimus,uenientium,uenirem,uentum,ueniundi,uenit,uenturo,uenitur,uenire,uenissetis,uenienti,uenerat,uenientes,uenias,uenturas,uenissem,ueniebant,ueniemus,ueniatis	Tac,InflClass[nominal],VerbForm,Case,InflClass,Gender
+paene	ADV	paene,paenissume,pene	349	Degree=Abs		
+purus	ADJ	pure	1	Degree=Cmp|Form=Adverbial	purissimis,purior,puram,puros,purius,pura,purissimam,puras,puro,purae,purum,puri,purus,purissima,purissimum,puris,purissimas	Number,Case,Gender,InflClass
+qua	PRON	qua	57	AdvType=Loc|Form=Adverbial|PronType=Int,Rel		
+adhuc	PRON	adhoc,adhuc	1204	AdvType=Tim|Compound=Yes|Form=Adverbial|PronType=Dem		
+modo	ADV	modo	2052	AdvType=Tim|Gender=Masc		
+parum	DET	minime,minu,minus,parum	1625	Degree=Abs,Cmp|Form=Adverbial		
+illo	DET	illo	62	Form=Adverbial		
+sero	ADJ	serissime,serius,sero	84	AdvType=Tim|Degree=Abs,Cmp|Form=Adverbial		
+unde	SCONJ	und,unde,undeunde	437	PronType=Rel		
+semel	ADV	semel	325	NumType=Mult|NumValue=1		
+ultra	ADP	ultra	180	AdpType=Prep		
+ex	ADP	e,ex	12231	AdpType=Prep|Gender=Fem,Masc,Neut		
+prius	ADJ	priu,prius	671	AdvType=Tim|Degree=Cmp|Form=Adverbial|NumType=Ord		
+utinam	SCONJ	utinam	220	Compound=Yes		
+finio	VERB	finiatur,finitarum,finitas,finitorum,finitos	6	Aspect=Imp,Perf|Case=Acc,Gen|Gender=Fem,Masc,Neut|InflClass[nominal]=IndEurA,IndEurO|Lilaflcat=LatI|Mood=Sub|Number=Plur,Sing|Person=3|Tense=Pres|TraditionalMood=Participium,Subiunctivus|TraditionalTense=Perfectum,Praesens|VerbForm=Part|Voice=Pass	finierant,finiuisset,finiturus,finias,finiebatur,finiti,finitae,finitis,finiuit,finit,finiendae,finitus,finiam,finito,finisse,finis,finiet,finiuntur,finiendum,finiamus,finienda,finierim,finiens,finire,finiere,finitur,finieram,finio,finiri,finierat,finiat,finiatis,finiebat,finies,finisset,finitum,finierunt,finissem,finitam,finierit,finiantur,finiunt,finiret,finieris,finirent,finita	Tac,InflClass
+aliquando	PRON	aliquando	505	Compound=Yes|Form=Adverbial|PronType=Rel		
+nutrio	VERB	nutriamur,nutriret,nutriti,nutritos	8	Aspect=Imp,Perf|Case=Acc,Gen,Nom|Gender=Masc,Neut|InflClass[nominal]=IndEurO|Lilaflcat=LatI|Mood=Sub|Number=Plur,Sing|Person=1,3|Tense=Past,Pres|TraditionalMood=Participium,Subiunctivus|TraditionalTense=Imperfectum,Perfectum,Praesens|VerbForm=Part|Voice=Act,Pass	nutrit,nutriuntur,nutrisse,nutritus,nutritis,nutriendus,nutriamus,nutribat,nutritas,nutrire,nutritur,nutriat,nutriuit,nutrito,nutriunt,nutrientibus,nutrimus,nutriebat,nutriant,nutrierat,nutrierunt,nutriri,nutrita,nutribant,nutrieras,nutriente,nutrieris	InflClass
+etiamnunc	ADV	etiamnum,etiamnunc	92	_		
+sine	ADP	sine	2517	AdpType=Prep|Gender=Fem,Masc		
+tot	DET	tot	891	NumType=Card|PronType=Dem|Reduplication=NumType:Dist		
+en	INTJ	en	168	_		
+ultro	ADJ	ultro	280	AdvType=Loc|Form=Adverbial		
+etiam	PART	etiam	7204	Compound=Yes|ExtPos=SCONJ|Form=Emp|Gender=Masc,Neut|Tac=esse		
+contra	ADP	contra	1234	AdpType=Prep		
+peruenio	VERB	perueniamus,perueniatur,perueniendum	13	Aspect=Imp,Prosp|Case=Acc|Gender=Neut|InflClass[nominal]=IndEurO|Lilaflcat=LatI|Mood=Sub|Number=Plur,Sing|Person=1,3|Tense=Pres|TraditionalMood=Gerundium,Subiunctivus|TraditionalTense=Praesens|VerbForm=Part|Voice=Act,Pass	peruenitur,peruenturum,perueni,peruenerint,peruenirent,peruenisti,perueniret,peruenerat,peruenietur,peruenisset,peruenire,peruenis,peruentum,peruenistis,peruentura,perueniant,perueniet,peruenturae,perueniat,perueneram,perueniunt,peruenerunt,peruenias,peruenturam,peruenturus,perueniente,peruenimus,peruenissent,peruenerim,peruenere,perueniretur,perueniam,peruenirem,peruenit,peruenerant,peruenturos,perueneris,perueniendi,perueneramus,perueniebat,peruenero,peruenisses,preuentum,peruenerit,peruenies,peruenientem,peruenisse,perueniri	Tac,InflClass
+procul	PRON	procul	467	AdvType=Loc|Form=Adverbial|Gender=Neut		
+quam	PRON	quam	1122	Form=Adverbial|Gender=Fem|PronType=Int,Rel		
+prope	PRON	prope,propius,proxime,proximum,proxume	543	Degree=Abs,Cmp|Form=Adverbial		
+tempe	NOUN	tempe	18	Gender=Fem|NameType=Geo|Variant=Greek		
+horrendum	ADV	horrendum	9	_		
+sic	ADV	seic,sic,sici,sicin	3644	ExtPos=SCONJ|PronType=Dem		
+circa	PRON	circa	38	Form=Adverbial		
+bis	NUM	bis	262	Form=Adverbial|NumType=Mult		
+licet	SCONJ	licet	453	_		
+undecumque	PRON	undecumque	6	Form=Adverbial		
+potius	ADJ	potissime,potissimum,potissumum,potius	856	Degree=Abs,Cmp|Form=Adverbial		
+ante	ADP	ante	1191	AdpType=Prep|Gender=Fem,Masc		
+usquam	PRON	usquam,usquamst	93	Form=Adverbial		
+nimis	ADJ	nimi,nimis	286	Form=Adverbial		
+istuc	DET	istuc	17	Form=Adverbial		
+ne	SCONJ	ne,ni	3291	Polarity=Neg		
+bene	ADJ	bene,meliu,melius,optime,optume	1601	Degree=Abs,Cmp|Form=Adverbial		
+pariter	ADJ	pariter	368	Form=Adverbial		
+o	PART	o	59	PartType=Emp		
+nescio	VERB	nescierunt	1	Aspect=Perf|Lilaflcat=LatI|Mood=Ind|Number=Plur|Person=3|Tense=Past|TraditionalMood=Indicativus|TraditionalTense=Perfectum|Voice=Act	nescierim,nescituro,nescirent,nescientes,nescimus,nesciremus,nescieram,nesciunt,nescisti,nescirem,nescire,nesciebam,nesciit,nesciebat,nesciretur,nesciamus,nesciui,nesciente,nestire,nescierit,nesciens,nesciebas,nescitis,nescientibus,nescires,nesciuere,nescissemus,nescias,nesciam,nescies,nescienti,nesciet,nescientis,nesciat,nescio,nesciret,nescieris,nescit,nescis,nescisse,nesciant,nesciuit,nesciebant,nescierat,niscit,nescibas,nescierint,nescientem,nescistis	InflClass[nominal],VerbForm,Case,Gender,InflClass,Polarity
+nefas	NOUN	nefas	232	Gender=Fem,Masc,Neut|Polarity=Neg		
+late	ADJ	late,latissime,latius	269	Degree=Abs,Cmp|Form=Adverbial		
+ubi	PRON	ubi	505	AdvType=Loc|Form=Adverbial|PronType=Int,Rel		
+num	PART	num	597	PartType=Int|Polarity=Neg		
+quid	PRON	quid	263	Form=Adverbial|PronType=Int,Rel		
+certe	VERB	certe,certius	636	Degree=Cmp|Form=Adverbial		
+cur	PRON	cur,quor,qur	905	Form=Adverbial|PronType=Int,Rel		
+quonam	PRON	quonam	13	Form=Adverbial|PronType=Int		
+seu	CCONJ	seu	470	_		
+differo	VERB	differenter,differentius	3	Degree=Cmp|Form=Adverbial|TraditionalMood=Participium|TraditionalTense=Praesens	distulisti,differendum,differas,differrent,differamus,dilatis,dilaturum,differentem,differs,dilatae,dilatum,dilato,distuli,differret,differetur,differimus,differendi,differentes,differatur,differor,differentium,differe,differant,differri,differemus,differrem,dilatus,differebat,dilati,different,differre,differendae,differebant,distulisset,dilatas,differunt,differet,dilata,differenda,differtur,distulisse,distuleram,differat,differebantur,differebatur,distulimus,differt,distulero,distulere,distulerunt,differ,differier,differuntur,differretur,differam,differendam,distulerant,distulerat,differens,differte,distulit,differentia,differo,differendis	Tac,Aspect,Person,InflClass[nominal],Mood,Number,VerbForm,Case,InflClass,Voice,Gender,Tense
+furtim	VERB	furtim	63	Form=Adverbial		
+semper	ADV	semper	1847	AdvType=Tim|Gender=Masc		
+rite	NOUN	rite	62	Form=Adverbial		
+saltem	ADV	saltem,saltim	142	_		
+exprimo	VERB	expressius	1	Degree=Cmp|Form=Adverbial|TraditionalMood=Participium|TraditionalTense=Perfectum	exprimens,exprimant,expressisset,expressere,expressisti,exprimis,expresserit,exprimendum,expressi,exprimuntur,expressior,exprimunt,exprimeremus,expressisse,exprimamus,expresse,expresserunt,exprimat,exprimimus,expressam,expriment,expresserint,est,exprimet,exprimerem,exprimerent,exprimas,exprimente,exprimatur,expresserim,exprimebat,expressae,exprimit,exprimitur,exprimere,expressus,expressum,exprimantur,exprimendus,exprimentibus,exprimito,expressas,exprimitis,expressa,exprimitos,exprimentes,exprimeret,expressit,expresserat,expressis,expressero,expresso,exprimentem,exprimendam,exprimam,expresserant,expressimus,exprimentia,exprimi	Tac,Person,Aspect,InflClass[nominal],Mood,Number,VerbForm,Case,InflClass,Voice,Gender,Tense
+quin	PART	quin	13	Polarity=Neg|PronType=Rel		
+ulterior	ADJ	ulterior,ulteriora,ulteriore,ulteriorem,ulteriores,ulteriori,ulterioribus,ulterioris	62	Case=Abl,Acc,Gen,Nom|Gender=Fem,Masc,Neut|Number=Plur,Sing	ulterius	InflClass,Degree
+nimium	ADJ	nimium	263	Form=Adverbial		
+digne	ADJ	digne,dignius	16	Degree=Cmp|Form=Adverbial		
+propere	ADV	propere	61	_		
+inuenio	VERB	inueniantur,inueniens,inuenimur	8	Aspect=Imp|Case=Nom|Gender=Masc|InflClass[nominal]=IndEurI|Lilaflcat=LatI|Mood=Ind,Sub|Number=Plur,Sing|Person=1,3|Tense=Pres|TraditionalMood=Indicativus,Participium,Subiunctivus|TraditionalTense=Praesens|VerbForm=Part|Voice=Act,Pass	inueniat,inuenta,inuentus,inuenieris,inuenerant,inueniret,inuenire,inueniunt,inuenientur,inueniare,inuentorum,inuenere,inuenerim,inueniebant,inuenis,inuenias,inueniendis,inuenisse,inuenissent,inueniant,inuentura,inueniet,inuenerat,inuenirem,inueniamus,inuenior,inueniendum,inuenitis,inueniretur,inuentas,inuenitur,inueni,inuentis,inueneram,inueniendus,inuenerint,inuenerunt,inueneritis,inuenturam,inuenturis,inuentu,inueniebatur,inuenientis,inuenies,inuento,inueniemus,inuenio,inueniebantur,inuenero,inuenit,inueneris,inuenientibus,inuente,inuenturum,inuenturos,inuentae,inueniuntur,inuenistis,inuentos,inuenientes,inuenirent,inuenisset,inuenires,inuenietis,inuenissem,inuenerit,inuentam,inueniatur,inueniar,inueniendam,inueniri,inueniundo,esset,inueniebat,inuenirentur,inuenietur,inueniebam,inueniatis,inuentum,inueniam,inuenireris,inueniendi,inuenti,inuenienda,inuenimus,inuenisti,inuenient	Tac,InflClass
+contingo	VERB	contingenter	2	Form=Adverbial|TraditionalMood=Participium|TraditionalTense=Praesens	contingerent,contigerint,contingas,contingens,contacta,contingunt,contingit,contactos,continge,contingenti,continguntur,contigerat,contingam,contingeres,contigisset,contigerunt,contingentem,contingo,contingat,contingentium,contingant,contigerant,contingor,contingebant,contigero,contigisse,contingimus,contactas,contingentes,contingentia,contingis,contigisses,contigisti,continget,contingentibus,contacto,contigerit,contigere,contingentis,contactis,contigimus,contingent,contactus,contigit,contigissent,contingebat,contingere,contingeret,contacti,contingi,contactum,contingendam,contingente	Aspect,Person,InflClass[nominal],Mood,Number,VerbForm,Case,InflClass,Voice,Gender,Tense
+coram	ADP	coram	74	AdpType=Prep		
+quidem	PART	quidem	3956	_		
+satis	ADJ	sat,sati,satis	1382	Form=Adverbial	satius,satiu	Number,Case,Gender,InflClass,Degree
+iamdudum	ADV	iamdudum	44	Compound=Yes		
+agedum	INTJ	age,agedum	45	_		
+septem	DET	septem,uii	125	Number=Plur,Plural|NumForm=Word|NumType=Card		
+scio	VERB	sciebatur,sciendam,sciendi,sciendo,scientur,scita,scitae,scitam,scitarum,scitas,scitorum,sciuimus,sciuntur	26	Aspect=Imp,Perf,Prosp|Case=Abl,Acc,Dat,Gen,Nom|Gender=Fem,Neut|InflClass[nominal]=IndEurA,IndEurO|Lilaflcat=LatI|Mood=Ind|Number=Plur,Sing|Person=1,3|Tense=Fut,Past,Pres|TraditionalMood=Gerundium,Gerundivum,Indicativus,Participium|TraditionalTense=Futurum,Imperfectum,Perfectum,Praesens|VerbForm=Part|Voice=Act,Pass	scibam,scientes,sciui,sciet,scisse,scientem,sciebat,scibant,sciemus,scierimus,sciri,scitur,scies,scitote,scimus,scisti,scieris,scires,scierint,scin,scibit,sciturus,sciebam,scibis,sciret,sci,scientis,sciente,sciatur,scio,scitis,sciero,scire,scitum,scierunt,scirent,scietis,sciuerit,scirem,sciit,scis,scient,sciam,sciretis,sciuit,sciatis,scissent,scibitur,sciturum,sciebas,scito,scierit,sciat,scibat,sciretur,sciunt,scibo,scias,sciendum,sciens,sciamus,sciebamus,scimu,scit,sciant,scisset,scientibus,scibas,sciebant	Tac,InflClass
+tarde	ADJ	tarde,tardissime,tardius	102	AdvType=Tim|Degree=Abs,Cmp|Form=Adverbial		
+ultra	PRON	ulterius,ultimo,ultra	200	AdvType=Loc|Degree=Abs,Cmp|Form=Adverbial		
+ubique	PRON	ubique	154	AdvType=Loc|Form=Adverbial,Emp|PronType=Rel		
+quoniam	SCONJ	quoniam	899	Compound=Yes|PronType=Rel		
+una	DET	una	293	Form=Adverbial|NumType=Card|NumValue=1|PronType=Ind		
+breuis	ADJ	breuissime	1	Degree=Abs|Form=Adverbial	breues,breuissimae,breuissimi,breuissimum,breuissima,breuior,breuiore,breue,breuiora,breuibus,breuissimis,breui,breuem,breuissimus,breuioribus,breuissimo,breuis,breuissimam,breuius,breuiorem,breuiores,breuia	Number,Case,Gender,InflClass
+utrumne	ADV	utrumne	29	PronType=Int		
+heu	INTJ	heu,heus	157	_		
+quondam	ADV	quondam	330	AdvType=Tim|PronType=Ind,Rel		
+fortiter	ADJ	fortissime,fortiter,fortius	197	Degree=Abs,Cmp|Form=Adverbial		
+male	ADJ	male,peius,pessime,pessume	631	Degree=Abs,Cmp|Form=Adverbial		
+uix	ADV	uix	639	_		
+iterum	PART	iterum	426	AdvType=Tim|Degree=Cmp		
+quia	SCONJ	quia	4037	Gender=Fem|PronType=Rel		
+equidem	PART	equidem	301	Form=Emp		
+exhaurio	VERB	exhaurienda	2	Aspect=Prosp|Case=Acc|Gender=Neut|InflClass[nominal]=IndEurO|Lilaflcat=LatI|Number=Plur|TraditionalMood=Gerundivum|VerbForm=Part|Voice=Pass	exhauritur,exhausti,exhausit,exhauriuntur,exhausto,exhauriendas,exhauriatur,exhauserit,exhaustam,exhausisse,exhauriret,exhausi,exhausisset,exhaustus,exhauserimus,exhausissetis,exhauriet,exhausta,exhauriendam,exhaurietur,exhaustae,exhaustas,exhausurus,exhauriebas,exhaustis,exhauriant,exhaustum,exhauriebat,exhaurire,exhauriendum,exhauriunt,exhauriri,exhauseras,exhaustos,exhauserat,exhaurit,exhausturos,exhauserim	Tac,Person,TraditionalTense,Mood,InflClass,Tense
+nempe	PART	nempe	7	Form=Emp		
+praeter	ADP	praeter,preter	730	AdpType=Prep		
+repente	ADJ	repente	284	Form=Adverbial		
+custodio	VERB	custodiendo,custodiens,custodiuimus	3	Aspect=Imp,Perf,Prosp|Case=Abl,Nom|Gender=Masc,Neut|InflClass[nominal]=IndEurI,IndEurO|Lilaflcat=LatI|Mood=Ind|Number=Plur,Sing|Person=1|Tense=Past|TraditionalMood=Gerundium,Indicativus,Participium|TraditionalTense=Perfectum,Praesens|VerbForm=Part|Voice=Act,Pass	custodiantur,custoditus,custodiet,custodiant,custodite,custodiri,custodienda,custodient,custodiuntur,custodiat,custoditis,custodiendum,custodiunt,custodiendus,custodis,custodienti,custodiam,custodi,custodirent,custodiebam,custodio,custodiendi,custoditur,custodibitur,custodiebant,custodit,custodientem,custodierit,custoditum,custodiuit,custodiendam,custodiebatur,custodita,custodibant,custodiatur,custodientium,custodias,custodirentur,custodiendae,custodire,custodiendos	InflClass
+hodie	NOUN	hodie	333	AdvType=Tim|Compound=Yes|Form=Adverbial		
+paulum	ADJ	paullum,paulum	114	Form=Adverbial|Gender=Fem		
+dum	SCONJ	dum,nec	1841	_		
+lente	ADJ	lente,lentius	24	Degree=Cmp|Form=Adverbial		
+alternis	ADV	alternis	25	_		
+quot	DET	quot	231	NumType=Card|PronType=Ind,Int,Rel|Reduplication=NumType:Dist		
+intus	PRON	intu,intus	192	Form=Adverbial		
+decem	DET	decem	184	Number=Plur,Plural|NumForm=Word|NumType=Card		
+eheu	INTJ	eheu	24	_		
+perfide	ADV	perfide	2	_		
+incassum	ADV	incassum	17	_		
+undique	PRON	undique	359	AdvType=Loc|Form=Adverbial,Emp|PronType=Ind		
+antequam	SCONJ	<ante>quam,antequam	207	Compound=Yes|PronType=Rel		
+funditus	NOUN	funditus	79	Form=Adverbial		
+nam	PART	nam,namque	4124	_		
+prae	ADP	prae,pre	107	AdpType=Prep		
+modeste	ADJ	modeste,modestissime,modestissume,modestius	32	Degree=Abs,Cmp|Form=Adverbial		
+forte	ADJ	fort,forte	663	Form=Adverbial|Gender=Masc		
+posthac	DET	posthac	83	Form=Adverbial		
+interea	DET	interea	288	AdvType=Tim|Compound=Yes|Form=Adverbial		
+extra	ADP	extra	403	AdpType=Prep|Gender=Neut		
+dummodo	SCONJ	dummodo	65	Compound=Yes		
+impie	ADJ	impie,inpie	16	Form=Adverbial		
+statim	VERB	statim	556	AdvType=Tim|ExtPos=SCONJ|Form=Adverbial|VerbForm=Part		
+forsan	NOUN	forsan	30	Compound=Yes|Form=Adverbial		
+mille	DET	mill,millies	2	Number=Plural|NumForm=Word|NumType=Card	millibus,milium,mille,milli,millia,millium,milia,milibus	NumValue,Case,Gender,InflClass
+quatenus	PRON	quatenus	12	Compound=Yes|Form=Adverbial|PronType=Int		
+expedio	VERB	expedientissimum,expeditam,expeditius	4	Aspect=Imp,Perf|Case=Acc,Nom|Degree=Abs,Cmp|Gender=Fem,Neut|InflClass[nominal]=IndEurA,IndEurI,IndEurX|Lilaflcat=LatI|Number=Sing|TraditionalMood=Participium|TraditionalTense=Perfectum,Praesens|VerbForm=Part|Voice=Act,Pass	expedisses,expediuit,expediti,expediatur,expedito,expediamus,expediri,expediendam,expedienda,expedies,expeditas,expediam,expedierint,expediret,expedio,expediui,expediens,expedietur,expediit,expedientis,expeditum,expedit,expediat,expediere,expedientes,expedite,expedior,expedi,expediebant,expeditis,expedias,expedita,expedisset,expediebat,expedire,expediuntur,expedierit,expediemus,expediunt,expedient,expedissem,expedierat,expediendae,expediet	Tense,Person,InflClass,Mood
+olim	ADV	olim	341	AdvType=Tim		
+eo	DET	eo	604	AdvType=Loc|Form=Adverbial|PronType=Dem		
+quantulum	ADV	quantulum	8	NumType=Card|PronType=Int		
+quominus	SCONJ	quominu,quominus	54	Compound=Yes		
+diuido	VERB	diuisim	1	Form=Adverbial|TraditionalMood=Participium|TraditionalTense=Perfectum	diuidat,diuidendis,diuisit,diuidentes,diuisis,diuido,diuidentem,diuidar,diuidunt,diuidant,diuidenti,diuisum,diuisae,diuidebant,diuiserit,diuidamus,diuidite,diuiduntur,diuidet,diuidam,diuideretur,diuidito,diuidundo,diuidendus,diuisisse,diuidebat,diuidentis,diuisas,diuisurum,diuidis,diuidetur,diuidens,diuiserat,diuides,diuidatur,diuidere,diuisere,diuidimus,diuidenda,diuidatis,diuidantur,diuisi,diuidit,diuidendam,diuisse,diuisos,diuiderentur,diuiso,diuisus,diuidi,diuiderent,diuisimus,diuisa,diuidente,diuide,diuiseris,diuidebas,diuidentur,diuidebatur,diuidendo,diuisam,diuiditur,diuideret,diuidendum,diuisissent,diuidendas	Tac,Aspect,Person,InflClass[nominal],Mood,Number,VerbForm,Case,InflClass,Voice,Gender,Tense
+igitur	PART	igitur	3488	_		
+utrum	SCONJ	utrum	14	PronType=Con		
+tamquam	SCONJ	tamquam,tanquam	956	Compound=Yes|ConjType=Cmpr|PronType=Rel		
+dubie	ADV	dubie	50	_		
+quamquam	SCONJ	quamquam,quanquam	717	Compound=Yes|Form=Emp|Gender=Neut|PronType=Rel		
+libenter	VERB	libenter,libentissime,libentius,lubenter,lubentius	238	Degree=Abs,Cmp|Form=Adverbial|VerbForm=Part		
+tantum	DET	intantum	1	Form=Adverbial|NumType=Card|PronType=Dem	tantum	Number,Case,Gender,InflClass
+uelut	SCONJ	uelud,uelut,ueluti	589	Compound=Yes|ConjType=Cmpr|Gender=Neut|PronType=Rel		
+ita	DET	ita,itan	3618	ExtPos=SCONJ|Form=Adverbial|PronType=Dem		
+acriter	ADJ	acerrime,acerrume,acriter,acrius	175	Degree=Abs,Cmp|Form=Adverbial		
+trans	ADP	trans	91	AdpType=Prep		
+paulatim	ADJ	paulatim	208	Form=Adverbial		
+sane	ADJ	sane,sanius	269	Degree=Cmp|Form=Adverbial		
+iuxta	ADP	iuxta	101	AdpType=Prep		
+primum	ADJ	preimum,primum	1178	Degree=Abs|Form=Adverbial|NumType=Ord|NumValue=1		
+demum	ADP	demum	175	AdvType=Tim|Degree=Abs		
+donec	SCONJ	donec,donicum,donique	354	_		
+penes	ADP	pene,penes	109	AdpType=Prep		
+prout	SCONJ	prout	228	Compound=Yes|PronType=Rel		
+erga	ADP	erga	152	AdpType=Prep		
+sexaginta	DET	sexaginta	32	Number=Plural|NumForm=Word|NumType=Card		
+quando	PRON	quando	323	AdvType=Tim|Form=Adverbial|PronType=Int,Rel		
+usque	ADP	usque	732	_		
+illa	ADV	illa	11	AdvType=Loc|PronType=Dem		
+consentio	VERB	consentiendo,consentiendum	2	Aspect=Prosp|Case=Abl,Nom|Gender=Neut|InflClass[nominal]=IndEurO|Lilaflcat=LatI|Number=Sing|TraditionalMood=Gerundium,Gerundivum|VerbForm=Part|Voice=Pass	consentiamus,consentiunt,consenserunt,consentias,consentiebant,consenserat,consensimus,consensere,consentiant,consentiente,consensisset,consenserint,consentientibus,consentiret,consensistis,consensisse,consentirent,consentire,consentite,consentimus,consenserit,consentiat,consentiet,consensissent,consensit,consentitur,consentit,consentientem	Person,TraditionalTense,Mood,InflClass,Tense
+primo	ADJ	primo	489	Degree=Abs|Form=Adverbial|NumType=Ord|NumValue=1		
+falso	ADJ	falso	61	Form=Adverbial		
+ducenti	DET	ducentis	23	Case=Abl|Gender=Fem,Masc,Neut|Number=Plur|NumType=Card	ducenti,ducenta,ducentas,ducentos,ducentorum,ccxxc	InflClass,NumForm
+ferme	ADV	ferme	63	_		
+quippe	PRON	quipp,quippe	123	Form=Adverbial,Emp|PronType=Rel		
+infra	ADP	infra	88	AdpType=Prep		
+quinque	DET	quinque	162	Number=Plural|NumForm=Word|NumType=Card		
+impune	ADJ	impoene,impune,impunius,inpoene,inpune	149	Degree=Cmp|Form=Adverbial		
+intra	ADP	intra	341	AdpType=Prep		
+publice	ADJ	publice	221	Form=Adverbial		
+centum	DET	centum,cl,cxxc	217	Number=Plur,Plural|NumForm=Word|NumType=Card|NumValue=100	centena	Case,Gender,InflClass
+contra	PRON	contra	509	Form=Adverbial|Gender=Fem,Masc,Neut		
+deinde	PRON	dein,deinde	1466	AdvType=Loc|Compound=Yes|Form=Adverbial		
+paulo	ADJ	paullo,paulo	396	Form=Adverbial		
+ante	PRON	ante	1060	AdvType=Tim|Form=Adverbial		
+passim	VERB	passim	139	AdvType=Loc|Form=Adverbial|VerbForm=Part		
+quatenus	SCONJ	quatenus	29	Compound=Yes|PronType=Rel		
+adducte	ADV	adductius	3	Degree=Cmp		
+protinus	PRON	protenus,protinus	229	AdvType=Loc|Compound=Yes|Form=Adverbial		
+illinc	DET	illim,illinc	109	AdvType=Loc|Form=Adverbial|PronType=Dem		
+porro	ADV	porro	227	_		
+facile	ADJ	facilius,facillime,facillume	265	Degree=Abs,Cmp|Form=Adverbial|Gender=Masc	facile	Number,Case,InflClass
+enimuero	PART	enimuero	45	Compound=Yes		
+adeo	PRON	adeo	537	AdvType=Loc|Compound=Yes|Form=Adverbial		
+ergo	PRON	ergo	1213	AdvType=Loc|Form=Adverbial		
+patienter	VERB	patienter,patientissime,patientius	37	Degree=Abs,Cmp|Form=Adverbial		
+plerumque	DET	plerumque,plerunque	201	Degree=Cmp|Form=Adverbial,Emp		
+sicut	SCONJ	sicut,sicuti	3432	Compound=Yes|ConjType=Cmpr|Polarity=Neg|PronType=Rel		
+an	CCONJ	an	9	_		
+nonnihil	PRON	nonnihil	4	PronType=Ind		
+aduersus	ADP	aduersos,aduersum,aduersus,aduorsum,aduorsus	541	AdpType=Prep|VerbForm=Part		
+aegre	ADJ	aegerrime,aegerrume,aegre,aegrius	119	Degree=Abs,Cmp|Form=Adverbial		
+illico	ADV	ilico,illico	41	Compound=Yes		
+auide	ADJ	auide,auidissime,auidius	40	Degree=Abs,Cmp|Form=Adverbial		
+proinde	PRON	proin,proinde	206	AdvType=Tim|Compound=Yes|Form=Adverbial		
+ociter	ADV	ocissime,ocissume,ocius	51	Degree=Abs,Cmp		
+quocumque	PRON	quocumque,quocunque	6	AdvType=Loc|Form=Adverbial,Emp|PronType=Rel		
+multo	DET	multo	541	Form=Adverbial|NumType=Card|PronType=Ind		
+necesse	ADJ	necessu,necessum	15	_	necesse	Number,Case,Gender,InflClass
+umquam	ADV	umquam,unquam	775	AdvType=Tim|Compound=Yes		
+igitur	CCONJ	igitur	1299	Gender=Neut		
+odi	VERB	odire	4	Aspect=Imp|Lilaflcat=LatI|TraditionalMood=Infinitivus|TraditionalTense=Praesens|VerbForm=Inf|Voice=Act	osurus,odi,odit,oderint,oderant,oderis,odissem,odero,odisset,oderat,oderit,odiuit,oderitis,odisses,oderas,oderunt,odisti,oderam,odissent,odimus,oderimus,osa,odisse,odistis,oderim,oderamus,odere	Person,InflClass[nominal],Mood,Number,Case,Gender,InflClass,Tense
+hac	DET	hac	97	Form=Adverbial		
+qua	SCONJ	qua,quam	538	Gender=Fem|PronType=Rel		
+conuenio	VERB	conuenienti,conuenientia,conuenientibus,conuenientissimum	16	Aspect=Imp|Case=Abl,Acc,Nom|Degree=Abs|Gender=Fem,Masc,Neut|InflClass[nominal]=IndEurI|Lilaflcat=LatI|Number=Plur,Sing|TraditionalMood=Participium|TraditionalTense=Praesens|VerbForm=Part|Voice=Act	conuenere,conuenias,conueniebat,conuento,conuenerat,conuenturam,conueniunt,conueniant,conuenimus,conueniret,conuenitur,conuenistis,conueniri,conuenientis,conuenire,conueniendi,conuenisti,conuentis,conuenienda,coueniatis,conuenite,conuenibo,conuentura,conueniam,conuenissent,conuenerant,conuenisset,conuentum,conueniet,conueniundo,conuenies,conuenissemus,conueni,conueniatur,conuenisse,conuenit,conueniens,conuenerint,conuenientem,conuenero,conuentam,conuenerit,conuenient,conueniundi,conueniat,conuenerunt,conuenientior,conuenientes,conueniente,conueniebant,conuenirent	Tac,Person,Mood,InflClass,Tense
+pie	ADJ	pie,piissime	24	Degree=Abs|Form=Adverbial		
+fortasse	ADV	fortasse,fortassis	308	_		
+tuto	VERB	tutius,tuto	73	Degree=Cmp|Form=Adverbial	tutanda,tutantur	TraditionalMood,Aspect,InflClass[nominal],Person,Mood,Number,VerbForm,Case,Gender,InflClass,Voice,Tense
+quare	NOUN	quare	303	Compound=Yes|Form=Adverbial|PronType=Int,Rel		
+modice	ADJ	modice	30	Form=Adverbial		
+alte	VERB	alte,altissime,altius	177	Degree=Abs,Cmp|Form=Adverbial|VerbForm=Part		
+totiens	ADV	totiens,toties	187	_		
+citra	ADP	citra	61	AdpType=Prep		
+dirum	ADV	dirum	3	_		
+inuite	ADV	inuite	2	_		
+fas	NOUN	fas	223	Gender=Fem,Masc,Neut		
+posterga	ADV	posterga	4	_		
+ah	INTJ	a,ah	120	_		
+quotiens	ADV	quotiens	104	NumType=Mult|PronType=Int,Rel		
+aperio	VERB	apertam,aperte,aperti	5	Aspect=Perf|Case=Acc,Nom|Form=Adverbial|Gender=Fem,Masc|InflClass[nominal]=IndEurA,IndEurO|Lilaflcat=LatI|Number=Plur,Sing|TraditionalMood=Participium|TraditionalTense=Perfectum|VerbForm=Part|Voice=Pass	aperit,aperi,aperuisse,aperiebatur,aperimur,aperiebat,aperientem,aperuerat,aperiendo,aperta,aperitur,apertae,aperiente,aperientur,aperire,aperirem,aperuerunt,apertos,aperiundum,aperito,apertis,aperuero,aperiat,aperiam,aperiunt,aperiatur,aperiri,aperite,aperuerimus,aperietur,aperietis,apertus,aperuit,aperienda,aperuisti,aperiet,aperiantur,aperiebant,apertum,aperiuntur,aperirentur,aperui,aperirent,aperuisset,aperires,aperiende,aperiendum,aperuere,aperiret,apertas,aperto	Tac,Person,Mood,InflClass,Tense
+seruio	VERB	seruientes,seruierunt	2	Aspect=Imp,Perf|Case=Nom|Gender=Masc|InflClass[nominal]=IndEurI|Lilaflcat=LatI|Mood=Ind|Number=Plur|Person=3|Tense=Past|TraditionalMood=Indicativus,Participium|TraditionalTense=Perfectum,Praesens|VerbForm=Part|Voice=Act	seruis,seruiundum,seruiturus,seruissem,seruiturum,seruiendo,seruientem,seruio,seruierant,seruitis,seruiatur,seruierit,seruitura,seruiatis,seruias,seruiens,seruiebant,seruimus,seruit,seruiendum,seruiet,seruiat,seruierat,seruies,seruient,seruiamus,seruitum,seruitur,serui,seruibas,seruiendi,seruiam,seruirem,seruiuisti,seruiui,seruire,seruituri,seruiebat,seruiundi,seruiunt,seruientis,seruirent,seruientibus,seruires,seruisset,seruiret,seruisse,seruiant,seruientium	InflClass
+profecto	VERB	profecto	274	Form=Adverbial|VerbForm=Part		
+immo	ADP	immo,ymmo,ymo	427	Degree=Abs		
+namque	PART	namque,nanque	407	Form=Emp		
+parumper	ADV	parumper	28	_		
+intrepide	ADV	intrepide	4	_		
+potis	ADJ	pote,poti,potis	47	_	potius,potiori,potissimam,potiorem,potissimis,potissimei,potissumus,potissumum,potissima,potiora,potissimos,potissimum,potiore,potioribus,potior,potiores	Degree,Number,Case,Gender,InflClass
+ergo	CCONJ	ergo	1473	Gender=Masc		
+sin	SCONJ	sin	268	Polarity=Neg		
+pro	INTJ	pro,proh	78	_		
+ubicumque	SCONJ	ubicumque,ubicunque,ubiquomque	50	PronType=Rel		
+clare	ADJ	clare,clarius	37	Degree=Cmp|Form=Adverbial		
+deterior	ADJ	deteriora,deteriore,deteriorem,deteriores,deterioribus,deterioris,deterius,deterrima,deterrimae,deterrimarum,deterrimas,deterrime,deterrimi,deterrimis,deterrimo,deterrimos,deterrimum,deterrimus	113	Case=Abl,Acc,Dat,Gen,Nom,Voc|Gender=Fem,Masc,Neut|Number=Plur,Sing	deterior	InflClass,Degree
+neue	CCONJ	neu,neue	141	_		
+ob	ADP	ob	889	AdpType=Prep		
+adu	ADV	quid	1	PronType=Int		
+quocumque	SCONJ	quocumque	75	PronType=Rel		
+quo	SCONJ	quo	1035	PronType=Rel		
+aliter	DET	aliter	430	Form=Adverbial|PronType=Con		
+palam	ADV	palam	292	_		
+scilicet	CCONJ	scilicet	930	Compound=Yes|ExtPos=ADV		
+manto	NOUN	manto,mantus	6	Gender=Fem|NameType=Giv|Variant=Greek		
+impense	ADV	impense,impensius,inpense,inpensius	26	Degree=Cmp		
+ubinam	PRON	ubinam	12	Form=Adverbial|PronType=Int		
+attamen	ADV	attamen	6	_		
+quantum	SCONJ	inquantum,quantum	315	ConjType=Cmpr|NumType=Card|PronType=Rel		
+denique	PRON	denique	799	AdvType=Tim|Form=Adverbial,Emp		
+nuper	ADV	nuper,nuperrime	303	AdvType=Tim|Compound=Yes|Degree=Abs		
+clementer	VERB	clementer,clementissime,clementius	20	Degree=Abs,Cmp|Form=Adverbial		
+sex	DET	sex	136	Number=Plural|NumForm=Word|NumType=Card|NumValue=6|Proper=Yes		
+recens	ADV	recens	20	AdvType=Tim		
+praecipue	ADJ	praecipue,precipue	230	Form=Adverbial		
+aliquanto	DET	aliquanto	68	Compound=Yes|Form=Adverbial|NumType=Card|PronType=Ind		
+interior	ADJ	interior,interiore,intima,intimam,intimas,intimi,intimis,intimo,intimos,intimum,intimus,intumo	91	Case=Abl,Acc,Dat,Nom,Voc|Gender=Fem,Masc,Neut|Number=Plur,Sing	interiorem,interiori,interiora,interiorum,interiores,interioribus,interioris,interius	InflClass,Degree
+simpliciter	ADJ	simplicissime,simpliciter,simplicius	240	Degree=Abs,Cmp|Form=Adverbial		
+antique	ADV	antique,antiquius	4	Degree=Cmp		
+cominus	ADV	cominus	4	_		
+eminus	ADV	eminus	53	_		
+definio	VERB	definiens,definientes,definitam,definiuisset,diffiniunt	5	Aspect=Imp,Perf|Case=Acc,Nom|Gender=Fem,Masc|InflClass[nominal]=IndEurA,IndEurI|Lilaflcat=LatI|Mood=Ind,Sub|Number=Plur,Sing|Person=3|Tense=Pqp,Pres|TraditionalMood=Indicativus,Participium,Subiunctivus|TraditionalTense=Perfectum,Plusquamperfectum,Praesens|VerbForm=Part|Voice=Act,Pass	definiat,definitur,definis,definita,definire,definias,definiri,definiunt,definio,definiant,definisset,diffinientes,definitum,definiam,definit,definitus,definiebant,definiendi,definiuntur,definies	InflClass
+quasi	SCONJ	quasi	1381	Compound=Yes|ConjType=Cmpr|PronType=Rel		
+longe	ADJ	longe,longissime,longissume,longius	757	AdvType=Loc|Degree=Abs,Cmp|Form=Adverbial		
+impatienter	ADV	impatienter,impatientissime,impatientius,inpatienter	6	Degree=Abs,Cmp		
+efficaciter	ADJ	efficacissime,efficaciter,efficacius	22	Degree=Abs,Cmp|Form=Adverbial		
+temere	ADV	temere	155	_		
+fortuito	ADJ	fortuito	15	Form=Adverbial		
+consulto	VERB	consulto	33	Form=Adverbial|VerbForm=Part	consultabant,consultatum,consultas,consultat,consultantibus,consultanti,consultantium,consultabat,consultauit,consultauisse,consultauerit,consultandum,consultarent,consultandi,consultare,consultetur,consultando,consultante,consultaret,consultant,consultans,consultent,consultauerat	TraditionalMood,Tac,Person,Aspect,InflClass[nominal],Mood,TraditionalTense,Number,Case,InflClass,Voice,Gender,Tense
+priuatim	VERB	priuatim	80	Form=Adverbial		
+solum	DET	solum	1269	Form=Adverbial|PronType=Con		
+punio	VERB	puniatur,puniente,punientes,punientis	5	Aspect=Imp|Case=Abl,Gen,Nom|Gender=Masc|InflClass[nominal]=IndEurI|Lilaflcat=LatI|Mood=Sub|Number=Plur,Sing|Person=3|Tense=Pres|TraditionalMood=Participium,Subiunctivus|TraditionalTense=Praesens|VerbForm=Part|Voice=Act,Pass	puniendi,punito,punitus,puniit,punienti,puniantur,punirentur,punitos,puniat,punisti,punienda,puniendos,punientem,puniretur,punit,puniunt,puniendus,puniendum,punior,punita,puni,punientur,puniri,puniendo,punitum,punitis,punierim,puniuit,punitur,puniendam,puniendorum,puniebant,puniuissent,punire,puniui,puniti,puniuntur,puniebat,puniret	Tac,InflClass
+autem	PART	autem	5472	_		
+iampri	ADV	iam	99	AdvType=Tim		
+dem	ADV	pridem	99	_		
+uero	ADJ	uero,uerum	1426	Disambiguation=sed|Form=Adverbial		
+uiritim	NOUN	uiritim	24	Form=Adverbial		
+subuenio	VERB	subueniamus,subueniant,subueniendi	3	Aspect=Imp,Prosp|Case=Gen|Gender=Neut|InflClass[nominal]=IndEurO|Lilaflcat=LatI|Mood=Sub|Number=Plur,Sing|Person=1,3|Tense=Pres|TraditionalMood=Gerundium,Subiunctivus|TraditionalTense=Praesens|VerbForm=Part|Voice=Act,Pass	subuenias,subuenisti,subueniretur,subueniunt,subueniebat,subuenisse,subuenitur,subuenerit,subuenisset,subueniremus,subuenturos,subueniens,subuenientes,subueniebatur,subuenite,subueniendum,subuenit,subueniundum,subueniet,subueniret,subuenere,subueniat,subuenire,subueniri,subueniente,subuenitis,subuenerint,subuenientem,subuentum,subueni,subuenissent,subuenirent,subueniatis,subueniatur,subueniebant	Tac,InflClass
+aedifico	VERB	edificare	1	Aspect=Imp|Compound=Yes|TraditionalMood=Infinitivus|TraditionalTense=Praesens|VerbForm=Inf|Voice=Act	aedificandae,aedificaturus,aedificatus,aedificarim,aedificet,aedificant,aedificante,aedificent,aedificandam,aedificabis,aedificatur,aedificanda,aedificari,aedificabatur,aedificando,aedificandum,aedificabo,hedificabo,aedificatae,aedificaris,aedificati,hedificata,aedificandi,aedifices,aedificare,aedificas,aedifico,aedificatam,aedificato,aedificata,aedificasset,aedificarint,aedificat,aedificandas,aedificaueris,aedificaui,aedificatum,aedificaueritis,aedificanti	Tac,Person,InflClass[nominal],Mood,Number,Case,InflClass,Gender,Tense
+diligenter	VERB	diligenter,diligentissime,diligentissume,diligentius	272	Degree=Abs,Cmp|Form=Adverbial|VerbForm=Part		
+aduenio	VERB	aduenerint,aduenirent	3	Aspect=Imp,Perf|Lilaflcat=LatI|Mood=Sub|Number=Plur|Person=3|Tense=Past|TraditionalMood=Subiunctivus|TraditionalTense=Imperfectum,Perfectum|Voice=Act	aduenissent,aduenisti,adueniens,aduenio,aduenissem,aduenimus,aduenturam,aduenientes,adueniunt,adueniente,aduenero,aduenerunt,adueniat,aduenerit,aduenisse,adueniam,adueniet,aduenerant,aduenientibus,adueneram,aduenientem,adueni,aduenis,adueniebant,adueneris,adueniret,aduenit,aduenerat,aduenias,aduenturum,aduenire,aduenere,aduenienti	Tac,InflClass[nominal],VerbForm,Case,InflClass,Gender
+negligenter	VERB	neclegenter,neglegenter,neglegentissime,neglegentius,negligenter	26	Degree=Abs,Cmp|Form=Adverbial		
+exquisite	VERB	exquisitius	2	Degree=Cmp|Form=Adverbial		
+admodum	NOUN	admodum	90	Compound=Yes|Form=Adverbial		
+alibi	PRON	alibi	63	AdvType=Loc|Compound=Yes|Form=Adverbial		
+firme	ADJ	firme,firmissime,firmius	7	Degree=Abs,Cmp|Form=Adverbial		
+quanto	PRON	quanto,quantoque	364	Form=Adverbial|NumType=Card|PronType=Int,Rel		
+tanto	DET	tanto	370	Form=Adverbial|PronType=Dem		
+utiliter	ADJ	utiliter	16	Form=Adverbial	utilius	Number,Case,Gender,InflClass,Degree
+effuse	ADV	effuse,effusissime,effusius	22	Degree=Abs,Cmp		
+inuicem	PRON	inuicem	188	Compound=Yes|Form=Adverbial|Number=Plur|PronType=Rcp		
+presse	VERB	presse,pressius	7	Degree=Cmp|Form=Adverbial		
+utrum	DET	utrum	426	Form=Adverbial|PronType=Con,Int		
+ni	SCONJ	ni	242	Polarity=Neg		
+fulcio	VERB	fulcietur	1	Aspect=Imp|Lilaflcat=LatI|Mood=Ind|Number=Sing|Person=3|Tense=Fut|TraditionalMood=Indicativus|TraditionalTense=Futurum|Voice=Pass	fultum,fulti,fulciens,fulcite,fulciebant,fultam,fulta,fulciamus,fulcias,fulsit,fulcitur,fulcit,fulcimur,fulcire,fulserit,fulciri,fultus,fulto,fulcio,fultos,fulsistis	InflClass[nominal],VerbForm,Case,Gender,InflClass
+communiter	ADJ	communissime,communiter,communius,comuniter	75	Degree=Abs,Cmp|Form=Adverbial		
+directe	VERB	derecte,directe	32	Form=Adverbial|VerbForm=Part		
+melius	ADJ	optime	7	Degree=Abs|Form=Adverbial	melius	Number,Case,Gender,InflClass
+conuenienter	VERB	conuenienter,conuenientissime,conuenientius	85	Degree=Abs,Cmp|Form=Adverbial|Lilaflcat=LatI		
+propter	ADP	propter	1923	AdpType=Prep|Gender=Neut		
+item	PART	item,itemque	889	_		
+infra	PRON	inferius,infra	87	Degree=Cmp|Form=Adverbial		
+principaliter	ADJ	principalissime,principaliter,principalius	69	Degree=Abs,Cmp|Form=Adverbial		
+esse	NOUN	ens,esse	1417	_		
+antonomastice	ADJ	antonomastice	1	Form=Adverbial		
+in+quantum	SCONJ	inquantum	531	_		
+in+tantum	ADV	intantum	4	_		
+erudio	VERB	erudiendum,erudiret,eruditam	3	Aspect=Imp,Perf,Prosp|Case=Acc|Gender=Fem,Neut|InflClass[nominal]=IndEurA,IndEurO|Lilaflcat=LatI|Mood=Sub|Number=Sing|Person=3|Tense=Past|TraditionalMood=Gerundium,Participium,Subiunctivus|TraditionalTense=Imperfectum,Perfectum|VerbForm=Part|Voice=Act,Pass	erudita,erudiri,erudire,erudias,erudiunt,erudienda,eruditi,erudiendus,erudiere,erudimur,erudiretur,erudiit,eruditum,erudiuit,erudiar,eruditius,eruditos,eruditur,eruditorum,erudierunt,erudibam,erudimus,erudiuntur,eruditus,eruditissimo,erudit	Tac,InflClass,Degree
+secundo	ADJ	secundo	72	Form=Adverbial|NumType=Ord|VerbForm=Part		
+assentio	VERB	assentiat,assentit,assentiunt	6	Aspect=Imp|Lilaflcat=LatI|Mood=Ind,Sub|Number=Plur,Sing|Person=3|Tense=Pres|TraditionalMood=Indicativus,Subiunctivus|TraditionalTense=Praesens|Voice=Act	assentientibus,adsensere,adsentire,adsentiant,adsenserunt,adsentiendi,adsensit,adsenserint,assentire	InflClass[nominal],VerbForm,Case,Gender,InflClass
+quomodo	NOUN	quomodo	266	Compound=Yes|Form=Adverbial|PronType=Int,Rel		
+tempto	VERB	tentandum	1	Aspect=Prosp|Case=Nom|Gender=Neut|InflClass[nominal]=IndEurO|Lilaflcat=LatI|Number=Sing|TraditionalMood=Gerundivum|VerbForm=Part|Voice=Pass	tentatur,temptabimus,tentetur,temptauit,tentauerit,temptanda,tentare,temptauerit,tentauerunt,tentauit,tentantis,temptatis	Person,TraditionalTense,Mood,InflClass,Tense
+huiusmodi	DET	huiuscemodi,huiusmodi	705	Compound=Yes|PronType=Dem		
+demonstratiue	ADJ	demonstratiue	2	Form=Adverbial		
+euidenter	VERB	euidenter,euidentissime,euidentius	28	Degree=Abs,Cmp|Form=Adverbial		
+puta	SCONJ	puta	42	ExtPos=ADV		
+omnino	DET	omnino	638	Form=Adverbial|PronType=Tot		
+subtiliter	ADJ	subtilissime,subtiliter,subtilius,suptiliter	24	Degree=Abs,Cmp|Form=Adverbial		
+plus	DET	plus,plusquam	19	Degree=Cmp|Form=Adverbial		
+multoque	DET	multoque	1	Form=Adverbial		
+perfecte	VERB	perfecte,perfectissime,perfectius	180	Degree=Abs,Cmp|Form=Adverbial|VerbForm=Part		
+diuinitus	ADJ	diuinitus	80	Form=Adverbial		
+manifeste	VERB	manifeste,manifestius	99	Degree=Cmp|Form=Adverbial		
+cottidie	NOUN	quotidie	9	Compound=Yes|Form=Adverbial		
+ii	DET	ii	187	Number=Plural|NumForm=Roman|NumType=Card		
+iob	NOUN	iob	49	Foreign=Yes|Gender=Masc|NameType=Giv|Number=Sing|OrigLang=hbo		
+forsitan	ADV	forsitan	166	Compound=Yes		
+ecce	PART	ecce	29	Form=Emp|PartType=Emp|PronType=Dem		
+solummodo	NOUN	solummodo	7	Compound=Yes|Form=Adverbial		
+impedio	VERB	impediantur,impediens,impedientis,impedietur	10	Aspect=Imp|Case=Gen,Nom|Gender=Fem,Neut|InflClass[nominal]=IndEurI|Lilaflcat=LatI|Mood=Ind,Sub|Number=Plur,Sing|Person=3|Tense=Fut,Pres|TraditionalMood=Indicativus,Participium,Subiunctivus|TraditionalTense=Futurum,Praesens|VerbForm=Part|Voice=Act,Pass	inpediat,inpedimur,inpeditus,inpedii,inpeditos,impediit,impediunt,inpedirentur,impedies,impediuerant,inpedissent,inpedient,impediretur,impeditos,impedierit,impedite,impediuerat,impediturus,impedirent,inpediebat,inpediet,impediat,impediebant,impediant,impedi,impediendae,inpedit,impeditum,impedimur,impeditura,impedisse,impediremur,indupedita,inpedietur,impediatur,impedit,impedito,impediendi,inpediant,impedituri,inpediare,inpedio,impediendum,impediendos,inpeditura,inpedire,inpeditas,impediebat,inpediente,impediendus,impediebantur,inpeditur,impedire,impediti,impeditur,impediar,inpediri,impediret,impedita,impedirentur,inpediunt,impediuntur,inpedienda,impediri,inpedierant,impediuit,impediente,impedientibus,impediet,inpediretur,indupediri,impedisset,impedior,impedio,inpedita,impeditas,impeditis,impediebamur,inpediuntur,impediam,impeditus,impediebatur,impedientem	Tac,InflClass
+siquidem	SCONJ	siquidem	2	Compound=Yes		
+naturaliter	ADJ	naturaliter	259	Form=Adverbial		
+fere	ADV	fere	338	_		
+tum	CCONJ	tum	40	_		
+uii	DET	uii	72	Number=Plural|NumForm=Roman|NumType=Card		
+magne	ADJ	maxime	166	Degree=Abs|Form=Adverbial		
+prouenio	VERB	proueniens,prouenientem,prouenirent,proueniret,prouenisse	23	Aspect=Imp,Perf|Case=Acc,Nom|Gender=Fem,Masc,Neut|InflClass[nominal]=IndEurI|Lilaflcat=LatI|Mood=Sub|Number=Plur,Sing|Person=3|Tense=Past|TraditionalMood=Infinitivus,Participium,Subiunctivus|TraditionalTense=Imperfectum,Perfectum,Praesens|VerbForm=Inf,Part|Voice=Act	prouentu,proueniat,prouenerit,prouenerint,prouenisset,proueniant,prouenit,prouenerat,prouenissent,proueni,prouenerunt,prouenire,proueniunt,proueniebant,prouenient,prouenerant,prouenere	InflClass
+uere	ADJ	uere,uerissime,uerissume,uerius	275	Degree=Abs,Cmp|Form=Adverbial		
+interdum	ADV	interdum	278	Compound=Yes		
+salubriter	ADJ	saluberrime,salubriter,salubrius	12	Degree=Abs,Cmp|Form=Adverbial		
+absque	ADP	absque,apsque	216	AdpType=Prep		
+desidero	VERB	desiderantius	1	Degree=Cmp|Form=Adverbial	desideret,desiderasses,desiderauere,desiderare,desideretur,desideraueris,desiderandum,desideratae,desideraui,desiderandi,desiderarent,desiderauerunt,desideratos,desiderata,desideremus,desiderantes,desideror,desideraretur,desiderantibus,desideraturo,desiderato,desiderabatur,desiderem,desiderari,desiderandus,desidero,desiderasti,desideratis,desiderantem,desideranda,desideraret,desiderate,desiderauerint,desiderarit,desiderarentur,desideratam,desiderarunt,desideraturus,desiderabat,desiderauit,desiderabis,desiderabitur,desiderabant,desideranti,desiderent,desideres,desiderando,desideratus,desiderabam,desiderabatis,desideretis,desiderauerit,desideras,desiderarat,desiderant,desiderabamus,desiderauerant,desideratur,desiderarem,desiderat,desidera,desideramus,desiderantur,desideratas,desideratum,desiderabit,desiderantis,desiderati,desideraturum,desiderans	TraditionalMood,Tac,Person,Aspect,TraditionalTense,Mood,InflClass[nominal],Number,VerbForm,Case,InflClass,Voice,Gender,Tense
+singulariter	ADJ	singulariter	20	Form=Adverbial		
+suauiter	ADJ	suauissime,suauiter,suauius	14	Degree=Abs,Cmp|Form=Adverbial		
+quando	SCONJ	quando	344	PronType=Rel		
+supra	PRON	superius,supra	861	AdvType=Loc|Degree=Cmp|Form=Adverbial		
+x	DET	x	106	Number=Plural|NumForm=Roman|NumType=Card		
+xi	DET	xi	24	Number=Plural|NumForm=Roman|NumType=Card		
+quantumcumque	PRON	quantumcumque	12	Form=Adverbial		
+plene	ADJ	plene,plenissime,plenius	32	Degree=Abs,Cmp|Form=Adverbial		
+qualitercumque	DET	qualitercumque	9	Form=Adverbial		
+uisibiliter	ADJ	uisibiliter	7	Form=Adverbial		
+uidelicet	CCONJ	uidelicet	128	Compound=Yes		
+consequor	VERB	consequenter	1	Form=Adverbial|TraditionalMood=Participium|TraditionalTense=Praesens	consequimur,consequar,consecuntur,consequare,consequatur,consequendam,consequentem,consequaris,consecuto,consequente,consequenda,consecuturum,consequamur,consequentes,consecutura,consequemur,consequemini,consequentur,consecutum,consecuti,consequebantur,consecutus,consequerentur,consecutos,consequebare,consequens,consecuta,consequendi,consequuntur,consequenti,consequeris,consequentis,consecuturi,consequitur,consequetur,consequi,consequendo,consecutae,consecuturus,consequentia,consecutis,consequantur,consequentibus,consequebatur,consequeretur,consequendum	Tac,Aspect,Person,InflClass[nominal],Mood,Number,VerbForm,Case,InflClass,Voice,Gender,Tense
+inuisibilis	ADJ	inuisibilius	1	Degree=Cmp|Form=Adverbial	inuisibiles,inuisibilibus,inuisibilis,inuisibilium,inuisibilia,inuisibilem,inuisibile	Number,Case,Gender,InflClass,Polarity
+utpote	SCONJ	utpote	90	Compound=Yes|ExtPos=SCONJ		
+ultere	ADJ	ulterius	90	Degree=Cmp|Form=Adverbial		
+obedio	VERB	obediat,obediendi,obediendo,obediendum,obediens,obediente,obedientem,obedientibus,obedimus,obedire,obediri,obedit,obedite,obeditur	41	Aspect=Imp,Prosp|Case=Abl,Acc,Dat,Gen,Nom|Gender=Fem,Masc,Neut|InflClass[nominal]=IndEurI,IndEurO|Lilaflcat=LatI|Mood=Imp,Ind,Sub|Number=Plur,Sing|Person=1,2,3|Tense=Pres|TraditionalMood=Gerundium,Gerundivum,Imperativus,Indicativus,Infinitivus,Participium,Subiunctivus|TraditionalTense=Praesens|VerbForm=Inf,Part|Voice=Act,Pass	oboediebant,oboedientem,oboediant,oboedientes,oboedirent,oboedire,oboedierint	InflClass
+mediocriter	ADJ	mediocriter	28	Form=Adverbial		
+quin	SCONJ	quin	577	Compound=Yes|Polarity=Neg|PronType=Rel		
+pote	ADJ	potissime,potius	22	Degree=Abs,Cmp|Form=Adverbial		
+supernaturaliter	ADJ	supernaturaliter	1	Form=Adverbial		
+inuisibiliter	ADJ	inuisibiliter	9	Form=Adverbial		
+prorsus	PRON	prorsus,prosus	80	AdvType=Loc|Form=Adverbial|VerbForm=Part		
+ficte	VERB	ficte	3	Form=Adverbial		
+recte	VERB	recte,rectissime,rectius	363	Degree=Abs,Cmp|Form=Adverbial|VerbForm=Part		
+qualiter	DET	qualiter	58	Form=Adverbial|PronType=Int,Rel		
+etsi	SCONJ	etsi	102	Compound=Yes		
+diuersimode	NOUN	diuersimode	29	Compound=Yes|Form=Adverbial		
+parue	DET	minime,minus	160	Degree=Abs,Cmp|Form=Adverbial		
+tertio	ADJ	tertio	63	Form=Adverbial|NumType=Ord		
+an	SCONJ	an	16	_		
+partim	NOUN	partim	301	Form=Adverbial		
+firmiter	ADJ	firmiter	10	Form=Adverbial		
+quoad	SCONJ	quoad	83	Compound=Yes|PronType=Rel		
+iu	DET	iu	38	Number=Plural|NumForm=Roman|NumType=Card		
+ex	SCONJ	e,ex	3	_		
+utputa	SCONJ	utputa	5	Compound=Yes		
+deuenio	VERB	deuenerint,deuenerit,deueniat,deueniatur,deueniendo,deueniet,deuenietur,deuenimus,deueniret,deueniri	11	Aspect=Imp,Perf,Prosp|Case=Abl|Gender=Neut|InflClass[nominal]=IndEurO|Lilaflcat=LatI|Mood=Ind,Sub|Number=Plur,Sing|Person=1,3|Tense=Fut,Past,Pres|TraditionalMood=Gerundium,Indicativus,Infinitivus,Subiunctivus|TraditionalTense=Futurum,Imperfectum,Praesens|VerbForm=Inf,Part|Voice=Act,Pass	deuenirent,deuenero,deueniam,deueniunt,deuenit,deuenitur,deuenerant,deuenerunt,deuenire,deuenere,deuenient	InflClass
+alias	DET	alias	157	AdvType=Tim|Form=Adverbial|PronType=Con		
+ui	DET	ui	78	Number=Plural|NumForm=Roman|NumType=Card		
+absolute	VERB	absolute	66	Form=Adverbial|VerbForm=Part		
+similiter	ADJ	similiter	338	Form=Adverbial		
+proprie	ADJ	proprie	151	Form=Adverbial		
+iii	DET	iii	203	Number=Plural|NumForm=Roman|NumType=Card		
+instrumentaliter	ADJ	instrumentaliter	11	Form=Adverbial		
+immediate	VERB	immediate,inmediate	106	Form=Adverbial|Polarity=Neg|VerbForm=Part		
+medio	ADJ	mediate	1	Form=Adverbial|TraditionalMood=Participium|TraditionalTense=Perfectum		
+dupliciter	ADJ	dupliciter	68	Form=Adverbial|NumType=Mult		
+quodammodo	NOUN	quodammodo,quonammodo	131	Compound=Yes|Form=Adverbial|PronType=Rel		
+pluries	DET	pluries	2	Degree=Cmp|Form=Adverbial		
+postmodum	NOUN	postmodum	48	Compound=Yes|Form=Adverbial		
+aequaliter	ADJ	aequaliter,aequalius,equaliter	54	Degree=Cmp|Form=Adverbial		
+necesseesse	NOUN	necesseesse	35	VerbForm=Inf		
+aliunde	PRON	aliunde	30	Compound=Yes|Form=Adverbial		
+quandoque	PRON	quandoque	218	AdvType=Tim|Form=Adverbial,Emp|PronType=Rel		
+dauid	NOUN	dauid	23	Foreign=Yes|Gender=Masc|NameType=Giv|Number=Sing|OrigLang=hbo		
+unio	VERB	uniantur,uniatur,uniebatur,uniens,uniente,unire,unirentur,uniret,uniretur,unit,unita,unitae,unitam,unitas,unite,uniti,unitis,unitum,uniuit	178	Aspect=Imp,Perf|Case=Abl,Acc,Nom|Form=Adverbial|Gender=Fem,Masc,Neut|InflClass[nominal]=IndEurA,IndEurI,IndEurO|Lilaflcat=LatI|Mood=Imp,Ind,Sub|Number=Plur,Sing|Person=2,3|Tense=Past,Pres|TraditionalMood=Imperativus,Indicativus,Infinitivus,Participium,Subiunctivus|TraditionalTense=Imperfectum,Perfectum,Praesens|VerbForm=Inf,Part|Voice=Act,Pass	unitur,uniuntur,unitus,uniri	InflClass
+praeterea	DET	praeterea,preterea	1049	AdvType=Loc|Compound=Yes|Form=Adverbial|PronType=Dem		
+pure	ADJ	pure,purissime,purius	21	Degree=Abs,Cmp|Form=Adverbial		
+ubicumque	PRON	ubicumque,ubicunque	14	AdvType=Loc|Compound=Yes|Form=Adverbial,Emp|PronType=Rel		
+extra	PRON	exterius,extra	67	Degree=Cmp|Form=Adverbial		
+i	DET	i	248	Number=Plural|NumForm=Roman|NumType=Card		
+circulariter	ADJ	circulariter	4	Form=Adverbial		
+localiter	ADJ	localiter	8	Form=Adverbial		
+uelociter	ADJ	uelocissime,uelociter,uelocius	19	Degree=Abs,Cmp|Form=Adverbial		
+aliquotiens	PRON	aliquotiens,aliquoties	11	Form=Adverbial		
+uiii	DET	uiii	76	Number=Plural|NumForm=Roman|NumType=Card		
+expresse	VERB	expresse,expressius	35	Degree=Cmp|Form=Adverbial|VerbForm=Part		
+utrubique	PRON	utrobique	9	Form=Adverbial		
+aequiuoce	ADJ	aequiuoce	24	Form=Adverbial		
+quattuor	DET	quattuor,quatuor	21	NumForm=Word|NumType=Card|NumValue=4		
+necnon	CCONJ	necnon	13	Compound=Yes|Polarity=Neg		
+puta	CCONJ	puta	34	ExtPos=ADV		
+accidentaliter	ADJ	accidentaliter	32	Form=Adverbial		
+israel	NOUN	israel	31	Foreign=Yes|Gender=Masc|NameType=Giv|Number=Sing|OrigLang=hbo		
+superuenio	VERB	superuenientem,superuenienti,superuenientis,superuenire,superuenirent	5	Aspect=Imp|Case=Abl,Acc,Gen|Gender=Fem,Masc|InflClass[nominal]=IndEurI|Lilaflcat=LatI|Mood=Sub|Number=Plur,Sing|Person=3|Tense=Past|TraditionalMood=Infinitivus,Participium,Subiunctivus|TraditionalTense=Imperfectum,Praesens|VerbForm=Inf,Part|Voice=Act	superueni,superuenerunt,superueniens,superuenit,superuenient,superuenisse,superuenturum,superueniant,superuenerat,superuenientes,superueniunt,superueniente,superuenientibus,superueniet	Tac,InflClass
+substantialiter	ADJ	substantialiter	22	Form=Adverbial		
+essentialiter	ADJ	essentialiter	22	Form=Adverbial		
+formaliter	ADJ	formaliter	32	Form=Adverbial		
+aperte	VERB	aperte,apertissime,apertius	108	Degree=Abs,Cmp|Form=Adverbial|Lilaflcat=LatI|VerbForm=Part		
+indebite	VERB	indebite	3	Form=Adverbial		
+idest	CCONJ	idest	80	Compound=Yes		
+uniuersaliter	ADJ	uniuersaliter,uniuersalius	45	Degree=Cmp|Form=Adverbial		
+aliqualiter	DET	aliqualiter	38	Compound=Yes|Form=Adverbial|PronType=Rel		
+totaliter	ADJ	totaliter	96	Form=Adverbial|PronType=Tot		
+eminenter	VERB	eminentius	4	Degree=Cmp|Form=Adverbial		
+u	DET	u	108	Number=Plural|NumForm=Roman|NumType=Card		
+incircumscriptiue	ADJ	incircumscriptiue	1	Form=Adverbial		
+aequiuocus	ADJ	aequiuoce	1	Compound=Yes|Degree=Cmp|Form=Adverbial	aequiuoca,aequiuocis,aequiuocum,aequiuoco	Gender,Number,Case,InflClass
+ix	DET	ix	11	Number=Plural|NumForm=Roman|NumType=Card		
+metaphorice	ADJ	metaphorice	15	Form=Adverbial		
+aliqui	PRON	aliquatenus	9	Compound=Yes|Form=Adverbial|PronType=Ind		
+uniuoce	ADJ	uniuoce	27	Form=Adverbial		
+diuisim	VERB	diuisim	6	Form=Adverbial		
+particulariter	ADJ	particulariter,particularius	5	Degree=Cmp|Form=Adverbial		
+partialiter	ADJ	partialiter	2	Form=Adverbial		
+analogice	ADJ	analogice	4	Form=Adverbial		
+adinuenio	VERB	adinuenire,adinuenisse,adinuenit,adinuenta,adinuentae	6	Aspect=Imp,Perf|Case=Nom|Gender=Fem|InflClass[nominal]=IndEurA|Lilaflcat=LatI|Mood=Ind|Number=Plur,Sing|Person=3|Tense=Pres|TraditionalMood=Indicativus,Infinitivus,Participium|TraditionalTense=Perfectum,Praesens|VerbForm=Inf,Part|Voice=Act,Pass	adinuenerunt,adinuenimus	InflClass
+immaterialiter	ADJ	immaterialiter	10	Form=Adverbial		
+participatiue	ADJ	participatiue	10	Form=Adverbial		
+ignio	VERB	ignitis,ignitorum,ignitum	5	Aspect=Perf|Case=Abl,Gen,Nom|Gender=Fem,Neut|InflClass[nominal]=IndEurA,IndEurO|Lilaflcat=LatI|Number=Plur,Sing|TraditionalMood=Participium|TraditionalTense=Perfectum|VerbForm=Part|Voice=Pass		
+summe	ADJ	summe	23	Degree=Abs|Form=Adverbial		
+sufficienter	VERB	sufficienter	46	Form=Adverbial|VerbForm=Part		
+irregulariter	ADJ	irregulariter	1	Form=Adverbial		
+numero	NOUN	numero	84	Form=Adverbial		
+priuatiue	ADJ	priuatiue	3	Form=Adverbial		
+negatiue	ADJ	negatiue	3	Form=Adverbial		
+infinite	VERB	infinite	1	Form=Adverbial		
+nihilominus	DET	nichilominus,nihilominus	50	Compound=Yes|Form=Adverbial|Polarity=Neg|PronType=Neg		
+determinate	VERB	determinate	9	Form=Adverbial		
+θεαομαι	VERB	theasthe	1	Aspect=Imp|Foreign=Yes|OrigLang=grc|VerbForm=Inf|Voice=Pass		
+intelligibiliter	ADJ	intelligibiliter	11	Form=Adverbial		
+mediate	VERB	mediate	5	Form=Adverbial|VerbForm=Part		
+imperfecte	VERB	imperfecte,imperfectissime,imperfectius	13	Degree=Abs,Cmp|Form=Adverbial|VerbForm=Part		
+ualde	ADJ	ualde,ualdissime,ualdius	100	Degree=Abs,Cmp|Form=Adverbial		
+multipliciter	ADJ	multipliciter,multiplicius	17	Compound=Yes|Degree=Cmp|Form=Adverbial		
+faciliter	ADJ	faciliter,facilius	15	Degree=Cmp|Form=Adverbial		
+indifferenter	VERB	indifferenter	8	Form=Adverbial|Polarity=Neg		
+disiunctim	VERB	disiunctim	2	Form=Adverbial|VerbForm=Part		
+pluraliter	ADJ	pluraliter	10	Form=Adverbial		
+postea	DET	postea	537	AdvType=Tim|Compound=Yes|Form=Adverbial		
+successiue	ADJ	successiue	21	Form=Adverbial		
+habitualiter	ADJ	habitualiter	4	Form=Adverbial		
+dormio	VERB	dormiendo,dormierint,dormierit	4	Aspect=Perf,Prosp|Case=Abl|Gender=Neut|InflClass[nominal]=IndEurO|Lilaflcat=LatI|Mood=Ind|Number=Plur,Sing|Person=3|Tense=Fut|TraditionalMood=Gerundium,Indicativus|TraditionalTense=Futurum|VerbForm=Part|Voice=Act,Pass	dormibit,dormi,dormituro,dormienda,dormientis,dormitur,dormiam,dormienti,dormiens,dormiente,dormiret,dormies,dormientem,dormiebat,dormiturum,dormisse,dormientes,dormiunt,dormiendi,dormitum,dormientibus,dormire,dormieris,dormis,dormimus,dormio,dormientium,dormiet,dormiat,dormitis,dormit,dormirem,dormias,dormiturus,dormisset	Tac,InflClass
+intellectualiter	ADJ	intellectualiter	1	Form=Adverbial		
+discursiue	ADJ	discursiue	1	Form=Adverbial		
+seorsum	PRON	seorsum,seorsus,sorsum,sorsus	49	Form=Adverbial|VerbForm=Part		
+solus	ADJ	solum	36	Form=Adverbial|PronType=Con		
+indiuisibiliter	ADJ	indiuisibiliter	3	Form=Adverbial		
+unitiue	ADJ	unitiue	1	Form=Adverbial		
+stabilio	VERB	stabiliatur,stabiliendo,stabilientur,stabiliri,stabilitum,stabilitur	9	Aspect=Imp,Perf,Prosp|Case=Abl,Nom|Gender=Neut|InflClass[nominal]=IndEurO|Lilaflcat=LatI|Mood=Ind,Sub|Number=Plur,Sing|Person=3|Tense=Fut,Pres|TraditionalMood=Gerundium,Indicativus,Infinitivus,Participium,Subiunctivus|TraditionalTense=Futurum,Perfectum,Praesens|VerbForm=Inf,Part|Voice=Pass	stabiliuerunt,stabilita,stabilire,stabilitam,stabiliuit,stabiliuerat,stabiliendi,stabiliendum	InflClass
+euenio	VERB	eueniens	1	Aspect=Imp|Case=Nom|Gender=Neut|InflClass[nominal]=IndEurI|Lilaflcat=LatI|Number=Sing|TraditionalMood=Participium|TraditionalTense=Praesens|VerbForm=Part|Voice=Act	eueniet,euenerit,euenerant,eueniebant,eueniunt,euenere,euenit,euenturum,eueniat,euenerunt,euenient,euentura,euenisse,euenissent,eueniant,euenire,euenant,eueniret,euenisset,euenirent,euenerat,eueniebat,euenat	Tac,Person,Mood,InflClass,Tense
+quarto	ADJ	quarto	16	Form=Adverbial|NumType=Ord		
+quinto	ADJ	quinto	9	Form=Adverbial|NumType=Ord		
+sexto	ADJ	sexto	4	Form=Adverbial		
+septimo	ADJ	septimo	2	Form=Adverbial		
+praesentialiter	ADJ	praesentialiter,presentialiter	6	Form=Adverbial		
+utcumque	PRON	utcumque,utcunque	34	Compound=Yes|Form=Adverbial,Emp|PronType=Rel		
+exemplariter	ADJ	exemplariter	2	Form=Adverbial		
+priusquam	SCONJ	<prius>quam,priusquam	64	Compound=Yes|PronType=Rel		
+certitudinaliter	ADJ	certitudinaliter	1	Form=Adverbial		
+necessario	ADJ	necessario	99	Form=Adverbial		
+fructifico	VERB	fructificare	1	Aspect=Imp|Compound=Yes|TraditionalMood=Infinitivus|TraditionalTense=Praesens|VerbForm=Inf|Voice=Act	fructificat,fructificant	Person,Mood,Number,InflClass,Tense
+contingenter	VERB	contingenter	10	Form=Adverbial		
+quotlibet	DET	quotlibet	2	NumType=Card|PronType=Ind		
+mutuo	ADJ	mutuo	13	Form=Adverbial		
+ibidem	PRON	ibidem	62	AdvType=Loc|Form=Adverbial,Emp		
+nonne	PART	nonne	4	_		
+uoluntarie	ADV	uoluntarie	27	_		
+libere	ADJ	libere,liberius,liberrime,lubere	126	Degree=Abs,Cmp|Form=Adverbial		
+quousque	SCONJ	quousque	17	Compound=Yes|PronType=Rel		
+semotim	VERB	semotim	3	Form=Adverbial		
+quinimmo	PRON	quinimmo	15	Form=Adverbial		
+realiter	ADJ	realiter	29	Form=Adverbial		
+intimus	ADJ	intimius	1	Degree=Cmp|Form=Adverbial	intimis,intima,intimum	Number,Case,Gender,InflClass
+itaque	PART	itaque	36	Form=Emp|PronType=Dem		
+improprie	ADJ	improprie	1	Form=Adverbial		
+feruenter	VERB	feruenter,feruentius	3	Degree=Cmp|Form=Adverbial		
+exinde	PRON	exim,exin,exinde	51	Compound=Yes|Form=Adverbial		
+affluenter	VERB	affluenter,affluentius	4	Degree=Cmp|Form=Adverbial|VerbForm=Part		
+occulte	VERB	occulte,occultissime,occultissume,occultius	67	Degree=Abs,Cmp|Form=Adverbial		
+in+quantum	ADV	inquantum	1	_		
+talmut	NOUN	talmut	1	Foreign=Yes|NameType=Lit|Number=Sing|OrigLang=hbo		
+similitudinarie	ADJ	similitudinarie	2	Form=Adverbial		
+esau	NOUN	esau	3	Foreign=Yes|Gender=Masc|NameType=Giv|Number=Sing|OrigLang=hbo		
+delectabiliter	ADJ	delectabiliter	10	Form=Adverbial		
+quamdiu	SCONJ	quamdiu,quandiu	93	Compound=Yes|PronType=Rel		
+incomparabiliter	ADJ	incomparabiliter	1	Form=Adverbial		
+aeternaliter	ADJ	aeternaliter	3	Form=Adverbial		
+amen	ADJ	amen	7	Form=Adverbial		
+sursum	PRON	sursum,sursus,susum	55	AdvType=Loc|Form=Adverbial|VerbForm=Part		
+deseruio	VERB	deseruiens,deseruientes,deseruirent,deseruiret	5	Aspect=Imp|Case=Acc,Nom|Gender=Fem,Masc|InflClass[nominal]=IndEurI|Lilaflcat=LatI|Mood=Sub|Number=Plur,Sing|Person=3|Tense=Past|TraditionalMood=Participium,Subiunctivus|TraditionalTense=Imperfectum,Praesens|VerbForm=Part|Voice=Act	deseruiebant,deseruio,deseruit,deseruiat,deseruiant,deseruiunt,deseruire	InflClass
+nouem	DET	nouem	68	Number=Plural|NumForm=Word|NumType=Card		
+relatiue	ADJ	relatiue	21	Form=Adverbial		
+similiter	CCONJ	similiter	1	_		
+denominatiue	ADJ	denominatiue	1	Form=Adverbial		
+alicubi	PRON	alicubi	11	Compound=Yes|Form=Adverbial		
+uirtualiter	ADJ	uirtualiter	3	Form=Adverbial		
+proportionaliter	ADJ	proportionaliter	18	Form=Adverbial		
+continue	ADJ	continue	18	Form=Adverbial		
+regulariter	ADJ	regulariter	5	Form=Adverbial		
+indiuidualiter	ADJ	indiuidualiter	4	Form=Adverbial		
+idem	PRON	idem	1	Form=Adverbial,Emp|PronType=Dem		
+composite	VERB	composite,compositius,conposite	7	Degree=Cmp|Form=Adverbial|VerbForm=Part		
+diuise	VERB	diuise	1	Form=Adverbial		
+praescio	VERB	praesciuit	4	Aspect=Perf|Lilaflcat=LatI|Mood=Ind|Number=Sing|Person=3|Tense=Past|TraditionalMood=Indicativus|TraditionalTense=Perfectum|Voice=Act	presciret,presciatur,praescita	InflClass[nominal],VerbForm,Case,Gender,InflClass
+quotcumque	ADJ	quotcumque	1	_		
+ordinate	VERB	ordinate	4	Form=Adverbial		
+large	ADJ	large,largissime,largius	33	Degree=Abs,Cmp|Form=Adverbial		
+tripliciter	ADJ	tripliciter	7	Form=Adverbial		
+iuste	ADJ	iuste,iustissime,iustius	38	Degree=Abs,Cmp|Form=Adverbial		
+rationabiliter	ADJ	rationabiliter,rationabilius	20	Degree=Cmp|Form=Adverbial		
+differenter	VERB	differenter	2	Form=Adverbial		
+uiolenter	ADJ	uiolenter,uiolentius	19	Degree=Cmp|Form=Adverbial		
+quandocumque	SCONJ	quandocumque,quandocunque	20	Compound=Yes|PronType=Rel		
+perpetuo	ADJ	perpetuo	58	Form=Adverbial		
+secus	PRON	secu,secus,sequius,setius	123	Degree=Cmp|Form=Adverbial		
+dissimiliter	ADJ	dissimiliter	5	Form=Adverbial		
+taliter	DET	taliter	6	Form=Adverbial|PronType=Dem		
+uniformiter	ADJ	uniformiter	6	Form=Adverbial		
+consequenter	VERB	consequenter	10	Form=Adverbial|VerbForm=Part		
+extrinsece	PRON	extrinsece	1	Form=Adverbial		
+intrinsece	ADJ	intrinsece	1	Form=Adverbial		
+profunde	ADJ	profundius	1	Degree=Cmp|Form=Adverbial		
+infinito	VERB	infinito	1	Form=Adverbial		
+usquequaque	PRON	usquequaque	9	Compound=Yes|Form=Adverbial		
+casualiter	ADJ	casualiter	12	Form=Adverbial		
+amos	NOUN	amos	5	Foreign=Yes|Gender=Masc|NameType=Giv|Number=Sing|OrigLang=hbo		
+ultimo	ADJ	ultimo	15	Degree=Abs|Form=Adverbial		
+cuiusmodi	DET	cuiusmodi	3	Compound=Yes		
+uestio	VERB	uestientem,uestientis,uestisti	3	Aspect=Imp,Perf|Case=Acc,Gen|Gender=Masc|InflClass[nominal]=IndEurI|Lilaflcat=LatI|Mood=Ind|Number=Sing|Person=2|Tense=Past|TraditionalMood=Indicativus,Participium|TraditionalTense=Perfectum,Praesens|VerbForm=Part|Voice=Act	uestiendos,uestiuntur,uestiret,uestientur,uestiat,uestitis,uestitum,uestiebantur,uestiens,uestietur,uestitos,uestitus,uestiuit,uestit,uestitae,uestiatur,uestiti,uestita,uestiri,uestiet,uestiunt,uestitur,uestiendum,uestibat,uestitas,uestite,uestire	InflClass
+liberaliter	ADJ	liberalissime,liberaliter,liberalius	34	Degree=Abs,Cmp|Form=Adverbial		
+materialiter	ADJ	materialiter	21	Form=Adverbial		
+decenter	VERB	decenter,decentissime,decentius	16	Degree=Abs,Cmp|Form=Adverbial|VerbForm=Part		
+4o	SCONJ	licet	1	_		
+deorsum	PRON	deorsum,deosum	48	AdvType=Loc|Form=Adverbial|VerbForm=Part		
+inseparabiliter	ADJ	inseparabiliter	2	Form=Adverbial		
+irrationabilis	ADJ	irrationabilius	1	Degree=Cmp|Form=Adverbial	irrationabilibus,irrationabilium,irrationabilior,irrationabilia,irrationabile,irrationabilis	Number,Case,Gender,InflClass,Polarity
+iacob	NOUN	iacob	9	Foreign=Yes|Gender=Masc|NameType=Giv|Number=Sing|OrigLang=hbo	iacobus,iacobi	Case,InflClass
+abusiue	ADJ	abusiue	3	Form=Adverbial		
+non	SCONJ	non	1	_		
+nequaquam	PRON	nequaquam	63	Compound=Yes|Form=Adverbial,Emp|Polarity=Neg		
+abundo	VERB	abundantius	1	Degree=Cmp|Form=Adverbial	abundaremus,abundent,abundantem,abundant,abundetis,abundantes,abundabat,abundat,abundaret,abundet,abundes,abundarat,abundauit,abundasset,abundans,abundarunt,abundantiori,habundantem,abundarent,abundare	TraditionalMood,Person,Aspect,InflClass[nominal],Mood,TraditionalTense,Number,VerbForm,Case,InflClass,Voice,Gender,Tense
+organice	ADJ	organice	4	Form=Adverbial		
+quoad	ADP	quoad	4	Compound=Yes		
+subsequenter	VERB	subsequenter	3	Form=Adverbial|VerbForm=Part		
+in	SCONJ	in,inquantum	60	_		
+fixe	VERB	fixe	1	Form=Adverbial		
+immobiliter	ADJ	immobiliter	14	Form=Adverbial		
+utpote	CCONJ	utpote	2	Compound=Yes		
+intra	PRON	interius,intra	38	Degree=Cmp|Form=Adverbial		
+eiusmodi	NOUN	eiusmodi	3	Compound=Yes|Form=Adverbial		
+separatim	VERB	separatim	33	Form=Adverbial		
+utique	SCONJ	utique	147	Form=Emp		
+postere	ADJ	posterius	11	Degree=Cmp|Form=Adverbial		
+uiuaciter	ADJ	uiuaciter	1	Form=Adverbial		
+alioqui	PRON	alioqui,alioquin	151	Compound=Yes|Form=Adverbial|PronType=Con		
+uberius	ADJ	uberius	1	Degree=Cmp|Form=Adverbial		
+immerito	VERB	immerito,inmerito	39	Form=Adverbial|Polarity=Neg|VerbForm=Part		
+abunde	ADJ	abunde	47	Form=Adverbial		
+indelebiliter	ADJ	indelebiliter	1	Form=Adverbial		
+plenarie	ADJ	plenarie	1	Form=Adverbial		
+seriatim	NOUN	seriatim	1	Form=Adverbial		
+deinceps	ADJ	deinceps	54	Compound=Yes|Form=Adverbial		
+quousque	PRON	quousque	26	AdvType=Loc|Compound=Yes|Form=Adverbial,Emp|PronType=Int,Rel		
+singillatim	ADJ	singillatim	23	Form=Adverbial		
+praesertim	VERB	praesertim,presertim	301	Form=Adverbial|VerbForm=Part		
+corporaliter	ADJ	corporaliter	17	Form=Adverbial		
+generaliter	ADJ	generaliter	10	Form=Adverbial		
+intrinsecus	PRON	intrinsecus	6	Compound=Yes|Form=Adverbial		
+gradatim	NOUN	gradatim	11	Form=Adverbial|VerbForm=Part		
+uehementer	ADJ	uehementer,uehementissime,uehementissume,uehementius,uementer,uementius	241	Degree=Abs,Cmp|Form=Adverbial		
+dispositiue	ADJ	dispositiue	1	Form=Adverbial		
+decimo	ADJ	decimo	2	Form=Adverbial		
+undecimo	ADJ	undecimo	1	Form=Adverbial		
+tunc	CCONJ	tunc	1	_		
+etenim	SCONJ	etenim	1	Compound=Yes		
+mathematice	ADJ	mathematice	2	Form=Adverbial		
+decem	NOUN	decies	1	Form=Adverbial		
+rabbi	NOUN	rabbi	3	Foreign=Yes|Gender=Masc|Number=Sing|OrigLang=hbo		
+numquid	PRON	numquid,nunquid	2	Compound=Yes|Form=Adverbial|PronType=Int		
+propinque	ADJ	propinque,propinquius	7	Degree=Cmp|Form=Adverbial		
+xii	DET	xii	44	Number=Plural|NumForm=Roman|NumType=Card		
+spiritualiter	ADJ	spiritualiter	9	Form=Adverbial		
+xciu	DET	xciu	1	_		
+indeficienter	VERB	indeficienter	2	Form=Adverbial		
+frequenter	ADJ	frequenter,frequentissime,frequentius	91	Degree=Abs,Cmp|Form=Adverbial		
+stricte	VERB	stricte	2	Form=Adverbial|VerbForm=Part		
+probabiliter	ADJ	probabiliter,probabilius	8	Degree=Cmp|Form=Adverbial		
+moraliter	ADJ	moraliter	1	Form=Adverbial		
+siquidem	PART	siquidem	4	Compound=Yes		
+infinities	VERB	infinities	1	Form=Adverbial		
+difficiliter	ADJ	difficilius	1	Degree=Cmp|Form=Adverbial		
+αλφα	NOUN	alpha	1	Foreign=Yes|NameType=Let|OrigLang=grc		
+ωμεγα	NOUN	omega	1	Foreign=Yes|NameType=Let|OrigLang=grc		
+uel	SCONJ	uel	3	_		
+item	SCONJ	itemque	1	_		
+infallibiliter	ADJ	infallibiliter	5	Form=Adverbial		
+uicine	ADJ	uicinius	3	Degree=Cmp|Form=Adverbial		
+post	PRON	post,poste	375	AdvType=Tim|Form=Adverbial		
+congruenter	VERB	congruenter,congruentius	4	Degree=Cmp|Form=Adverbial		
+attente	VERB	attente,attentius	20	Degree=Cmp|Form=Adverbial		
+inuoluntarie	ADJ	inuoluntarie	1	Form=Adverbial		
+auempace	NOUN	auempace	2	Foreign=Yes|Gender=Masc|NameType=Sur|Number=Sing|OrigLang=ara		
+paruus	DET	minus	1	_		
+siue	SCONJ	seu,siue	10	_		
+irrationabiliter	ADJ	irrationabiliter	3	Form=Adverbial		
+sensibiliter	ADJ	sensibiliter	5	Form=Adverbial		
+superinuenio	VERB	superinueniunt	1	Aspect=Imp|Lilaflcat=LatI|Mood=Ind|Number=Plur|Person=3|Tense=Pres|TraditionalMood=Indicativus|TraditionalTense=Praesens|Voice=Act		
+uelut	CCONJ	uelut	1	Compound=Yes		
+intense	VERB	intense,intensius	4	Degree=Cmp|Form=Adverbial		
+congrue	ADJ	congrue	5	Form=Adverbial		
+sed	SCONJ	sed	3	_		
+miraculose	ADJ	miraculose	9	Form=Adverbial		
+xu	DET	xu	44	Number=Plural|NumForm=Roman|NumType=Card		
+incorruptibiliter	ADJ	incorruptibiliter	2	Form=Adverbial		
+ergo	SCONJ	ergo	4	_		
+ierusalem	NOUN	ierusalem	15	Foreign=Yes|NameType=Geo|Number=Sing|OrigLang=hbo	hierosolymorum,hierosolymam,hierosolyma,hierosolymis	Case,InflClass
+foras	PRON	foras	90	Form=Adverbial		
+inordinate	VERB	inordinate	7	Form=Adverbial		
+esurio	VERB	esurient,esurierit,esurietis,esuriit	4	Aspect=Imp,Perf|Lilaflcat=LatI|Mood=Ind,Sub|Number=Plur,Sing|Person=2,3|Tense=Fut,Past|TraditionalMood=Indicativus,Subiunctivus|TraditionalTense=Futurum,Perfectum|Voice=Act	essurire,esurio,essurit,esurire,esuriunt,esurienti,esuriente,esurit,essurientibus,esuriens,esurirent,esuriat,esurias,esuriant,essurio,essuriens,esuriam,esurientibus	InflClass[nominal],VerbForm,Case,Gender,InflClass
+sitio	VERB	sitient,sitietis	2	Aspect=Imp|Lilaflcat=LatI|Mood=Ind|Number=Plur|Person=2,3|Tense=Fut|TraditionalMood=Indicativus|TraditionalTense=Futurum|Voice=Act	sitit,sitiemus,sitientis,sitientem,sitiatis,sitiret,sitiunt,sitis,sitiens,sitire,sitiebat,sitias,sitientibus,sitio,sitiant,sities,sitientia,sitientes,sitiat,sitiam,sitiente,sitiuntur	InflClass[nominal],VerbForm,Case,Gender,InflClass
+et	SCONJ	et	4	_		
+difficile	ADJ	difficile	3	Form=Adverbial		
+tandiu	NOUN	tandiu	2	Form=Adverbial		
+quamdiu	NOUN	quamdiu,quandiu	13	Compound=Yes|Form=Adverbial|PronType=Int		
+neglego	VERB	neglexisse	1	Aspect=Perf|Compound=Yes|TraditionalMood=Infinitivus|TraditionalTense=Perfectum|VerbForm=Inf|Voice=Act	negligebant,negligeret,neglectam,neglexerunt,neglecta,negligis,negligere,negligit,negligentes,neglectis	Person,InflClass[nominal],Mood,Number,Case,InflClass,Gender,Tense
+ardenter	VERB	ardenter,ardentissime,ardentius	10	Degree=Abs,Cmp|Form=Adverbial		
+debite	VERB	debite	4	Form=Adverbial|VerbForm=Part		
+sicut	CCONJ	sicut	1	Compound=Yes		
+prouide	ADJ	prouide	2	Form=Adverbial		
+abundantius	VERB	abundantius	2	Form=Adverbial		
+seraph	NOUN	seraphim	3	Foreign=Yes|Gender=Masc|NameType=Rel|Number=Plur|OrigLang=hbo		
+cherub	NOUN	cherubim	2	Foreign=Yes|Gender=Masc|NameType=Rel|Number=Plur|OrigLang=hbo		
+familiariter	ADJ	familiarissime,familiariter,familiarius	42	Degree=Abs,Cmp|Form=Adverbial		
+etsi	ADP	etsi	1	Compound=Yes		
+quemadmodum	NOUN	quemadmodum	136	Compound=Yes|Form=Adverbial|PronType=Int		
+igitur	SCONJ	igitur	2	_		
+indirecte	VERB	indirecte	4	Form=Adverbial		
+absurde	ADJ	absurde,apsurde	7	Form=Adverbial		
+medullitus	NOUN	medullitus	2	Form=Adverbial		
+propterea	SCONJ	propterea	2	Compound=Yes|ExtPos=SCONJ		
+per	SCONJ	per	8	_		
+specialiter	ADJ	specialiter,specialius,spetialiter	12	Degree=Cmp|Form=Adverbial		
+albumasar	NOUN	albumasar	2	Definite=Yes|Foreign=Yes|Gender=Masc|NameType=Sur|Number=Sing|OrigLang=ara		
+quadripartio	VERB	quadripartito	1	Aspect=Perf|Case=Abl|Gender=Masc|InflClass[nominal]=IndEurO|Lilaflcat=LatI|Number=Sing|TraditionalMood=Participium|TraditionalTense=Perfectum|VerbForm=Part|Voice=Pass		
+ineuitabiliter	ADJ	ineuitabiliter	1	Form=Adverbial		
+ueraciter	ADJ	ueraciter	2	Form=Adverbial		
+circa	SCONJ	circa	2	_		
+salio	VERB	salsa,salsorum	3	Aspect=Perf|Case=Acc,Gen|Disambiguation=sale|Gender=Masc,Neut|InflClass[nominal]=IndEurO|Lilaflcat=LatI|Number=Plur|TraditionalMood=Participium|TraditionalTense=Perfectum|VerbForm=Part|Voice=Pass	salire,salirent,salientis,salientem,salientum,salienti,saliunt,salias,salitur,saluisse,saliendo,sallire,saliat,saliente,salientibus,saluere,salliantur,saliet,salit,salientia,salis,saliens	Tense,Person,InflClass,Mood
+exaudio	VERB	exaudiam,exaudiatur	3	Aspect=Imp|Lilaflcat=LatI|Mood=Ind,Sub|Number=Sing|Person=1,3|Tense=Fut,Pres|TraditionalMood=Indicativus,Subiunctivus|TraditionalTense=Futurum,Praesens|Voice=Act,Pass	exaudiebatur,exaudita,exaudiui,exaudio,exaudi,exaudit,exaudiatis,exaudisset,exaudiebantur,exaudiat,exaudito,exauditus,exaudientibus,exaudiens,exaudiendus,exaudire,exauditur,exaudiet,exaudiebat,exaudiant,exaudistis,exaudiri,exaudis,exaudiunt,exaudiret,exaudirent,exaudibam,exauditi,exaudisse,exaudimus	Tac,InflClass[nominal],VerbForm,Case,InflClass,Gender
+quindecim	DET	quindecim	27	Compound=Yes|Number=Plural|NumForm=Word|NumType=Card		
+temporaliter	ADJ	temporaliter	3	Form=Adverbial		
+ab	SCONJ	a,ab	8	_		
+unite	VERB	unite	1	Form=Adverbial|Lilaflcat=LatI		
+dehinc	DET	dehinc	59	Form=Adverbial		
+cur	SCONJ	cur	4	_		
+inconueniens	VERB	inconuenienter	1	Form=Adverbial		
+duodecim	DET	duodecim	55	Compound=Yes|Number=Plural|NumForm=Word|NumType=Card		
+carnaliter	ADJ	carnaliter	3	Form=Adverbial		
+neque	SCONJ	neque	1	_		
+facili	ADJ	facili	1	Form=Adverbial		
+medie	ADJ	medie	1	Form=Adverbial		
+indecenter	VERB	indecenter,indecentius	4	Degree=Cmp|Form=Adverbial		
+suppliciter	ADJ	suppliciter	18	Form=Adverbial		
+nonnunquam	ADV	nonnunquam	2	AdvType=Tim|Form=Emp|Polarity=Neg		
+propter	SCONJ	propter	4	_		
+noe	NOUN	noe	2	Foreign=Yes|Gender=Masc|NameType=Giv|Number=Sing|OrigLang=hbo		
+atque	SCONJ	ac,atque	88	_		
+post	SCONJ	post	2	_		
+primitus	ADJ	primitus	17	Form=Adverbial|NumType=Ord		
+irreuerenter	VERB	inreuerenter,irreuerenter	3	Form=Adverbial		
+dum	ADP	dum	1	_		
+inter	SCONJ	inter	1	_		
+ancillariter	ADJ	ancillariter	1	Form=Adverbial		
+discooperio	VERB	discooperias	1	Aspect=Imp|Lilaflcat=LatI|Mood=Sub|Number=Sing|Person=2|Tense=Pres|TraditionalMood=Subiunctivus|TraditionalTense=Praesens|Voice=Act		
+socialiter	ADJ	socialiter	2	Form=Adverbial		
+absque	SCONJ	absque	2	_		
+secundum	ADJ	secundum	5	Form=Adverbial		
+accurate	VERB	accurate,accuratissime,accuratissume,accuratius,adcurate	30	Degree=Abs,Cmp|Form=Adverbial|VerbForm=Part		
+antiquitus	ADJ	antiquitus	28	Form=Adverbial		
+arroganter	VERB	adroganter,adrogantius,arroganter,arrogantissime	9	Degree=Abs,Cmp|Form=Adverbial		
+uae	INTJ	uae	31	_		
+concorditer	ADJ	concordissime,concorditer	8	Degree=Abs|Form=Adverbial		
+seruiliter	ADJ	seruiliter	7	Form=Adverbial		
+iustifico	VERB	iustificare	1	Aspect=Imp|Compound=Yes|TraditionalMood=Infinitivus|TraditionalTense=Praesens|VerbForm=Inf|Voice=Act	iustificati,iustificantur,iustificabat,iustificata	Person,InflClass[nominal],Mood,Number,Case,InflClass,Gender,Tense
+quotquot	DET	quotquot	4	Compound=Yes|NumType=Card|PronType=Rel		
+efficienter	VERB	efficienter	1	Form=Adverbial		
+gratis	NOUN	gratiis,gratis	67	Form=Adverbial		
+inconuenienter	VERB	inconuenienter	7	Form=Adverbial|Polarity=Neg		
+subseruio	VERB	subseruiunt	1	Aspect=Imp|Lilaflcat=LatI|Mood=Ind|Number=Plur|Person=3|Tense=Pres|TraditionalMood=Indicativus|TraditionalTense=Praesens|Voice=Act		
+occasionaliter	ADJ	occasionaliter	1	Form=Adverbial		
+prodigaliter	ADJ	prodigaliter	1	Form=Adverbial		
+ad	SCONJ	ad	2	_		
+licite	VERB	licite	2	Form=Adverbial		
+turpiter	ADJ	turpissime,turpiter,turpius	71	Degree=Abs,Cmp|Form=Adverbial		
+indiscrete	VERB	indiscrete	2	Form=Adverbial		
+immoderatus	ADJ	immoderatissime	1	Degree=Abs|Form=Adverbial	immoderatae,immoderati,immoderatus,inmoderatum,immoderata,inmoderatam,immoderatum,immoderatam,immoderatis,inmoderati,inmoderata	Number,Case,Gender,InflClass
+sponte	NOUN	sponte	76	Form=Adverbial		
+abraham	NOUN	abraham	4	Foreign=Yes|Gender=Masc|NameType=Giv|Number=Sing|OrigLang=hbo		
+isaac	NOUN	isaac	1	Foreign=Yes|Gender=Masc|NameType=Giv|Number=Sing|OrigLang=hbo		
+remisse	VERB	remisse,remissius	10	Degree=Cmp|Form=Adverbial|VerbForm=Part		
+uirtuose	ADJ	uirtuose,uirtuosius	8	Degree=Cmp|Form=Adverbial		
+modicum	ADJ	modicum	1	Form=Adverbial		
+si	ADP	si	2	_		
+mortaliter	ADJ	mortaliter	4	Form=Adverbial		
+uenialiter	ADJ	uenialiter	3	Form=Adverbial		
+poenaliter	ADJ	poenaliter	1	Form=Adverbial		
+peruerse	VERB	peruerse,peruorse	9	Form=Adverbial		
+nequam	ADJ	nequam,nequiter	42	Polarity=Neg	nequior,nequiorem,nequiores,nequiu,nequissimus,nequissume,nequissimo,nequissima,nequissimorum,nequissimi,nequissimum,nequissimos,nequissumus,nequissimis,nequius	Number,Case,Gender,InflClass,Degree
+coacte	VERB	coacte	2	Form=Adverbial		
+praeuenio	VERB	praeueniantur,praeueniat,praeueniatur,praeuenimur,praeuenisse	10	Aspect=Imp,Perf|Lilaflcat=LatI|Mood=Ind,Sub|Number=Plur,Sing|Person=1,3|Tense=Pres|TraditionalMood=Indicativus,Infinitivus,Subiunctivus|TraditionalTense=Perfectum,Praesens|VerbForm=Inf|Voice=Act,Pass	praeueniunt,praeuentus,preueniuntur,praeuentum,praeueniretur,praeuenerat,praeuenitur,preueniatur,praeueniente,preueniente,praeuenirent,praeueniens,praeuentam,praeuenire,praeuenta,praeuenisset,praeuenientem,praeuenit,praeueniebat,praeueniebant,preuenientes,praeueniendum,preueniens	Tac,InflClass[nominal],Case,Gender,InflClass
+connaturaliter	ADJ	connaturaliter	2	Form=Adverbial		
+constanter	VERB	constanter,constantissime,constantius	54	Degree=Abs,Cmp|Form=Adverbial		
+prompte	VERB	prompte,promptissime,promptius	29	Degree=Abs,Cmp|Form=Adverbial		
+interius	ADJ	interius	1	Form=Adverbial		
+quadraginta	DET	quadraginta	49	Number=Plural|NumForm=Word|NumType=Card		
+niniue	NOUN	niniue	1	Foreign=Yes|NameType=Geo|Number=Sing|OrigLang=syc|Variant=Greek	ninos	Case,Gender,InflClass
+secundum	SCONJ	secundum	3	_		
+fideliter	ADJ	fidelissime,fideliter,fidelius	31	Degree=Abs,Cmp|Form=Adverbial		
+finaliter	ADJ	finaliter	8	Form=Adverbial		
+desuper	PRON	desuper	21	Compound=Yes|Form=Adverbial		
+operio	VERB	operuisti	1	Aspect=Perf|Lilaflcat=LatI|Mood=Ind|Number=Sing|Person=2|Tense=Past|TraditionalMood=Indicativus|TraditionalTense=Perfectum|Voice=Act	operturus,operiens,operitur,operiunt,operuere,operiet,operta,opertos,operient,operit,operti,operueris,operto,operiretur,opertum,opertae,opertis,opertus,operiret,operire,operiente,operito,operienda,operiri,operuerat,operui,operuit,operi,operitos,operibat	Tac,InflClass[nominal],VerbForm,Case,Gender,InflClass
+firmius	ADJ	firmius	1	Form=Adverbial		
+ly	DET	ly	8	PronType=Art		
+adiectiue	ADJ	adiectiue	2	Form=Adverbial		
+propterea	DET	eapropter,propterea	164	AdvType=Loc|Compound=Yes|Form=Adverbial|PronType=Dem		
+consequens	VERB	consequens	2	Form=Adverbial		
+plures	DET	plures	1	Degree=Cmp|Form=Adverbial	pluribus	NumType,PronType,Number,Case,Gender,InflClass
+actiue	ADJ	actiue	2	Form=Adverbial		
+indistincte	VERB	indistincte	2	Form=Adverbial		
+substantiue	ADJ	substantiue	1	Form=Adverbial		
+participialiter	ADJ	participialiter	1	Form=Adverbial		
+personaliter	ADJ	personaliter	9	Form=Adverbial		
+adiacenter	VERB	adiacenter	1	Form=Adverbial		
+notionaliter	ADJ	notionaliter	1	Form=Adverbial		
+abstracte	VERB	abstracte	1	Form=Adverbial		
+secus	ADP	secus	2	_		
+inuestio	VERB	inuestiat	1	Aspect=Imp|Lilaflcat=LatI|Mood=Sub|Number=Sing|Person=3|Tense=Pres|TraditionalMood=Subiunctivus|TraditionalTense=Praesens|Voice=Act	inuestiunt,inuestit	InflClass
+proportionabiliter	ADJ	proportionabiliter	1	Form=Adverbial		
+implicite	VERB	implicite	3	Form=Adverbial		
+speculatiue	ADJ	speculatiue	1	Form=Adverbial		
+iniuste	ADJ	iniuste,iniustissume	29	Degree=Abs|Form=Adverbial|Polarity=Neg		
+proxime	ADJ	proxime,proximius	2	Degree=Cmp|Form=Adverbial		
+abundanter	VERB	abundanter,habundanter	2	Form=Adverbial|VerbForm=Part		
+incomplete	VERB	incomplete	1	Form=Adverbial		
+effectiue	ADJ	effectiue	2	Form=Adverbial		
+inerudite	VERB	inerudite	1	Form=Adverbial		
+procul+dubius	ADV	proculdubio	1	_		
+complete	VERB	complete	1	Form=Adverbial		
+quamuis	PRON	quamuis	1	Compound=Yes|Form=Adverbial		
+exinanio	VERB	exinaniret,exinanitus	4	Aspect=Imp,Perf|Case=Nom|Gender=Masc|InflClass[nominal]=IndEurO|Lilaflcat=LatI|Mood=Sub|Number=Sing|Person=3|Tense=Past|TraditionalMood=Participium,Subiunctivus|TraditionalTense=Imperfectum,Perfectum|VerbForm=Part|Voice=Act,Pass	exinaniti,exinanita,exinanire,exinanisse,exinanitis,exinanitae,exinanitam,exinaniunda,exinaniuit,exinanitos,exinanitum	Tac,InflClass
+secundario	ADJ	secundario	6	Form=Adverbial		
+idcirco	PRON	idcirco	148	Compound=Yes|Form=Adverbial		
+corrupte	VERB	corrupte,corruptius	2	Degree=Cmp|Form=Adverbial		
+grauiter	ADJ	grauissime,grauiter,grauius	203	Degree=Abs,Cmp|Form=Adverbial		
+explicite	VERB	explicite	1	Form=Adverbial		
+recitatiue	ADJ	recitatiue	2	Form=Adverbial		
+quotienscumque	DET	quotiescumque	1	Compound=Yes|Form=Adverbial		
+pridie	NOUN	ii,pridie	63	Compound=Yes|Form=Adverbial		
+sacramentaliter	ADJ	sacramentaliter	2	Form=Adverbial		
+nobiliter	ADJ	nobilius	1	Degree=Cmp|Form=Adverbial		
+remote	VERB	remote	1	Form=Adverbial		
+deficienter	VERB	deficienter	2	Form=Adverbial		
+graece	ADJ	graece	20	Form=Adverbial|NameType=Nat		
+latine	ADJ	latine	28	Form=Adverbial|NameType=Nat		
+octoginta	DET	octoginta	19	Number=Plural|NumForm=Word|NumType=Card		
+informiter	ADJ	informiter	1	Form=Adverbial		
+etiamsi	SCONJ	etiamsi	4	Compound=Yes		
+inaequaliter	ADJ	inaequaliter,inequaliter	7	Form=Adverbial		
+praedefinio	VERB	praedefinitum	1	Aspect=Perf|Case=Nom|Gender=Neut|InflClass[nominal]=IndEurO|Lilaflcat=LatI|Number=Sing|TraditionalMood=Participium|TraditionalTense=Perfectum|VerbForm=Part|Voice=Pass		
+auicebron	NOUN	auicebron	1	Foreign=Yes|Gender=Masc|NameType=Sur|Number=Sing|OrigLang=hbo		
+immutabiliter	ADJ	immutabiliter	1	Form=Adverbial		
+aliquamdiu	NOUN	aliquamdiu,aliquandiu	22	Compound=Yes|Form=Adverbial		
+labiliter	ADJ	labiliter	1	Form=Adverbial		
+stabiliter	ADJ	stabiliter	1	Form=Adverbial		
+improportionaliter	ADJ	improportionaliter	1	Form=Adverbial		
+et	ADP	et	4	_		
+tenuiter	ADJ	tenuissime,tenuiter	6	Degree=Abs|Form=Adverbial		
+signanter	VERB	signanter	4	Form=Adverbial		
+quomodocumque	NOUN	quomodocumque,quomodocunque	3	Compound=Yes|Form=Adverbial,Emp|PronType=Rel		
+multifariam	ADJ	multifariam	2	Form=Adverbial		
+rare	ADJ	rare,rarius	3	Degree=Cmp|Form=Adverbial		
+parturio	VERB	parturiatur,parturiebar,parturiendo,parturiente,parturiretur,parturiri,parturitur,parturiuit	12	Aspect=Imp,Perf,Prosp|Case=Abl|Gender=Masc,Neut|InflClass[nominal]=IndEurI,IndEurO|Lilaflcat=LatI|Mood=Ind,Sub|Number=Sing|Person=1,3|Tense=Past,Pres|TraditionalMood=Gerundium,Indicativus,Infinitivus,Participium,Subiunctivus|TraditionalTense=Imperfectum,Perfectum,Praesens|VerbForm=Inf,Part|Voice=Act,Pass	parturientibus,parturire,parturienti,parturient,parturiat,parturientis,parturit	InflClass
+sion	NOUN	sion	2	Foreign=Yes|NameType=Geo|Number=Sing|OrigLang=hbo		
+ante	SCONJ	ante	2	_		
+copiose	ADJ	copiose,copiosissime,copiosius	33	Degree=Abs,Cmp|Form=Adverbial		
+iesse	NOUN	iesse	1	Foreign=Yes|Gender=Masc|NameType=Giv|Number=Sing|OrigLang=hbo		
+honorifico	VERB	honorificare	1	Aspect=Imp|Compound=Yes|TraditionalMood=Infinitivus|TraditionalTense=Praesens|VerbForm=Inf|Voice=Act	honorificat,honorificant,honorificent	Person,Mood,Number,InflClass,Tense
+modico	ADJ	modico	2	Form=Adverbial		
+qui	SCONJ	quam,qui,quod	19	PronType=Rel		
+distinctim	VERB	distinctim	1	Form=Adverbial		
+sapienter	VERB	sapienter,sapientissime,sapientius	59	Degree=Abs,Cmp|Form=Adverbial		
+stulte	ADJ	stulte,stultissime	38	Degree=Abs|Form=Adverbial		
+septuaginta	DET	septuaginta	11	Number=Plural|NumForm=Word|NumType=Card		
+secerno	VERB	secretius	1	Degree=Cmp|Form=Adverbial	secernunt,secreta,secernas,secernis,secernier,secerneret,secernens,secreuit,secernit,secerne,secerno,secernimur,secretum,secerni,secernendi,secernantur,secretis,secretus,secernere,secretos,secernat,secernant	TraditionalMood,Person,Aspect,InflClass[nominal],Mood,TraditionalTense,Number,VerbForm,Case,InflClass,Voice,Gender,Tense
+abba	NOUN	abba	3	Foreign=Yes|Gender=Masc|Number=Sing|OrigLang=jpa		
+ut	ADP	ut	1	PronType=Rel		
+tacite	VERB	tacite	10	Form=Adverbial		
+pertinaciter	ADJ	pertinacissime,pertinaciter,pertinacius	24	Degree=Abs,Cmp|Form=Adverbial		
+nicenus	ADJ	nicenus	1	Case=Nom|Gender=Masc|NameType=Nat|Number=Sing	nicaenae	InflClass
+sicubi	SCONJ	sicubi	15	Compound=Yes		
+imaginarie	ADJ	imaginarie	1	Form=Adverbial		
+phantastice	ADJ	phantastice	1	Form=Adverbial		
+belial	NOUN	belial	1	Foreign=Yes|Gender=Masc|NameType=Rel|Number=Sing|OrigLang=hbo		
+ioseph	NOUN	ioseph	1	Foreign=Yes|Gender=Masc|NameType=Giv|Number=Sing|OrigLang=hbo		
+baruch	NOUN	baruch	1	Foreign=Yes|Gender=Masc|NameType=Giv|Number=Sing|OrigLang=hbo		
+arctus	ADJ	arctius	1	Degree=Cmp|Form=Adverbial		
+figuratiue	ADJ	figuratiue	1	Form=Adverbial		
+nusquam	PRON	nusquam	118	Compound=Yes|Form=Adverbial|Polarity=Neg		
+humanitus	ADJ	humanitus	2	Form=Adverbial		
+impartio	VERB	impertit	1	Aspect=Imp|Lilaflcat=LatI|Mood=Ind|Number=Sing|Person=3|Tense=Pres|TraditionalMood=Indicativus|TraditionalTense=Praesens|Voice=Act		
+co	X	co	1	_		
+quoties	ADV	quoties	3	_		
+ineffabilis	ADJ	ineffabilius	1	Degree=Cmp|Form=Adverbial	ineffabilem	Number,Case,Gender,InflClass,Polarity
+t	SCONJ	licet	1	_		
+nono	ADJ	nono	3	Form=Adverbial		
+huiuscemodi	NOUN	huiuscemodi	1	Form=Adverbial		
+recenter	ADJ	recenter	1	Form=Adverbial		
+originaliter	ADJ	originaliter	2	Form=Adverbial		
+difficulter	ADJ	difficilius,difficillime,difficulter	26	Degree=Abs,Cmp|Form=Adverbial		
+multoties	DET	multoties	2	Form=Adverbial		
+efficacius	ADJ	efficacius	1	Form=Adverbial		
+reuereor	VERB	reuerentius	1	Degree=Cmp|Form=Adverbial	reueritus,reueretur,reueremur,reuerenda,reuerere,reuerearis,reuerebantur,reuerebare,reuereri,reuereatur,reuereor,reuerentur	TraditionalMood,Aspect,InflClass[nominal],Person,Mood,TraditionalTense,Number,VerbForm,Case,Gender,InflClass,Voice,Tense
+diuine	ADJ	diuine	3	Form=Adverbial		
+reuera	NOUN	reuera	2	Form=Adverbial		
+toties	DET	toties	3	Form=Adverbial|NumType=Mult|PronType=Dem		
+insignio	VERB	insigniuntur	1	Aspect=Imp|Lilaflcat=LatI|Mood=Ind|Number=Plur|Person=3|Tense=Pres|TraditionalMood=Indicativus|TraditionalTense=Praesens|Voice=Pass	insignitus,insignibat,insigniretur,insigniuere,insigniri,insignire	InflClass[nominal],VerbForm,Case,Gender,InflClass
+significatiue	ADJ	significatiue	1	Form=Adverbial		
+dissentio	VERB	dissentiendum	1	Aspect=Prosp|Case=Acc|Gender=Neut|InflClass[nominal]=IndEurO|Lilaflcat=LatI|Number=Sing|TraditionalMood=Gerundium|VerbForm=Part|Voice=Pass	dissentiunt,dissentientem,dissensero,dissentiret,dissentientibus,dissentit,dissentiamus,dissensit,dissensisse,dissentientis,dissentis,dissenseris,dissentiam,dissentiente,dissenties,dissentio,dissensuri,dissensisset,dissentirem,dissentias,dissentiens,dissentirent,dissentire,dissentientes,dissentiat,dissenserit,dissentient,dissentiant,dissentires,dissenserunt,dissensi,dissensisti,dissensere,dissentiebant	Person,TraditionalTense,Mood,InflClass,Tense
+incaute	VERB	incaute,incautius	12	Degree=Cmp|Form=Adverbial		
+incongrue	ADJ	incongrue	1	Form=Adverbial		
+integre	ADJ	integerrime,integre	9	Degree=Abs|Form=Adverbial		
+aliquando	SCONJ	aliquando	1	Compound=Yes		
+humiliter	ADJ	humiliter,humillime	6	Degree=Abs|Form=Adverbial		
+inutiliter	ADJ	inutiliter	3	Form=Adverbial		
+ut	CCONJ	ut	1	PronType=Rel		
+amodo	PRON	amodo	3	Compound=Yes|Form=Adverbial		
+iterato	VERB	iterato	10	Form=Adverbial		
+dum	ADV	dudum,dum	67	_		
+xx	DET	xx	45	Number=Plural|NumForm=Roman|NumType=Card		
+manifestus	VERB	manifestissime	1	Compound=Yes|Degree=Abs|Form=Adverbial		
+quia	ADP	quia	1	_		
+obuiam	ADP	obuiam	1	_		
+oboedientia	VERB	obedientia	1	Aspect=Imp|Case=Nom|Gender=Neut|InflClass[nominal]=IndEurI|Lilaflcat=LatI|Number=Plur|TraditionalMood=Participium|TraditionalTense=Praesens|VerbForm=Part|Voice=Act		
+mane	NOUN	mane,mani	100	Form=Adverbial|Gender=Fem,Neut		
+quod	ADP	quod	1	_		
+quoniam	ADV	quoniam	1	Compound=Yes		
+sollicite	VERB	sollicite,sollicitissime,sollicitius	17	Degree=Abs,Cmp|Form=Adverbial|VerbForm=Part		
+legitime	ADJ	legitime	9	Form=Adverbial		
+illegitime	ADJ	illegitime	1	Form=Adverbial		
+circum	NOUN	circum	117	Form=Adverbial		
+met	PART	met	1	PartType=Emp		
+deuote	VERB	deuote,deuotissime	4	Degree=Abs|Form=Adverbial		
+ceu	SCONJ	ceu	61	ConjType=Cmpr|PronType=Rel		
+instanter	VERB	instanter,instantius	7	Degree=Cmp|Form=Adverbial|VerbForm=Part		
+quemadmodum	SCONJ	quemadmodum	228	Compound=Yes|ConjType=Cmpr|PronType=Rel		
+sollemniter	ADJ	solempniter	1	Form=Adverbial		
+affectuose	ADJ	affectuose,affectuosissime,affectuosius	3	Degree=Abs,Cmp|Form=Adverbial		
+a	ADP	a,ad	210	Foreign=Yes|Lang=it		
+usquequo	PRON	usquequo	1	AdvType=Tim|Compound=Yes|Form=Adverbial,Emp|PronType=Rel		
+etenim	PART	etenim	30	Compound=Yes|Form=Emp		
+extrinsecus	PRON	extrinsecus	38	Compound=Yes|Form=Adverbial|Gender=Masc		
+crudeliter	ADJ	crudelissime,crudeliter,crudelius	43	Degree=Abs,Cmp|Form=Adverbial		
+continuo	ADJ	continuo	128	Form=Adverbial		
+quapropter	CCONJ	quapropter	13	Compound=Yes|PronType=Rel		
+hucusque	DET	hucusque	3	Compound=Yes|Form=Adverbial|PronType=Dem		
+sententialiter	ADJ	sententialiter	1	Form=Adverbial		
+transumptiue	ADJ	transumptiue	1	Form=Adverbial		
+nouiter	ADJ	nouissime,nouiter	2	Degree=Abs|Form=Adverbial		
+heu	PART	heu	6	PartType=Emp		
+anne	CCONJ	anne	1	_		
+instar	NOUN	instar	49	Gender=Fem,Masc		
+eya	INTJ	eya	1	_		
+merito	VERB	meritissimo,meritissumo,merito	135	Degree=Abs|Form=Adverbial|VerbForm=Part	meritasset,meritauerunt	Aspect,Person,Mood,Number,InflClass,Voice,Tense
+confidenter	VERB	confidenter,confidentius	6	Degree=Cmp|Form=Adverbial|VerbForm=Part		
+uoluptuose	ADV	uoluptuose,uoluptuosius	2	Degree=Cmp		
+ciuiliter	ADJ	ciuiliter,ciuilius	6	Degree=Cmp|Form=Adverbial		
+atqui	CCONJ	atqui,atquin	165	Compound=Yes		
+impudenter	VERB	impudenter,impudentissime,impudentius,inpudenter	33	Degree=Abs,Cmp|Form=Adverbial|VerbForm=Part		
+nimirum	ADJ	nimirum	92	Form=Adverbial|Polarity=Neg		
+persaepe	ADV	persaepe,persepe,persepius	31	Degree=Abs,Cmp		
+gelboe	NOUN	gelboe	1	Foreign=Yes|NameType=Geo		
+prudenter	VERB	prudenter,prudentius	24	Degree=Cmp|Form=Adverbial|VerbForm=Part		
+inconsulte	VERB	inconsulte,inconsultius	12	Degree=Cmp|Form=Adverbial|Polarity=Neg|VerbForm=Part		
+circumquaque	PRON	circumquaque	1	Compound=Yes|Form=Adverbial,Emp		
+cotidie	ADV	cotidie,cottidie,quotidie	226	AdvType=Tim|Compound=Yes		
+breuiter	ADJ	breuissime,breuiter,breuius	96	Degree=Abs,Cmp|Form=Adverbial		
+ignominiose	ADJ	ignominiose	1	Form=Adverbial		
+memorabiliter	ADJ	memorabiliter	1	Form=Adverbial		
+a	INTJ	a	3	_		
+perspicaciter	ADJ	perspicaciter	2	Form=Adverbial		
+uerum	CCONJ	uerum	691	_		
+amare	ADJ	amare,amarissime	2	Degree=Abs|Form=Adverbial		
+pridie	ADP	pridie	1	Compound=Yes		
+latenter	VERB	latenter,latentius	2	Degree=Cmp|Form=Adverbial|VerbForm=Part		
+incessanter	VERB	incessanter	1	Form=Adverbial|VerbForm=Part		
+iosue	NOUN	iosue	1	Foreign=Yes|NameType=Giv		
+denuo	ADV	denuo	17	Compound=Yes		
+amalech	NOUN	amalech	3	Foreign=Yes|NameType=Giv		
+agag	NOUN	agag	2	Foreign=Yes|NameType=Giv		
+uirulenter	ADJ	uirulenter	1	Form=Adverbial		
+furialiter	ADJ	furialiter	2	Form=Adverbial		
+aduersum	ADP	aduersum	1	_		
+eia	INTJ	eia,heia,heiia	18	_		
+isai	NOUN	isai	1	Foreign=Yes|NameType=Giv		
+sabaoth	NOUN	sabaoth	1	Foreign=Yes		
+batifolle	NOUN	batifolle	3	Foreign=Yes|NameType=Sur		
+laetanter	VERB	letanter	1	Form=Adverbial|VerbForm=Part		
+reuerenter	VERB	reuerenter,reuerentissime,reuerentius	5	Degree=Abs,Cmp|Form=Adverbial		
+quanto	SCONJ	quanto	154	ConjType=Cmpr|NumType=Card|PronType=Rel		
+ineffabiliter	ADJ	ineffabiliter	1	Form=Adverbial		
+feliciter	ADJ	felicissime,feliciter,felicius	63	Degree=Abs,Cmp|Form=Adverbial		
+proh	INTJ	proh	1	_		
+crude	ADJ	crude	1	Form=Adverbial		
+ueluti	SCONJ	ueluti	1	_		
+indignanter	VERB	indignanter	1	Form=Adverbial|VerbForm=Part		
+maligne	ADJ	maligne,malignius	21	Degree=Cmp|Form=Adverbial		
+dumtaxat	SCONJ	dumtaxat	2	Compound=Yes		
+balaam	NOUN	balaam	2	Foreign=Yes|NameType=Giv		
+nedum	CCONJ	nedum	1	Polarity=Neg		
+uiriliter	ADJ	uiriliter,uirilius	9	Degree=Cmp|Form=Adverbial		
+districte	VERB	districtius	1	Degree=Cmp|Form=Adverbial|VerbForm=Part		
+discrete	VERB	discretius	1	Degree=Cmp|Form=Adverbial|VerbForm=Part		
+consulte	VERB	consultius	2	Degree=Cmp|Form=Adverbial|VerbForm=Part		
+de	X	de	9	Foreign=Yes|Proper=Yes		
+la	X	la	4	Foreign=Yes|Proper=Yes		
+scala	X	scala	1	Foreign=Yes|NameType=Sur|Proper=Yes		
+nullatenus	DET	nullatenus	1	Compound=Yes|Form=Adverbial		
+compendiose	ADJ	compendiose	2	Form=Adverbial		
+alleon	X	alleon	1	Foreign=Yes		
+grece	ADV	grece	1	_		
+allegorice	ADJ	allegorice	4	Form=Adverbial		
+litteraliter	ADJ	litteraliter	2	Form=Adverbial		
+comos	X	comos	1	Foreign=Yes		
+tragos	X	tragos	1	Foreign=Yes		
+prospere	ADJ	prospere	34	Form=Adverbial		
+elate	VERB	elate,elatius	3	Degree=Cmp|Form=Adverbial		
+sublime	ADJ	sublime,sublimius	9	Degree=Cmp|Form=Adverbial		
+e	ADP	e	15	_		
+scienter	VERB	scienter,scientius	6	Degree=Cmp|Form=Adverbial|VerbForm=Part		
+consonanter	VERB	consonanter	1	Form=Adverbial|VerbForm=Part		
+daniel	NOUN	daniel	1	NameType=Giv	danielem,danielis	Number,Case,Gender,InflClass
+misericorditer	ADJ	misericorditer	1	Form=Adverbial		
+seuere	ADJ	seuere,seuerissime,seuerius	44	Degree=Abs,Cmp|Form=Adverbial		
+quantumcumque	SCONJ	quantumcumque,quantumcunque	5	Form=Emp|NumType=Card|PronType=Rel		
+alpha	NOUN	alfa,alpha	2	Foreign=Yes|Gender=Neut|NameType=Let|Variant=Greek		
+omega	NOUN	omega	1	Foreign=Yes|NameType=Let		
+celeriter	ADJ	celeriter,celerius,celerrime	229	Degree=Abs,Cmp|Form=Adverbial		
+nequicquam	DET	nequicquam	2	Form=Adverbial,Emp|Polarity=Neg		
+figurate	VERB	figurate	2	Form=Adverbial|VerbForm=Part		
+el	NOUN	el	1	Foreign=Yes|NameType=Rel		
+ni	PART	ni	97	PartType=Neg|Polarity=Neg		
+incunctanter	VERB	incunctanter	1	Form=Adverbial|VerbForm=Part		
+membratim	NOUN	membratim	4	Form=Adverbial		
+heber	NOUN	heber	1	Foreign=Yes|NameType=Giv		
+prouerbialiter	ADJ	prouerbialiter	2	Form=Adverbial		
+tertium	ADJ	tertium	8	Form=Adverbial|NumType=Ord		
+nembroth	NOUN	nembroth	1	Foreign=Yes|NameType=Giv		
+sennaar	NOUN	sennaar	1	NameType=Geo		
+caelitus	NOUN	celitus	2	Form=Adverbial		
+excellenter	VERB	excellenter,excellentissime,excellentius	6	Degree=Abs,Cmp|Form=Adverbial|VerbForm=Part		
+rude	ADJ	rude,rudius	2	Degree=Cmp|Form=Adverbial		
+barbare	ADJ	barbare,barbarius	3	Degree=Cmp|Form=Adverbial		
+sem	NOUN	sem	1	Foreign=Yes|NameType=Giv		
+praecedenter	VERB	precedenter	1	Form=Adverbial|VerbForm=Part		
+io	X	io	6	Foreign=Yes		
+uersus	ADP	uersum,uersus	8	AdpType=Prep|VerbForm=Part		
+oc	X	oc	5	Foreign=Yes		
+oil	X	oil	4	Foreign=Yes		
+si	X	si	12	Foreign=Yes		
+brunel	NOUN	brunel	1	Foreign=Yes|NameType=Geo		
+m	X	m	7	Foreign=Yes		
+sentis	X	sentis	1	Foreign=Yes		
+fezelz	X	fezelz	1	Foreign=Yes		
+amics	X	amics	1	Foreign=Yes		
+per	X	per	12	Foreign=Yes		
+uer	X	uer	2	Foreign=Yes		
+encusera	X	encusera	1	Foreign=Yes		
+amor	X	amor	15	Foreign=Yes|Proper=Yes		
+fin	X	fin	2	Foreign=Yes		
+uient	X	uient	2	Foreign=Yes		
+sen	X	sen	2	Foreign=Yes		
+et	X	et	2	Foreign=Yes		
+bonte	X	bonte	3	Foreign=Yes		
+guinizelli	NOUN	guinizelli	5	Foreign=Yes|NameType=Sur		
+ne	X	ne	4	Foreign=Yes		
+fe	X	fe	1	Foreign=Yes		
+prima	X	prima	2	Foreign=Yes		
+che	X	che	20	Foreign=Yes		
+gentil	X	gentil	3	Foreign=Yes		
+core	X	core	4	Foreign=Yes		
+cor	X	cor	4	Foreign=Yes		
+natura	X	natura	1	Foreign=Yes		
+tripharie	ADJ	tripharie	1	Form=Adverbial		
+audacter	ADJ	audacter	1	Form=Adverbial		
+abmotim	VERB	abmotim	1	Form=Adverbial|VerbForm=Part		
+uarie	ADJ	uarie	53	Form=Adverbial		
+pulchre	ADJ	pulcherrime,pulchre,pulchrius,pulcre	44	Degree=Abs,Cmp|Form=Adverbial	pulcerrime	Number,Case,Gender,InflClass
+dulciter	ADJ	dulciter,dulcius	2	Degree=Cmp|Form=Adverbial		
+uulgariter	ADJ	uulgariter	7	Form=Adverbial		
+adminus	DET	adminus	1	Compound=Yes|Degree=Cmp|Form=Adverbial		
+xiiii	DET	xiiii	15	Number=Plural|NumForm=Roman|NumType=Card		
+messure	X	messure	1	Foreign=Yes		
+quinto	X	quinto	1	Foreign=Yes		
+dici	X	dici	1	Foreign=Yes		
+chignamente	X	chignamente	1	Foreign=Yes		
+state	X	state	1	Foreign=Yes		
+siate	X	siate	1	Foreign=Yes		
+una	X	una	1	Foreign=Yes		
+fermana	X	fermana	1	Foreign=Yes		
+scopai	X	scopai	1	Foreign=Yes		
+da	X	da	3	Foreign=Yes		
+cascioli	X	cascioli	1	Foreign=Yes|NameType=Geo		
+cita	X	cita	2	Foreign=Yes		
+se	X	se	4	Foreign=Yes		
+n	X	n	2	Foreign=Yes		
+gia	X	gia	1	Foreign=Yes		
+grande	X	grande	1	Foreign=Yes		
+aina	X	aina	1	Foreign=Yes		
+enter	X	enter	1	Foreign=Yes		
+l	X	l	8	Foreign=Yes		
+ora	X	ora	1	Foreign=Yes		
+del	X	del	3	Foreign=Yes		
+uesper	X	uesper	1	Foreign=Yes		
+cio	X	cio	1	Foreign=Yes		
+fu	X	fu	1	Foreign=Yes		
+mes	X	mes	1	Foreign=Yes		
+d	X	d	6	Foreign=Yes		
+ochiouer	X	ochiouer	1	Foreign=Yes		
+ces	X	ces	1	Foreign=Yes		
+fas	X	fas	1	Foreign=Yes		
+tu	X	tu	4	Foreign=Yes		
+ancor	X	ancor	2	Foreign=Yes		
+aigua	X	aigua	2	Foreign=Yes		
+lo	X	lo	11	Foreign=Yes		
+foco	X	foco	2	Foreign=Yes		
+lassi	X	lassi	2	Foreign=Yes		
+lungiamente	X	lungiamente	2	Foreign=Yes		
+hai	X	hai	2	Foreign=Yes		
+menato	X	menato	2	Foreign=Yes		
+raca	INTJ	racha	2	_		
+tragemi	X	tragemi	1	Foreign=Yes		
+este	X	este	2	Foreign=Yes		
+focora	X	focora	1	Foreign=Yes		
+t	X	t	1	Foreign=Yes		
+a	X	a	4	Foreign=Yes		
+bolontate	X	bolontate	1	Foreign=Yes		
+bolzera	X	bolzera	1	Foreign=Yes		
+chiangesse	X	chiangesse	1	Foreign=Yes		
+quatraro	X	quatraro	1	Foreign=Yes		
+obscene	ADJ	obscene	2	Form=Adverbial		
+polite	VERB	polite	3	Form=Adverbial		
+madonna	X	madonna	2	Foreign=Yes		
+dir	X	dir	1	Foreign=Yes		
+ui	X	ui	2	Foreign=Yes		
+uoglio	X	uoglio	2	Foreign=Yes		
+fino	X	fino	3	Foreign=Yes		
+amore	X	amore	8	Foreign=Yes		
+uo	X	uo	2	Foreign=Yes		
+letamente	X	letamente	2	Foreign=Yes		
+sigillatim	ADV	sigillatim	1	_		
+manichiamo	X	manichiamo	1	Foreign=Yes		
+introcque	X	introcque	1	Foreign=Yes		
+noi	X	noi	1	Foreign=Yes		
+non	X	non	8	Foreign=Yes		
+facciamo	X	facciamo	1	Foreign=Yes		
+altro	X	altro	1	Foreign=Yes		
+bene	X	bene	1	Foreign=Yes		
+andonno	X	andonno	1	Foreign=Yes		
+li	X	li	1	Foreign=Yes		
+fanti	X	fanti	1	Foreign=Yes		
+fiorensa	X	fiorensa	1	Foreign=Yes|NameType=Geo		
+pisa	X	pisa	1	Foreign=Yes|NameType=Geo		
+fo	X	fo	1	Foreign=Yes		
+uoto	X	uoto	1	Foreign=Yes		
+dio	X	dio	2	Foreign=Yes|NameType=Rel|Proper=Yes		
+ke	X	ke	1	Foreign=Yes		
+in	X	in	1	Foreign=Yes		
+grassarra	X	grassarra	1	Foreign=Yes		
+eie	X	eie	1	Foreign=Yes		
+comuno	X	comuno	1	Foreign=Yes		
+lucca	X	lucca	1	Foreign=Yes|NameType=Geo		
+onche	X	onche	1	Foreign=Yes		
+renegata	X	renegata	1	Foreign=Yes		
+auess	X	auess	1	Foreign=Yes		
+siena	X	siena	1	Foreign=Yes|NameType=Geo		
+ch	X	ch	5	Foreign=Yes		
+ee	X	ee	1	Foreign=Yes		
+chesto	X	chesto	1	Foreign=Yes		
+uuo	X	uuo	1	Foreign=Yes		
+uenio	X	uenire	1	_		
+ouelle	X	ouelle	1	Foreign=Yes		
+indigne	ADJ	indigne,indignissime	21	Degree=Abs|Form=Adverbial		
+z	NOUN	z	4	NameType=Let		
+contatim	VERB	contatim	1	Form=Adverbial|VerbForm=Part		
+orientaliter	ADJ	orientaliter	1	Form=Adverbial		
+deusci	X	deusci	1	Foreign=Yes		
+oclo	X	oclo	1	Foreign=Yes		
+meo	X	meo	3	Foreign=Yes		
+corada	X	corada	1	Foreign=Yes		
+mea	X	mea	1	Foreign=Yes		
+maia	X	maia	1	Foreign=Yes		
+tus	X	tus	1	_		
+tas	X	tas	1	_		
+merco	X	merco	1	Foreign=Yes		
+u	NOUN	u	1	NameType=Let		
+f	NOUN	f	7	NameType=Let		
+nof	X	nof	1	Foreign=Yes		
+uif	X	uif	1	Foreign=Yes		
+le	X	le	1	Foreign=Yes		
+plage	X	plage	1	Foreign=Yes		
+no	X	no	2	Foreign=Yes		
+ueras	X	ueras	1	Foreign=Yes		
+monto	X	monto	1	Foreign=Yes		
+multo	X	multo	1	Foreign=Yes		
+procul	ADP	procul	5	_		
+porto	X	porto	1	Foreign=Yes		
+donna	X	donna	7	Foreign=Yes		
+fermo	X	fermo	3	Foreign=Yes		
+lontano	X	lontano	2	Foreign=Yes		
+gire	X	gire	2	Foreign=Yes		
+piu	X	piu	2	Foreign=Yes		
+attendo	X	attendo	1	Foreign=Yes		
+il	X	il	1	Foreign=Yes		
+tuo	X	tuo	1	Foreign=Yes		
+soccorso	X	soccorso	1	Foreign=Yes		
+necubi	SCONJ	necubi	6	Polarity=Neg|PronType=Rel		
+introrsum	PRON	introrsum,introrsus,introsum,introsus	36	Compound=Yes|Form=Adverbial|VerbForm=Part		
+extrorsum	PRON	extrorsum	1	Compound=Yes|Form=Adverbial|VerbForm=Part		
+prosaice	ADJ	prosayce	1	Form=Adverbial		
+metrice	ADJ	metrice	1	Form=Adverbial		
+superficietenus	NOUN	superficietenus	2	Form=Adverbial		
+discretiue	ADJ	discretiue	1	Form=Adverbial		
+segregatim	VERB	segregatim	1	Form=Adverbial|VerbForm=Part		
+callide	ADJ	callide,callidissime,callidius	20	Degree=Abs,Cmp|Form=Adverbial		
+posc	X	posc	1	Foreign=Yes		
+mudar	X	mudar	1	Foreign=Yes		
+c	X	c	1	Foreign=Yes		
+un	X	un	1	Foreign=Yes		
+cantar	X	cantar	1	Foreign=Yes		
+exparia	X	exparia	1	Foreign=Yes		
+aura	X	aura	1	Foreign=Yes		
+amara	X	amara	1	Foreign=Yes		
+fa	X	fa	1	Foreign=Yes		
+bruol	X	bruol	1	Foreign=Yes		
+brancuz	X	brancuz	1	Foreign=Yes		
+clarzir	X	clarzir	1	Foreign=Yes		
+solaz	X	solaz	1	Foreign=Yes		
+reueilar	X	reueilar	1	Foreign=Yes		
+s	X	s	1	Foreign=Yes		
+es	X	es	1	Foreign=Yes		
+trop	X	trop	1	Foreign=Yes		
+endormiz	X	endormiz	1	Foreign=Yes		
+digno	X	digno	1	Foreign=Yes		
+sono	X	sono	1	Foreign=Yes		
+eo	X	eo	1	Foreign=Yes		
+di	X	di	4	Foreign=Yes		
+morte	X	morte	1	Foreign=Yes		
+doglia	X	doglia	2	Foreign=Yes		
+mi	X	mi	2	Foreign=Yes		
+reca	X	reca	1	Foreign=Yes		
+ardire	X	ardire	1	Foreign=Yes		
+multimode	NOUN	multimode	1	Compound=Yes|Form=Adverbial		
+care	ADJ	care,carissime,carius	13	Degree=Abs,Cmp|Form=Adverbial		
+poetice	ADJ	poetice	3	Form=Adverbial		
+tragice	ADJ	tragice	5	Form=Adverbial		
+comice	ADJ	comice	4	Form=Adverbial		
+elegiace	ADJ	elegiace	2	Form=Adverbial		
+secure	ADJ	secure,securius	12	Degree=Cmp|Form=Adverbial		
+ara	X	ara	1	Foreign=Yes		
+ausirez	X	ausirez	1	Foreign=Yes		
+encabalitz	X	encabalitz	1	Foreign=Yes		
+cantarz	X	cantarz	1	Foreign=Yes		
+al	X	al	4	Foreign=Yes		
+repara	X	repara	1	Foreign=Yes		
+sempre	X	sempre	1	Foreign=Yes		
+spero	X	spero	1	Foreign=Yes		
+giamai	X	giamai	1	Foreign=Yes		
+mia	X	mia	1	Foreign=Yes		
+salute	X	salute	2	Foreign=Yes		
+moui	X	moui	2	Foreign=Yes		
+tua	X	tua	2	Foreign=Yes		
+uirtu	X	uirtu	2	Foreign=Yes		
+cielo	X	cielo	2	Foreign=Yes		
+mos	X	mos	1	Foreign=Yes		
+sobretos	X	sobretos	1	Foreign=Yes		
+fos	X	fos	2	Foreign=Yes		
+tan	X	tan	1	Foreign=Yes		
+abellis	X	abellis	1	Foreign=Yes		
+amoros	X	amoros	1	Foreign=Yes		
+pensamen	X	pensamen	1	Foreign=Yes		
+sols	X	sols	1	Foreign=Yes		
+sui	X	sui	1	Foreign=Yes		
+sai	X	sai	1	Foreign=Yes		
+sobraffan	X	sobraffan	1	Foreign=Yes		
+sorz	X	sorz	1	Foreign=Yes		
+belnui	NOUN	belnui	2	Foreign=Yes|NameType=Geo		
+nuls	X	nuls	2	Foreign=Yes		
+hom	X	hom	2	Foreign=Yes		
+pot	X	pot	2	Foreign=Yes		
+complir	X	complir	2	Foreign=Yes		
+addreciamen	X	addreciamen	1	Foreign=Yes		
+con	X	con	1	Foreign=Yes		
+arbres	X	arbres	1	Foreign=Yes		
+sobrecarcar	X	sobrecarcar	1	Foreign=Yes		
+ire	X	ire	1	Foreign=Yes		
+que	X	que	1	Foreign=Yes		
+en	X	en	1	Foreign=Yes		
+mon	X	mon	1	Foreign=Yes		
+repaire	X	repaire	1	Foreign=Yes		
+tegno	X	tegno	1	Foreign=Yes		
+folle	X	folle	1	Foreign=Yes		
+empresa	X	empresa	1	Foreign=Yes		
+dire	X	dire	2	Foreign=Yes		
+poi	X	poi	1	Foreign=Yes		
+conuen	X	conuen	1	Foreign=Yes		
+porti	X	porti	1	Foreign=Yes		
+auegna	X	auegna	1	Foreign=Yes		
+aggia	X	aggia	1	Foreign=Yes		
+tempo	X	tempo	1	Foreign=Yes		
+mente	X	mente	2	Foreign=Yes		
+ragiona	X	ragiona	1	Foreign=Yes		
+fortassis	ADV	fortassis	1	_		
+adtente	ADV	actente	1	_		
+mamma	X	mamma	1	Foreign=Yes		
+babbo	X	babbo	1	Foreign=Yes		
+mate	X	mate	1	Foreign=Yes		
+pate	X	pate	1	Foreign=Yes		
+dolciada	X	dolciada	1	Foreign=Yes		
+placeuole	X	placeuole	1	Foreign=Yes		
+greggia	X	greggia	1	Foreign=Yes		
+creta	X	creta	1	Foreign=Yes		
+femina	X	femina	1	Foreign=Yes		
+corpo	X	corpo	1	Foreign=Yes		
+x	NOUN	x	1	NameType=Let		
+disio	X	disio	1	Foreign=Yes		
+uirtute	X	uirtute	1	Foreign=Yes		
+donare	X	donare	1	Foreign=Yes		
+letitia	X	letitia	1	Foreign=Yes		
+securtate	X	securtate	1	Foreign=Yes		
+defesa	X	defesa	1	Foreign=Yes		
+me	X	me	3	Foreign=Yes		
+te	X	te	1	Foreign=Yes		
+e	X	e	3	Foreign=Yes		
+i	X	i	1	Foreign=Yes		
+o	X	o	1	Foreign=Yes		
+u	X	u	1	Foreign=Yes		
+terra	X	terra	1	Foreign=Yes		
+honore	X	honore	1	Foreign=Yes		
+speranza	X	speranza	1	Foreign=Yes		
+grauitate	X	grauitate	1	Foreign=Yes		
+alleuiato	X	alleuiato	1	Foreign=Yes		
+impossibilita	X	impossibilita	1	Foreign=Yes		
+impossibilitate	X	impossibilitate	1	Foreign=Yes		
+benauenturatissimo	X	benauenturatissimo	1	Foreign=Yes		
+inanimatissimamente	X	inanimatissimamente	1	Foreign=Yes		
+disauenturatissimamente	X	disauenturatissimamente	1	Foreign=Yes		
+souramagnificentissimamente	X	souramagnificentissimamente	1	Foreign=Yes		
+honorificabilitudinitate	X	honorificabilitudinitate	1	Foreign=Yes		
+quomodo	SCONJ	quomodo	111	Compound=Yes|PronType=Rel		
+donne	X	donne	2	Foreign=Yes		
+auete	X	auete	2	Foreign=Yes		
+intelletto	X	intelletto	2	Foreign=Yes		
+progressiue	ADJ	progressiue	1	Form=Adverbial		
+poco	X	poco	2	Foreign=Yes		
+giorno	X	giorno	2	Foreign=Yes		
+gran	X	gran	1	Foreign=Yes		
+cerchio	X	cerchio	1	Foreign=Yes		
+ombra	X	ombra	1	Foreign=Yes		
+quandoque	SCONJ	quandoque	28	Form=Emp|PronType=Rel		
+traggemi	X	traggemi	1	Foreign=Yes		
+stiua	X	stiua	1	Foreign=Yes		
+pietosa	X	pietosa	1	Foreign=Yes		
+nouella	X	nouella	1	Foreign=Yes		
+etate	X	etate	1	Foreign=Yes		
+prega	X	prega	2	Foreign=Yes		
+perch	X	perch	1	Foreign=Yes		
+adrecciamen	X	adrecciamen	1	Foreign=Yes		
+sofferire	X	sofferire	1	Foreign=Yes		
+poscia	X	poscia	1	Foreign=Yes		
+tutto	X	tutto	1	Foreign=Yes		
+ha	X	ha	1	Foreign=Yes		
+lasciato	X	lasciato	1	Foreign=Yes		
+ioi	X	ioi	1	Foreign=Yes		
+donar	X	donar	1	Foreign=Yes		
+oretenus	NOUN	oretenus	1	Compound=Yes|Form=Adverbial		
+utrobique	ADV	utrobique,utrubique	7	AdvType=Loc|Form=Emp|PronType=Con		
+omnimode	NOUN	omnimode	1	Compound=Yes|Form=Adverbial		
+aulice	ADJ	aulice	1	Form=Adverbial		
+uedi	X	uedi	1	Foreign=Yes		
+ben	X	ben	1	Foreign=Yes		
+questa	X	questa	1	Foreign=Yes		
+persuasorie	ADJ	persuasorie	1	Form=Adverbial		
+dissuasorie	ADJ	dissuasorie	1	Form=Adverbial		
+gratulanter	VERB	gratulanter	1	Form=Adverbial|VerbForm=Part		
+ironice	ADJ	yronice	1	Form=Adverbial		
+laudabiliter	ADJ	laudabiliter,laudabilius	2	Degree=Cmp|Form=Adverbial		
+contemptiue	ADJ	contemptiue	1	Form=Adverbial		
+analytice	ADJ	analetice	1	Form=Adverbial		
+tantummodo	NOUN	tantummodo	38	Compound=Yes|Form=Adverbial|PronType=Dem		
+paulominus	ADJ	paulominus	1	Compound=Yes|Degree=Cmp|Form=Adverbial		
+diametraliter	ADJ	dyametraliter	1	Form=Adverbial		
+possum	NOUN	posse	1	_		
+b	NOUN	b	22	NameType=Let		
+a	NOUN	a	27	NameType=Let		
+c	NOUN	c	16	NameType=Let		
+potissime	ADJ	potissime	15	Degree=Abs|Form=Adverbial		
+oblique	ADJ	oblique	7	Form=Adverbial		
+superficialiter	ADJ	superficialiter	1	Form=Adverbial		
+derisiue	ADJ	derisiue	1	Form=Adverbial		
+luculenter	VERB	luculenter	1	Form=Adverbial|VerbForm=Part		
+mendaciter	ADJ	mendaciter	1	Form=Adverbial		
+artificiose	ADJ	artificiose	2	Form=Adverbial		
+confestim	VERB	confestim	43	Form=Adverbial		
+quinetiam	CCONJ	quinetiam	2	Compound=Yes		
+molliter	ADJ	mollissime,molliter,mollius	68	Degree=Abs,Cmp|Form=Adverbial		
+scite	VERB	scite	17	Form=Adverbial|VerbForm=Part		
+nonaginta	DET	nonaginta	9	Number=Plural|NumForm=Word|NumType=Card		
+miserabiliter	ADJ	miserabiliter	2	Form=Adverbial		
+ultimum	ADJ	ultimum	2	Degree=Abs|Form=Adverbial		
+acerbe	ADJ	acerbe,acerbissime,acerbius	33	Degree=Abs,Cmp|Form=Adverbial		
+altrinsecus	PRON	altrinsecus	1	Compound=Yes|Form=Adverbial|PronType=Con		
+seraphin	NOUN	seraphin	1	Foreign=Yes|NameType=Rel		
+otiose	ADJ	otiose	6	Form=Adverbial		
+procaciter	ADJ	procacissime,procaciter,procacius	5	Degree=Abs,Cmp|Form=Adverbial		
+tipice	ADJ	typice	2	Form=Adverbial		
+leui	NOUN	leui	5	Foreign=Yes|NameType=Giv		
+d	NOUN	d	8	Gender=Masc|NameType=Let		
+e	NOUN	e	2	NameType=Lit		
+destructiue	ADJ	destructiue	1	Form=Adverbial		
+respectiue	ADJ	respectiue	1	Form=Adverbial		
+multotiens	ADV	multotiens	2	Compound=Yes|NumType=Mult		
+inscie	ADJ	inscie	1	Form=Adverbial		
+quia	CCONJ	quia	1	PronType=Rel		
+ostensiue	ADJ	ostensiue	2	Form=Adverbial		
+commode	ADJ	commode,commodissime,commodius	60	Degree=Abs,Cmp|Form=Adverbial		
+en	PART	en	3	_		
+leue	ADJ	leue	1	Form=Adverbial		
+inter	PRON	inter	13	Form=Adverbial		
+oh	INTJ	o,oh	12	_		
+ast	CCONJ	ast	1	_		
+circiter	PRON	circiter	132	AdvType=Loc|Form=Adverbial		
+qualiter	SCONJ	qualiter	9	ConjType=Cmpr|PronType=Rel		
+libratim	VERB	libratim	1	Form=Adverbial|VerbForm=Part		
+fecunde	ADJ	fecundius	1	Degree=Cmp|Form=Adverbial		
+iuxta	PRON	iuxta	80	AdvType=Loc|Form=Adverbial		
+equiuoce	ADJ	equiuoce	2	Form=Adverbial		
+h	NOUN	h	3	NameType=Let		
+g	NOUN	g	1	NameType=Let		
+uiginti	DET	uiginti	109	Number=Plural|NumForm=Word|NumType=Card		
+idealiter	ADJ	ydealiter	1	Form=Adverbial		
+indubitabiliter	ADJ	indubitabiliter	1	Form=Adverbial		
+clxxx	DET	clxxx	6	Number=Plural|NumForm=Roman|NumType=Card		
+cenith	NOUN	cenith	2	Foreign=Yes		
+xxiii	DET	xxiii	4	Number=Plural|NumForm=Roman|NumType=Card		
+lxuii	DET	lxuii	1	NumForm=Roman|NumType=Card		
+morosini	NOUN	morosini	1	Foreign=Yes|Lang=it|NameType=Sur		
+opportune	ADJ	opportune,opportunissime	17	Degree=Abs|Form=Adverbial		
+potissimum	ADJ	potissimum	30	Degree=Abs|Form=Adverbial		
+inepte	VERB	inepte	6	Form=Adverbial|Polarity=Neg		
+uelut	ADP	ueluti	1	Compound=Yes		
+και	CCONJ	και	1	Foreign=Yes|Lang=grc		
+plane	ADJ	plane,planissime,planissume,planius	165	Degree=Abs,Cmp|Form=Adverbial		
+interim	PRON	interim	471	AdvType=Tim|Form=Adverbial		
+indulgenter	ADV	indulgenter,indulgentissime,indulgentius	3	Degree=Abs,Cmp|VerbForm=Part		
+uerecunde	ADV	uerecunde,uerecundius	5	Degree=Cmp		
+sane	PART	sane	5	_		
+magnopere	NOUN	magnopere	31	Compound=Yes|Form=Adverbial		
+antea	PRON	antea	326	AdvType=Tim|Compound=Yes|Form=Adverbial|Gender=Fem		
+praeterquam	PRON	praeterquam	32	AdvType=Tim|Compound=Yes|Form=Adverbial|PronType=Rel		
+idcirco	PART	iccirco,idcirco	5	Compound=Yes		
+audaciter	ADV	audacissime,audaciter,audacius,audacter	78	Degree=Abs,Cmp		
+uerum	ADJ	uerum	93	Form=Adverbial		
+aeque	ADJ	aeque,aequissime,aequius	257	Degree=Abs,Cmp|Form=Adverbial		
+eleganter	VERB	eleganter,elegantissime,elegantius	15	Degree=Abs,Cmp|Form=Adverbial		
+ornate	VERB	ornate,ornatissime,ornatius	20	Degree=Abs,Cmp|Form=Adverbial|VerbForm=Part		
+diserte	VERB	diserte,disertissime	10	Degree=Abs|Form=Adverbial		
+quin	PRON	quin	395	Form=Adverbial|Polarity=Neg		
+uulgo	NOUN	uolgo,uulgo	89	Form=Adverbial		
+propemodum	NOUN	propemodum	33	Compound=Yes|Form=Adverbial		
+considerate	VERB	considerate,consideratius	13	Degree=Cmp|Form=Adverbial|VerbForm=Part		
+superbe	ADJ	superbe,superbissime,superbius	35	Degree=Abs,Cmp|Form=Adverbial		
+erudite	ADV	erudite,eruditissime,eruditius	4	Degree=Abs,Cmp|VerbForm=Part		
+paululum	ADJ	paullulum,paululum	22	Form=Adverbial		
+ideo	PART	ideo	2	Compound=Yes		
+ingeniose	ADV	ingeniose	2	_		
+foris	PRON	foris	59	AdvType=Loc|Form=Adverbial		
+ionice	ADV	ionice	1	NameType=Nat		
+exacte	ADV	exacte	1	VerbForm=Part		
+tenaciter	ADV	tenaciter	3	_		
+lx	DET	lx	31	Number=Plural|NumForm=Roman|NumType=Card		
+ambitiose	ADV	ambitiose,ambitiosissime,ambitiosius	10	Degree=Abs,Cmp		
+intente	ADV	intente,intentius	11	Degree=Cmp|VerbForm=Part		
+eiusmodi	DET	eiusmodi	65	Compound=Yes|PronType=Dem		
+romane	ADV	romane	1	NameType=Nat		
+perspicue	ADV	perspicue	6	_		
+pridem	ADV	pridem	26	AdvType=Tim		
+mire	ADJ	mire	23	Form=Adverbial		
+sparsim	ADV	sparsim	1	VerbForm=Part		
+aliquid	ADV	aliquid	1	PronType=Ind		
+cupide	ADJ	cupide,cupidissime,cupidissume,cupidius	54	Degree=Abs,Cmp|Form=Adverbial		
+tantopere	NOUN	tantopere	8	Compound=Yes|Form=Adverbial|PronType=Dem		
+grauate	ADV	grauate	6	VerbForm=Part		
+amice	ADJ	amice,amicissime,amicius	19	Degree=Abs,Cmp|Form=Adverbial		
+imperiose	ADV	imperiose	1	_		
+insuper	ADP	insuper	9	AdpType=Prep		
+aliquot	DET	aliquot	72	NumType=Card|PronType=Dem,Ind		
+iure	ADV	iure	113	_		
+significanter	ADV	significanter	1	VerbForm=Part		
+obscure	ADJ	obscure,obscurissime	30	Degree=Abs|Form=Adverbial		
+peregre	ADJ	peregre	17	Form=Adverbial		
+officiose	ADJ	officiose,officiosissime	3	Degree=Abs|Form=Adverbial		
+paulisper	ADJ	paulisper,paullisper	78	Compound=Yes|Form=Adverbial		
+assidue	ADJ	adsidue,assidue	43	Form=Adverbial		
+honeste	ADJ	honeste,honestissime,honestius	114	Degree=Abs,Cmp|Form=Adverbial		
+moretto	NOUN	moretto	1	Foreign=Yes|Lang=it|NameType=Sur		
+egregie	ADJ	egregie,egregius	44	Degree=Cmp|Form=Adverbial		
+uero	CCONJ	uero	1120	Gender=Neut		
+leniter	ADJ	lenissime,leniter,lenius	58	Degree=Abs,Cmp|Form=Adverbial		
+nequiquam	DET	nequiquam	111	Form=Adverbial		
+raptim	VERB	raptim	39	Form=Adverbial		
+turbate	ADV	turbate	1	_		
+octo	DET	iix,octo	63	Gender=Fem,Masc,Neut|Number=Plural|NumType=Card		
+itaque	CCONJ	itaque	1451	_		
+quotienscumque	SCONJ	quotienscumque,quotienscunque,quotiensquomque,quotiescumque,quotiescunque	23	NumType=Mult|PronType=Rel		
+uiiii	DET	uiiii	27	Number=Plural|NumForm=Roman|NumType=Card		
+xiii	DET	xiii	28	Number=Plural|NumForm=Roman|NumType=Card		
+circum	ADP	circum	174	AdpType=Prep		
+xxx	DET	xxx	103	Number=Plural|NumForm=Roman|NumType=Card		
+simulatque	SCONJ	simulatque	8	_		
+obuiam	PRON	obuiam	90	Form=Adverbial		
+xxii	DET	xxii	14	Number=Plural|NumForm=Roman|NumType=Card		
+ccc	DET	ccc	36	Number=Plural|NumForm=Roman|NumType=Card		
+arcano	ADV	arcano	1	_		
+trepidanter	ADV	trepidantius	1	Degree=Cmp		
+timide	ADJ	timide,timidissime,timidius	42	Degree=Abs,Cmp|Form=Adverbial		
+secreto	VERB	secreto	29	Form=Adverbial		
+citro	ADJ	citro	15	Form=Adverbial		
+dure	ADJ	dure,durius	23	Degree=Abs,Cmp|Form=Adverbial		
+coram	ADV	coram	66	_		
+quoquouersus	PRON	quoquouersum,quoquouersus,quoquouorsum	9	Form=Adverbial		
+tametsi	SCONJ	tametsi	135	_		
+autem	CCONJ	autem	2187	_		
+iiii	DET	iiii	88	Number=Plural|NumForm=Roman|NumType=Card		
+simul	SCONJ	simul,simulac	79	_		
+quare	CCONJ	quare	182	PronType=Rel		
+arelate	NOUN	arelate	1	Gender=Fem		
+citerior	ADJ	citerior,citeriore,citeriorem,citerioris	34	Case=Abl,Acc,Gen,Nom|Gender=Fem,Masc,Neut|Number=Sing		
+lxxx	DET	lxxx	23	Number=Plural|NumForm=Roman|NumType=Card		
+nominatim	VERB	nominatim	67	Form=Adverbial		
+crebro	ADJ	creberrime,crebrius,crebro	67	Degree=Abs,Cmp|Form=Adverbial		
+dcccc	DET	dcccc	3	Number=Plural|NumForm=Roman|NumType=Card		
+noctu	NOUN	noctu	112	Form=Adverbial		
+cccc	DET	cccc	30	Number=Plural|NumForm=Roman|NumType=Card		
+continenter	VERB	continenter	9	Form=Adverbial		
+insolenter	VERB	insolenter,insolentius	13	Degree=Cmp|Form=Adverbial		
+lxx	DET	lxx	10	Number=Plural|NumForm=Roman|NumType=Card		
+dc	DET	dc	27	Number=Plural|NumForm=Roman|NumType=Card		
+cc	DET	cc	30	Number=Plural|NumForm=Roman|NumType=Card		
+comminus	ADV	comminus	66	_		
+tamdiu	ADV	tamdiu	9	_		
+l	DET	l	29	Number=Plural|NumForm=Roman|NumType=Card		
+improuiso	ADV	improuiso,inprouiso	13	_		
+xuii	DET	xuii	9	Number=Plural|NumForm=Roman|NumType=Card		
+necdum	CCONJ	necdum,nequedum	17	Polarity=Neg		
+anguste	ADV	anguste,angustissime,angustius	10	Degree=Abs,Cmp		
+posterius	ADV	posterius,postremo,postremum	272	Degree=Abs,Cmp		
+nonnumquam	ADV	nonnumquam,nonnunquam	32	_		
+ea	ADV	ea	10	_		
+mature	ADJ	mature,maturissime,maturius,maturrime,maturrume	82	Degree=Abs,Cmp|Form=Adverbial		
+clam	ADV	clam	95	_		
+interdiu	NOUN	interdiu,interdius	35	Form=Adverbial		
+postridie	PRON	postridie	47	Form=Adverbial		
+eodem	DET	eodem	110	Form=Adverbial		
+centuriatim	ADV	centuriatim	2	_		
+demisse	VERB	demisse,demississime	3	Degree=Abs|Form=Adverbial		
+subiecte	ADV	subiectissime	1	Degree=Abs		
+quatuor	DET	quattuor	196	Number=Plural|NumType=Card		
+xui	DET	xui	16	Number=Plural|NumForm=Roman|NumType=Card		
+directo	ADV	derecto	3	_		
+ordinatim	ADV	ordinatim	2	_		
+aduersus	ADV	aduersos,aduersum,aduersus,aduorsum	15	_		
+breui	ADJ	breui	53	Form=Adverbial|Gender=Fem		
+inflate	ADV	inflatius	3	Degree=Cmp		
+pondo	NOUN	pondo	16	Gender=Fem,Masc		
+cxx	DET	cxx	12	Number=Plural|NumForm=Roman|NumType=Card		
+praesto	NOUN	praesto	68	Form=Adverbial		
+generatim	VERB	generatim	19	Form=Adverbial		
+d	DET	d	27	Number=Plural|NumForm=Roman|NumType=Card		
+prope	ADP	prope,propius,proxume	55	AdpType=Prep		
+tute	ADV	tute,tutissime,tutius	12	Degree=Abs,Cmp		
+xl	DET	xl	26	Number=Plural|NumForm=Roman|NumType=Card		
+clam	ADP	clam	18	AdpType=Prep		
+m	DET	m	27	Number=Plural|NumForm=Roman|NumType=Card		
+nocte	ADV	nocte	72	_		
+dccc	DET	dccc	13	Number=Plural|NumForm=Roman|NumType=Card		
+xuiii	DET	xuiii	7	Number=Plural|NumForm=Roman|NumType=Card		
+cx	DET	cx	4	Number=Plural|NumForm=Roman|NumType=Card		
+c	DET	c	35	Number=Plural|NumForm=Roman|NumType=Card		
+moderate	ADV	moderate,moderatissime,moderatius	37	Degree=Abs,Cmp		
+	X	,<sunt>manumissi,ab,ac,accusant,actio,actus,ad,adoro,aecrophagie,aecus,aequitum,am,angulus,angustiae,animos,annis,ante,ape,arborum,ardannabou,aret,asiadarides,asiadis,assarionem,astataries,auia,auset,aut,baccineas,benedictum<est>,ber,biocio,blanda,brundisio,caccitus,causis,certe,cetastis,ceu,cit,cite,clitis,cognosces,color,comm,commeatu,conscendere,conuersa,copulatas,cornu,corporis,corrupta,cotidiana,credas,cum,cumque,currum,curuatis,danai,dannabo,dannaustra,dardares,dardaries,daries,dem,deorum,deponere,destructi,deurode,dextros,dextrum,di,dis,dispare,dissertionum,dissunapiter,diues,domator,dorozantum,e,ea,eame,eo,epicuri,erant,erumpnas,es,et,exaeresimos,excludat,existant,exuit,f,frusramdis,fuerint,furore,hauat,hercules,his,ho,huat,ia,illa,illo,im,imperiatum,in,inludunt,insanandus,insanii,inseruisse,insignem,insignis,intacta,inter,interere,interiores,intracursum,inuenta,iope,ipsum,iri,is,ista,istasis,itastatuas,iunctas,iuuant,laecasin,laque,latent,lem,lentis,liceat,licta,linces,litora,loquentibus,lug,m,madeia,magno,maiiesto,maledictum<est>,matauitatau,matrum,mente,meus,mine,mirando,misera,moetas,motas,multaciam,n,ne,nisi,nnotarum,no,noctes,non,nostra,nostri,obiectis,oblitum,obruent,oliorum,omnia,on,ordina,ore,ossa,p,pallauit,parat,parca,parce,parent,pareuc,pars,paruis,patronorum,patrum,pauidae,peiora,pendentium,penis,perimadeia,peruocatis,perure,pessumdatus<sit>,petes,phillis,pista,placato,placentum,placentur,plus,po,preconari,pri,pro,prodesse,properie,q,qu,quae,quaedam,quaeque,quam,quando,quandoquidem,que,quem,qui,quicquam,quidquid,quiete,quod,r,ra,raro,recessus,refert,res,resultet,rursum,saele,saepe,satis,satisdatum<erit>,satisdaturos<esse>,satisfactum<esse>,satisfactum<est>,satisfactum<sit>,sciunt,semel,senescere,sensus,sententis,sibi,sic,sicilia,sicuti,similia,sin,sint,sista,sit,sormea,spe,specus,spem,subaudis,suptus,surntis,sus,tangomenas,tarsis,te,tedii,texit,ti,tibi,timet,tis,to,tristionias,tum,turpis,u,uaeta,uato,uberrer,uenena,uentorum,uer,ueterani,ueteres,ueusam,uibar,uideres,uiri,uirisicca,una,unc,unda,uniuersa,uolutat,uoto,us,ut,uter	382	Gender=Masc,Neut		
+ccxx	DET	ccxx	2	Number=Plural|NumForm=Roman|NumType=Card		
+xxuii	DET	xxuii	5	Number=Plural|NumForm=Roman|NumType=Card		
+enixe	ADV	enixe	5	_		
+expedite	ADV	expedite,expeditissime,expeditius	8	Degree=Abs,Cmp		
+xxiu	DET	xxiu	1	Number=Plural|NumForm=Roman|NumType=Card		
+quiete	ADV	quiete,quietissime	4	Degree=Abs		
+quingenti	DET	quingentis	11	Case=Abl|Gender=Fem,Masc,Neut|Number=Plur|NumType=Card	quingenti,dxxc,quingenta,quingentorum,q,quingentos	InflClass
+xxxiii	DET	xxxiii	3	Number=Plural|NumForm=Roman|NumType=Card		
+dcccclx	DET	dcccclx	1	Number=Plural|NumForm=Roman|NumType=Card		
+xxxii	DET	xxxii	5	Number=Plural|NumForm=Roman|NumType=Card		
+eadem	ADV	eadem	11	_		
+neglegenter	ADV	neglegenter	1	_		
+xlu	DET	xlu	3	Number=Plural|NumForm=Roman|NumType=Card		
+turmatim	ADV	turmatim	5	_		
+etiamtunc	ADV	etiamtum,etiamtunc	2	_		
+industriose	ADV	industriose	1	_		
+xxiiii	DET	xxiiii	2	Number=Plural|NumForm=Roman|NumType=Card		
+xxxu	DET	xxxu	8	Number=Plural|NumForm=Roman|NumType=Card		
+ccxl	DET	ccxl	2	Number=Plural|NumForm=Roman|NumType=Card		
+quadringenti	DET	quadrigentis,quadringentis	8	Case=Abl|Gender=Fem,Masc,Neut|Number=Plur|NumType=Card	quadringentos,quadringentorum,quadringenta,quadrigentos,quadringenti	InflClass
+sedecim	DET	sedecim	22	Number=Plural|NumType=Card		
+largiter	ADJ	largiter	6	Form=Adverbial		
+minimum	ADV	minimum	25	Degree=Abs		
+bipartito	ADV	bipertito	6	_		
+cxxx	DET	cxxx	4	Number=Plural|NumForm=Roman|NumType=Card		
+xxxui	DET	xxxui	11	Number=Plural|NumForm=Roman|NumType=Card		
+trecenti	DET	trecentis,trecentum	16	Case=Abl,Dat,Gen|Gender=Fem,Masc,Neut|Number=Plur|NumType=Card	trecentae,trecentas,trecenta,cccxxciiii,trecentos,trecentorum,trecenti,trecentarum	InflClass
+posteaquam	SCONJ	posteaquam	62	_		
+saepen	ADV	saepe	16	_		
+umero	ADV	numero	16	_		
+quamobrem	SCONJ	quamobrem	3	PronType=Rel		
+quotannis	NOUN	quotannis	35	Form=Adverbial		
+sescenti	DET	sescentis	3	Case=Abl|Gender=Fem,Masc,Neut|Number=Plur|NumType=Card	sexcenta,sescentos,sescenti,sexcenti,sescentas,sescenta,sescentorum	InflClass
+quinquaginta	DET	quinquaginta	70	Number=Plural|NumType=Card		
+irridicule	ADJ	inridicule	1	Form=Adverbial		
+propius	ADP	propius	29	AdpType=Prep		
+circiter	ADP	circiter	2	AdpType=Prep		
+quamobrem	NOUN	quamobrem	4	Form=Adverbial|PronType=Int		
+necne	CCONJ	necne	47	Polarity=Neg		
+moleste	ADJ	moleste,molestius	63	Degree=Cmp|Form=Adverbial		
+cis	ADP	cis	9	AdpType=Prep		
+xxu	DET	xxu	20	Number=Plural|NumForm=Roman|NumType=Card		
+duodeuiginti	DET	duodeuiginti,xiix	8	Number=Plural|NumType=Card		
+identidem	ADV	identidem	38	_		
+indiligenter	VERB	indiligenter,indiligentius	2	Degree=Cmp|Form=Adverbial		
+triginta	DET	triginta	85	Number=Plural|NumType=Card		
+mobiliter	ADJ	mobiliter	5	Form=Adverbial		
+quoquo	ADV	quoque,quoquo	5	_		
+uersus	VERB	uersum,uersus,uorsum,uorsus	35	Form=Adverbial		
+octingenti	DET	octingentis	2	Case=Abl|Gender=Fem,Masc,Neut|Number=Plur|NumType=Card	octingenti,octingentae,octingenta,octingentorum,octingentos	InflClass
+prone	ADJ	prone	1	Form=Adverbial		
+fastigate	VERB	fastigate	1	Form=Adverbial		
+arte	NOUN	arte,artissime,artissume,artius	27	Degree=Abs,Cmp|Form=Adverbial		
+duodetriginta	DET	duodetriginta	1	Number=Plural|NumType=Card		
+obstinate	VERB	obstinate,opstinate	3	Form=Adverbial		
+tripartito	ADV	tripertito	8	_		
+septingenti	DET	septingentis	5	Case=Abl|Gender=Fem,Masc,Neut|Number=Plur|NumType=Card	septingenti,septingenta,septingentos,septingentarum,septingentorum	InflClass
+uiciens	ADV	uiciens,uicies	18	NumType=Mult		
+incommode	ADJ	incommode,incommodius	3	Degree=Cmp|Form=Adverbial		
+quotiens	SCONJ	quotiens,quoties	224	NumType=Mult|PronType=Rel		
+caute	VERB	caute,cautius	22	Degree=Cmp|Form=Adverbial		
+aliqua	ADV	aliqua	3	_		
+coniunctim	VERB	coniunctim	1	Form=Adverbial		
+promiscue	ADJ	promisce,promiscue	10	Form=Adverbial		
+alio	ADV	alio	59	_		
+sinistrorsum	ADV	sinistrorsum,sinistrorsus	2	_		
+studiose	ADJ	studiose,studiosissime,studiosius	32	Degree=Abs,Cmp|Form=Adverbial		
+sincere	ADJ	sincere,sincerius	4	Degree=Cmp|Form=Adverbial		
+cccxxx	DET	cccxxx	1	Number=Plural|NumForm=Roman|NumType=Card		
+languide	ADV	languide,languidius	9	Degree=Cmp		
+cuneatim	ADV	cuneatim	1	_		
+mite	ADV	mitissime,mitius	4	Degree=Abs,Cmp		
+tumultuose	ADV	tumultuosissime,tumultuosius	4	Degree=Abs,Cmp		
+intoleranter	ADV	intolerantissime,intolerantius	2	Degree=Abs,Cmp		
+quantopere	SCONJ	quantopere	1	ConjType=Cmpr|NumType=Card|PronType=Rel		
+industrie	ADV	industrie,industriosissime	5	Degree=Cmp		
+exigue	ADV	exigue	3	_		
+parce	ADJ	parce,parcissime,parcius	53	Degree=Abs,Cmp|Form=Adverbial		
+tantumdem	ADV	tantundem	8	_		
+ccl	DET	ccl	3	Number=Plural|NumForm=Roman|NumType=Card		
+undecim	DET	undecim	8	Number=Plural|NumType=Card		
+lxxiiii	DET	lxxiiii	2	Number=Plural|NumForm=Roman|NumType=Card		
+sedulo	ADJ	sedulo	25	Form=Adverbial		
+benigne	ADJ	benigne,benignissime,benignius	69	Degree=Abs,Cmp|Form=Adverbial		
+xiu	DET	xiu	4	Number=Plural|NumForm=Roman|NumType=Card		
+uic	DET	uic	1	Number=Plural|NumForm=Roman|NumType=Card		
+inibi	PRON	inibi	6	Form=Adverbial		
+xxxiiii	DET	xxxiiii	2	Number=Plural|NumForm=Roman|NumType=Card		
+exaduersum	ADV	exaduersum,exaduorsum	2	_		
+pone	ADP	pone	12	AdpType=Prep		
+lxui	DET	lxui	1	Number=Plural|NumForm=Roman|NumType=Card		
+liiii	DET	liiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+xxxuii	DET	xxxuii	2	Number=Plural|NumForm=Roman|NumType=Card		
+utrimquesecus	ADV	utrimquesecus	5	_		
+lxxii	DET	lxxii	5	Number=Plural|NumForm=Roman|NumType=Card		
+clxxii	DET	clxxii	1	Number=Plural|NumForm=Roman|NumType=Card		
+dccxxuiiii	DET	dccxxuiiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+dccxxiiii	DET	dccxxiiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+puriter	ADV	puriter	6	_		
+indidem	ADV	indidem	4	_		
+sursumuorsum	ADV	susumuorsum	2	_		
+minute	ADV	minute,minutissime	8	Degree=Abs		
+aliquantum	DET	aliquantum	12	Form=Adverbial|NumType=Card		
+obliquo	ADV	obliquo	1	_		
+controuersus	ADV	controuersus	1	_		
+subtus	ADV	subtus	3	_		
+radicitus	ADV	radicitus	9	_		
+tempestiuo	ADV	tempestiuo	1	_		
+lu	DET	lu	3	Number=Plural|NumForm=Roman|NumType=Card		
+xxui	DET	xxui	5	Number=Plural|NumForm=Roman|NumType=Card		
+munde	ADV	munde,mundissime	4	Degree=Abs		
+temperate	ADV	temperate	2	_		
+sublimiter	ADV	sublimiter,sublimius	7	Degree=Cmp		
+quoquam	ADV	quoquam	14	_		
+testu	NOUN	testu	2	Gender=Neut		
+singulatim	ADV	singulatim	1	_		
+rarenter	ADJ	rarenter	2	Form=Adverbial		
+aequabiliter	ADV	aequabiliter,aequabilius	7	Degree=Cmp		
+lxiiii	DET	lxiiii	2	Number=Plural|NumForm=Roman|NumType=Card		
+probe	ADJ	probe	38	Form=Adverbial		
+minutim	VERB	minutim	1	Form=Adverbial		
+deciens	ADV	deciens,decies	37	NumType=Mult		
+ergo	ADP	ergo	14	AdpType=Prep		
+caste	ADJ	caste,castissime	5	Degree=Abs|Form=Adverbial		
+xluiiii	DET	xluiiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+xlui	DET	xlui	2	Number=Plural|NumForm=Roman|NumType=Card		
+li	DET	li	2	Number=Plural|NumForm=Roman|NumType=Card		
+xix	DET	xix	1	Number=Plural|NumForm=Roman|NumType=Card		
+impraesentiarum	ADV	inpraesentiarum	2	_		
+quomi	SCONJ	quo	106	_		
+nus	ADV	minus	106	_		
+propter	ADV	propter	12	_		
+mirifice	ADJ	mirifice	10	Form=Adverbial		
+cuiusmodi	ADV	cuiusmodi	23	PronType=Int		
+illiusmodi	DET	illimodi,illiusmodi	2	_		
+spurce	ADV	spurce,spurcius	3	Degree=Cmp		
+alteras	ADV	alteras	3	_		
+tantisper	ADV	tantisper	8	_		
+aliorsum	ADV	aliorsum,aliouorsum	2	_		
+illorsum	ADV	illorsum	1	_		
+ferociter	ADV	ferocissime,ferocit,ferociter,ferocius	20	Degree=Abs,Cmp		
+uls	ADP	uls	1	_		
+imperabiliter	ADJ	imperabiliter	1	Form=Adverbial		
+secunde	ADJ	secunde	2	Form=Adverbial		
+noue	ADV	noue,nouissime,nouissume	41	Degree=Abs,Cmp		
+circumcirca	X	circumcirca	3	_		
+praeterpropter	X	praeterpropter	1	_		
+nequiter	ADV	nequiter	6	_		
+strenue	ADV	strenue	27	_		
+poneuersus	ADP	poneuersus	2	AdpType=Prep		
+pedetentim	ADV	pedetemptim	9	_		
+uicissim	ADV	uicissim	41	_		
+sempiterno	ADV	sempiterno	2	_		
+formidolose	ADV	formidolose,formidulosius	2	Degree=Cmp		
+segniter	ADV	segniter,segnius	23	Degree=Cmp		
+istiusmodi	DET	istimodi,istiusmodi	6	_		
+sequestro	ADV	sequestro	1	_		
+magnifice	ADJ	magnifice,magnificius,magnufice	23	Degree=Cmp|Form=Adverbial		
+aliusmodi	DET	aliimodi	1	_		
+prorsum	ADV	prorsum,prosum	11	_		
+o	INTJ	o	989	PartType=Emp		
+mehercule	INTJ	mehercule,mehercules,mercules	98	_		
+utrobi	ADV	utrobi,utrubi	3	_		
+utrinde	ADV	utrinde	2	_		
+perpetue	ADV	perpetue,perpetuius	2	Degree=Cmp		
+luxuriose	ADJ	luxuriose	5	Form=Adverbial		
+transuersum	ADV	transuorsum	1	_		
+derepente	ADV	derepente	1	_		
+damnas	ADJ	damnas	1	_		
+atat	INTJ	attat	12	_		
+uerumuero	ADV	uerumuero	1	_		
+tetre	ADV	taeterrime,taetre	3	Degree=Abs		
+fraudulenter	ADV	fraudulenter	1	_		
+auariter	ADV	auariter	2	_		
+compluriens	ADV	compluriens,conpluriens	5	_		
+siremps	DET	siremps,sirempse	3	PronType=Emp		
+malitiose	ADV	malitiose,malitiosius	7	Degree=Cmp		
+argute	ADV	argute	3	_		
+aliquotfariam	ADV	aliquotfariam	1	_		
+pecoli	NOUN	pecoli	1	Gender=Fem,Masc,Neut		
+postilla	ADV	postilla	5	_		
+sextum	ADV	sextum	2	NumType=Ord		
+diequinti	ADV	diequinti	1	_		
+am	ADP	an	1	AdpType=Prep		
+laeua	ADV	laeua	7	_		
+peraeque	ADJ	peraeque	6	Form=Adverbial		
+belle	ADJ	belle,bellissime	19	Degree=Abs|Form=Adverbial		
+beate	VERB	beate,beatissime,beatius	27	Degree=Abs,Cmp|Form=Adverbial		
+pudice	ADV	pudice,pudicius	6	Degree=Cmp		
+pudenter	ADV	pudenter	6	_		
+quaml	ADV	quam	1	_		
+ducentiens	ADV	ducentiens,ducenties	3	NumType=Mult		
+trecentiens	ADV	trecenties	5	NumType=Mult		
+postmodo	ADV	postmodo	25	_		
+milliens	ADV	miliens,milies,milliens,millies	29	NumType=Mult		
+uenuste	ADV	uenuste	4	_		
+iocose	ADV	iocose,iocosius	2	Degree=Cmp		
+lepide	ADJ	lepide	27	Form=Adverbial		
+laboriose	ADV	laboriose,laboriosissime,laboriosius	5	Degree=Abs,Cmp		
+quaque	ADV	quaque	5	_		
+quali	ADV	qua	2	_		
+turpe	ADV	turpe	2	_		
+mimice	ADV	mimice	1	_		
+perdite	ADV	perdite	2	_		
+sumptuose	ADV	sumptuose,sumptuosius	4	Degree=Cmp		
+iucunde	ADJ	iucunde,iucundissime,iucundius	16	Degree=Abs,Cmp|Form=Adverbial		
+dulce	ADV	dulce,dulcius	9	Degree=Cmp		
+oppido	PART	oppido	11	_		
+suaue	ADV	suaue,suauius	5	Degree=Cmp		
+age	INTJ	age	167	_		
+agite	INTJ	agite	8	_		
+io	INTJ	io	54	_		
+heri	NOUN	here,heri	35	Form=Adverbial		
+penite	ADV	penite	1	_		
+perniciter	ADV	perniciter	2	_		
+graue	ADV	graue,grauissume	3	Degree=Abs		
+miseriter	ADV	miseriter	1	_		
+tenus	ADP	tenus	34	AdpType=Prep		
+quacumque	SCONJ	quacumque,quacunque	32	PronType=Rel		
+misere	ADJ	misere,miserius,miserrime	19	Degree=Abs,Cmp|Form=Adverbial		
+sicine	ADV	sicin,sicine	8	PronType=Int		
+attam	CCONJ	at	10	_		
+en	ADV	tamen	10	_		
+euoe	INTJ	euhoe	9	_		
+amplifice	ADV	amplifice	1	_		
+iamdu	ADV	iam	48	_		
+certatim	VERB	certatim	41	Form=Adverbial		
+subter	ADP	subter	18	AdpType=Prep		
+ubertim	ADJ	ubertim	3	Form=Adverbial		
+inaniter	ADV	inaniter	2	_		
+ei	INTJ	ei,i	67	_		
+improbe	ADJ	improbe,improbissime,improbius,inprobe	33	Degree=Abs,Cmp|Form=Adverbial		
+tamenetsi	SCONJ	tamenetsi	2	_		
+istinc	DET	istinc	17	Form=Adverbial		
+quidni	ADV	quidni	4	Polarity=Neg		
+ecquid	PRON	ecquid	46	Form=Adverbial|PronType=Int		
+quantumuis	ADV	quantumuis	4	NumType=Card		
+dumm	SCONJ	dum	19	_		
+odo	ADV	modo	19	_		
+uerumtamen	ADJ	uerumtamen	3	Form=Adverbial		
+memoriter	ADV	memoriter	6	_		
+coniuncte	ADV	coniunctissime,coniunctius	2	Degree=Abs,Cmp		
+amanter	VERB	amanter,amantissime,amantius	3	Degree=Abs,Cmp|Form=Adverbial		
+acute	VERB	acute,acutissime	12	Degree=Abs|Form=Adverbial		
+praeclare	ADJ	praeclare,praeclarissime	52	Degree=Abs|Form=Adverbial		
+quocirca	SCONJ	quocirca	20	PronType=Rel		
+quoquo	SCONJ	quoquo	11	PronType=Rel		
+quapropter	SCONJ	quapropter	68	PronType=Rel		
+hercules	INTJ	hercle,hercule,hercules	276	Gender=Masc		
+numne	PART	numne	1	PartType=Int|Polarity=Neg		
+etenim	CCONJ	etenim	337	_		
+quorsum	PRON	quorsom,quorsum,quorsus	25	Form=Adverbial|PronType=Int		
+reapse	ADV	reapse	3	_		
+exiliter	ADV	exiliter,exilius	2	Degree=Cmp		
+restricte	ADV	restricte,restrictissime	2	Degree=Abs		
+haudquaquam	PART	haudquaquam,haudquaquamst	25	Polarity=Neg		
+uspiam	ADV	uspiam	6	_		
+beneuole	ADV	beneuole	2	_		
+aspere	ADJ	aspere,asperius,asperrime	16	Degree=Abs,Cmp|Form=Adverbial		
+repugnanter	ADV	repugnanter	1	_		
+laute	VERB	laute,lautissime,lautius	4	Degree=Abs,Cmp|Form=Adverbial		
+mdiu	ADV	diu	80	_		
+illustre	ADV	inlustrius	1	Degree=Cmp		
+prolixe	ADJ	prolixe	4	Form=Adverbial		
+certo	ADJ	certo,certon	41	Form=Adverbial		
+nempe	ADV	nemp,nempe	170	_		
+perbreuiter	ADV	perbreuiter	1	_		
+turbulente	ADV	turbulente	2	_		
+fallaciter	ADV	fallacissime,fallaciter	4	Degree=Abs		
+inique	ADJ	inique,iniquissime	24	Degree=Abs|Form=Adverbial		
+gloriose	ADJ	gloriose,gloriosius	4	Degree=Cmp|Form=Adverbial		
+sublate	ADV	sublatius	1	Degree=Cmp		
+siquid	SCONJ	si	43	_		
+em	ADV	quidem	43	_		
+dolenter	ADV	dolenter,dolentius	8	Degree=Cmp		
+aliquo	ADV	aliquo	10	_		
+impure	ADV	impure,impurissime	2	Degree=Abs		
+frugaliter	ADV	frugaliter	6	_		
+laxe	ADV	laxe,laxissime,laxius	11	Degree=Abs,Cmp		
+uicatim	NOUN	uicatim	6	Form=Adverbial		
+nefarie	ADV	nefarie	21	_		
+scelerate	ADV	scelerate,sceleratissime,sceleratius	12	Degree=Abs,Cmp		
+praestanter	ADV	praestantissime	1	Degree=Abs		
+litterate	ADV	litterate	2	_		
+foede	ADJ	foede,foedissime	14	Degree=Abs|Form=Adverbial		
+religiose	ADV	religiose,religiosissime,religiosius	18	Degree=Abs,Cmp		
+iniuriose	ADV	iniuriosius	1	Degree=Cmp		
+permultum	DET	permultum	2	Form=Adverbial		
+simile	ADV	simillime	3	Degree=Abs		
+perquam	ADV	perquam	30	_		
+truculenter	ADV	truculentius	1	Degree=Cmp		
+ecquando	ADV	ecquando	9	PronType=Int		
+cuicuimodi	ADV	cuicuimodi	1	PronType=Int		
+nedum	SCONJ	nedum	11	Polarity=Neg		
+precario	ADV	precario	18	_		
+apte	VERB	apte,aptissime,aptius	47	Degree=Abs,Cmp|Form=Adverbial		
+distincte	VERB	distincte,distinctius	6	Degree=Cmp|Form=Adverbial		
+splendide	ADJ	splendide,splendidissime,splendidius	10	Degree=Abs,Cmp|Form=Adverbial		
+κατορθωμα	X	κατορθωμα	1	Foreign=Yes		
+καθηκον	X	καθηκον	1	Foreign=Yes		
+imprimis	ADJ	imprimis,inprimis	19	Form=Adverbial		
+indecore	ADJ	indecore	4	Form=Adverbial		
+effeminate	VERB	effeminate	3	Form=Adverbial		
+libidinose	ADJ	libidinose,lubidinose	6	Form=Adverbial		
+appetenter	VERB	adpetenter	1	Form=Adverbial		
+sancte	VERB	sancte,sanctissime,sanctius	20	Degree=Abs,Cmp|Form=Adverbial		
+comiter	ADJ	comiter	22	Form=Adverbial		
+parate	VERB	parate,paratissime,paratius	7	Degree=Abs,Cmp|Form=Adverbial		
+intempestiue	ADJ	intempestiue	4	Form=Adverbial		
+immoderate	VERB	immoderate,inmoderate	5	Form=Adverbial		
+submisse	ADV	submisse,summissius	7	Degree=Cmp		
+animose	ADJ	animose,animosius	19	Degree=Cmp|Form=Adverbial		
+πρεπον	X	πρεπον	1	Foreign=Yes		
+ορμη	X	ορμη	1	Foreign=Yes		
+inconsiderate	VERB	inconsiderate	1	Form=Adverbial		
+facete	ADJ	facete,facetissime,facetius	10	Degree=Abs,Cmp|Form=Adverbial		
+αποφθεγματα	X	αποφθεγματα	1	Foreign=Yes		
+delicate	ADJ	delicate,delicatius	6	Degree=Cmp|Form=Adverbial		
+sobrie	ADV	sobrie	3	_		
+ειρωνα	X	ειρωνα	1	Foreign=Yes		
+decore	ADV	decore	5	_		
+sensim	ADV	sensim	30	_		
+maledice	ADJ	maledice	1	Form=Adverbial		
+contumeliose	ADJ	contumeliose,contumeliosissime,contumeliosius	10	Degree=Abs,Cmp|Form=Adverbial		
+utcumque	SCONJ	utcumque,utquomque	44	PronType=Rel		
+ευταξιαν	X	ευταξιαν	1	Foreign=Yes		
+ευταξια	X	ευταξια	1	Foreign=Yes		
+ευκαιρια	X	ευκαιρια	1	Foreign=Yes		
+σοφιαν	X	σοφιαν	2	Foreign=Yes		
+φρονησιν	X	φρονησιν	1	Foreign=Yes		
+παθη	X	παθη	1	Foreign=Yes		
+ορμας	X	ορμας	1	Foreign=Yes		
+neutiquam	ADV	neutiquam	3	Polarity=Neg		
+quantopere	NOUN	quantopere	2	Form=Adverbial|NumType=Card|PronType=Int		
+blande	ADV	blande,blandissime,blandius	23	Degree=Abs,Cmp		
+gratuito	ADV	gratuito	7	_		
+perniciose	ADV	perniciose	1	_		
+populariter	ADV	populariter	7	_		
+cumulate	ADV	cumulate	6	_		
+inhumane	ADV	inhumane	2	_		
+auare	ADV	auare,auarissime	9	Degree=Abs		
+incontinenter	ADV	incontinenter	1	_		
+rustice	ADV	rustice,rusticius	2	Degree=Cmp		
+opipare	ADJ	opipare	2	Form=Adverbial		
+luculente	ADV	luculente	3	_		
+dolose	ADJ	dolose	2	Form=Adverbial		
+insidiose	ADV	insidiose,insidiosissime	5	Degree=Abs		
+simulate	ADV	simulate	3	_		
+recta	ADV	recta	15	_		
+incondite	ADV	incondite	1	_		
+praefracte	ADV	praefracte	1	_		
+affirmate	ADV	affirmate	1	_		
+calamitose	ADV	calamitose	1	_		
+neruose	ADV	neruosius	1	Degree=Cmp		
+intelligenter	ADV	intellegenter	2	_		
+incallide	ADV	incallide	1	_		
+propediem	PRON	propediem	3	Form=Adverbial		
+ubere	ADV	uberius	6	Degree=Cmp		
+saepenumero	X	saepenumero	5	_		
+quartum	ADV	quartum	3	NumType=Ord		
+iuueniliter	ADV	iuueniliter	2	_		
+antehac	PRON	antehac	16	Form=Adverbial		
+cedo	INTJ	cedo	49	_		
+edepol	INTJ	edepol	121	_		
+effrenate	ADV	effrenate,effrenatius	2	Degree=Cmp		
+incredibiliter	ADJ	incredibiliter	4	Form=Adverbial		
+tristiter	ADV	tristius	1	Degree=Cmp		
+insipienter	ADV	insipienter	1	_		
+inuiolate	ADV	inuiolate	1	_		
+flagitiose	ADV	flagitiose,flagitiosissime	5	Degree=Abs		
+tantulum	ADV	tantulum	6	_		
+uixdum	ADV	uixdum	10	_		
+regie	ADV	regie	2	_		
+manifesto	ADV	manifesto,manufesto	28	_		
+nihil	NOUN	nihil	1	Gender=Neut		
+unice	ADJ	unice	13	Form=Adverbial		
+dementer	ADV	dementer,dementissime	2	Degree=Abs		
+nudius	NOUN	nudius,nudiuss	9	Form=Adverbial		
+sordide	ADV	sordide,sordidissime,sordidius	7	Degree=Abs,Cmp		
+honorifice	ADJ	honorifice,honorificentissime,honorificentius	9	Degree=Abs,Cmp|Form=Adverbial		
+οιχεται	X	οιχεται	1	Foreign=Yes		
+centiens	NUM	centiens,centies	17	Form=Adverbial|NumType=Mult		
+octogiens	ADV	octogiens	1	NumType=Mult		
+xxxi	DET	xxxi	1	Number=Plural|NumForm=Roman|NumType=Card		
+magnificenter	ADV	magnificentissime,magnificentius	5	Degree=Abs,Cmp		
+furaciter	ADV	furacissime	1	Degree=Abs		
+uniuerse	ADJ	uniuerse	2	Form=Adverbial		
+numquando	ADV	numquando	2	PronType=Int		
+dilucide	ADV	dilucide,dilucidius	5	_		
+permoleste	ADJ	permoleste	3	Form=Adverbial		
+grate	ADV	grate,gratius	21	Degree=Cmp		
+percommode	ADV	percommode	3	_		
+proquaestor	NOUN	proquaestore	7	_		
+affabre	ADV	adfabre	1	_		
+triciens	ADV	triciens	7	NumType=Mult		
+quadringentiens	ADV	quadringentiens,quadringenties	6	NumType=Mult		
+perperam	ADJ	perperam	20	Form=Adverbial		
+abhinc	ADV	abhinc	11	_		
+quatuordecim	DET	quattuordecim	15	Number=Plural|NumType=Card		
+malum	INTJ	malum	17	_		
+atrociter	ADV	atrocissime,atrociter,atrocius	15	Degree=Abs,Cmp		
+quinquiens	NUM	quinquiens,quinquies	4	Form=Adverbial|NumType=Mult		
+perite	ADV	perite,peritissime,peritius	10	Degree=Abs,Cmp		
+quater	NUM	quater	44	Form=Adverbial|NumType=Mult		
+auspicato	ADV	auspicato	6	_		
+perfacete	ADV	perfacete	1	_		
+cumprimis	ADV	cumprimis	13	_		
+inhumaniter	ADV	inhumaniter	1	_		
+dlx	DET	dlx	5	Number=Plural|NumForm=Roman|NumType=Card		
+obsolete	ADV	obsoletius	1	Degree=Cmp		
+perfacile	ADJ	perfacile	7	Form=Adverbial		
+perridicule	ADV	perridicule	1	_		
+alicunde	ADV	alicunde	6	_		
+βουλευτηριον	X	βουλευτηριον	1	Foreign=Yes		
+quindeciens	ADV	quindeciens,quindecies	2	NumType=Mult		
+sortito	ADV	sortito	7	_		
+summum	ADV	summum	6	_		
+xxxxu	DET	xxxxu	2	Number=Plural|NumForm=Roman|NumType=Card		
+uafre	ADV	uafre	1	_		
+xxxuiiii	DET	xxxuiiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+accusatorie	ADV	accusatorie	3	_		
+r	NOUN	r	1	Gender=Fem,Masc		
+dcc	DET	dcc	8	Number=Plural|NumForm=Roman|NumType=Card		
+commodum	ADJ	commodum	4	Form=Adverbial		
+lxxxx	DET	lxxxx	1	Number=Plural|NumForm=Roman|NumType=Card		
+frugi	ADJ	frugi,frugis	52	_		
+dcccl	DET	dcccl	1	Number=Plural|NumForm=Roman|NumType=Card		
+md	DET	md	4	Number=Plural|NumForm=Roman|NumType=Card		
+dissolute	ADV	dissolute	4	_		
+dcliiii	DET	dcliiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+sexiens	ADV	sexiens,sexies	2	NumType=Mult		
+perraro	ADV	perraro	7	_		
+tyrannice	ADV	tyrannice	1	_		
+semis	NOUN	semis	2	Gender=Masc	semissem	Number,Case,InflClass
+lxxxiiii	DET	lxxxiiii	2	Number=Plural|NumForm=Roman|NumType=Card		
+clxxxuii	DET	clxxxuii	1	Number=Plural|NumForm=Roman|NumType=Card		
+lxxxui	DET	lxxxui	1	Number=Plural|NumForm=Roman|NumType=Card		
+cclii	DET	cclii	3	Number=Plural|NumForm=Roman|NumType=Card		
+cxxxii	DET	cxxxii	1	Number=Plural|NumForm=Roman|NumType=Card		
+clxx	DET	clxx	6	Number=Plural|NumForm=Roman|NumType=Card		
+liquido	ADV	liquido	4	_		
+duodetriciens	ADV	duodetriciens	1	NumType=Mult		
+nonagiens	ADV	nonagiens	1	NumType=Mult		
+xxi	DET	xxi	6	Number=Plural|NumForm=Roman|NumType=Card		
+terdeciens	NUM	terdeciens	2	Form=Adverbial|NumType=Mult		
+frugi	NOUN	frugi	6	Gender=Fem,Masc,Neut		
+cuiusquemodi	DET	cuiusquemodi	4	_		
+nihildum	ADV	nihildum	1	_		
+mdc	DET	mdc	6	Number=Plural|NumForm=Roman|NumType=Card		
+cotidiano	ADV	cotidiano	2	_		
+ingratis	ADV	ingratiis,ingratis	10	_		
+ostiatim	ADV	ostiatim	3	_		
+disposite	ADV	disposite	1	_		
+sollerter	ADV	sollerter,sollertissime,sollertius	9	Degree=Abs,Cmp		
+disperse	ADV	disperse	1	_		
+nimiopere	ADV	nimioopere	1	_		
+uigilanter	ADV	uigilanter,uigilantissime,uigilantius	4	Degree=Abs,Cmp		
+ridicule	ADJ	ridicule	3	Form=Adverbial		
+peropportune	ADV	peropportune	2	_		
+cuicuimodi	SCONJ	cuicuimodi	4	PronType=Rel		
+septendecim	DET	septemdecim	2	Number=Plural|NumType=Card		
+itidem	ADV	itidem	22	_		
+perbreui	ADV	perbreui	1	_		
+gregatim	ADV	gregatim	2	_		
+εδικαιωθησαν	X	εδικαιωθησαν	1	Foreign=Yes		
+huccine	ADV	huccine,hucine	2	PronType=Int		
+iracunde	ADJ	iracunde,iracundius	8	Degree=Cmp|Form=Adverbial		
+intemperanter	ADV	intemperanter,intemperantius	10	Degree=Cmp		
+diiuncte	ADV	diiunctius	1	Degree=Cmp		
+inimice	ADV	inimice,inimicissime	2	Degree=Abs		
+uid	ADV	num	2	PronType=Int		
+numq	ADV	quid	2	_		
+cursim	ADV	cursim	9	_		
+sexagiens	ADV	sexagiens	3	NumType=Mult		
+amatorie	ADV	amatorie	1	_		
+opinato	ADV	opinato	1	_		
+imperite	ADV	imperite,imperitissime,imperitius	5	Degree=Abs,Cmp		
+septiens	NUM	septiens	6	Form=Adverbial|NumType=Mult		
+insignite	ADV	insignite,insignitius	4	Degree=Cmp		
+abiecte	ADV	abiecte,abiectius	2	Degree=Cmp		
+uitiose	ADV	uitiose	1	_		
+minaciter	ADJ	minaciter,minacius	6	Degree=Cmp|Form=Adverbial		
+hostiliter	ADV	hostiliter	9	_		
+sceleste	ADJ	sceleste	2	Form=Adverbial		
+periculose	ADV	periculose,periculosissime,periculosius	8	Degree=Abs,Cmp		
+confuse	ADV	confusius	2	Degree=Cmp		
+cras	NOUN	cras	50	Form=Adverbial|Gender=Fem,Masc		
+quous	ADV	quo	22	_		
+laete	ADV	laete,laetius	5	Degree=Cmp		
+dum	CCONJ	neque	2	_		
+prodige	ADV	prodige	5	_		
+ecquo	ADV	ecquo	2	PronType=Int		
+quoli	ADV	quo	1	_		
+humane	ADJ	humane,humanissime	6	Degree=Abs|Form=Adverbial		
+fraterne	ADJ	fraterne	1	Form=Adverbial		
+astute	ADJ	astute	3	Form=Adverbial		
+ambigue	ADV	ambigue	11	_		
+diffidenter	ADV	diffidenter	1	_		
+seditiose	ADJ	seditiose,seditiosius	8	Degree=Cmp|Form=Adverbial		
+summatim	NOUN	summatim	5	Form=Adverbial		
+strictim	VERB	strictim	5	Form=Adverbial		
+aceruatim	ADV	aceruatim	3	_		
+dcxl	DET	dcxl	3	Number=Plural|NumForm=Roman|NumType=Card		
+xxxx	DET	xxxx	3	Number=Plural|NumForm=Roman|NumType=Card		
+hem	INTJ	em,hem	45	_		
+cogitate	ADV	cogitate	1	_		
+eximie	ADV	eximie	3	_		
+cetera	ADV	cetera	2	_		
+definite	ADV	definite	2	_		
+petulanter	VERB	petulanter,petulantissime,petulantius	9	Degree=Abs,Cmp|Form=Adverbial		
+titubanter	ADV	titubanter	1	_		
+perattente	ADV	perattente	1	_		
+periucunde	ADV	periucunde	1	_		
+prisce	ADV	prisce	1	_		
+urbane	ADV	urbane,urbanius	3	Degree=Cmp		
+inceste	ADV	inceste	2	_		
+cuiusmodi	SCONJ	cuiusmodi	1	PronType=Rel		
+licenter	ADV	licenter,licentius	14	Degree=Cmp		
+inconstanter	ADV	inconstanter	3	_		
+tributim	NOUN	tributim	5	Form=Adverbial		
+quadragiens	ADV	quadragiens,quadragies	3	NumType=Mult		
+ccui	DET	ccui	2	Number=Plural|NumForm=Roman|NumType=Card		
+intestato	ADV	intestato	1	_		
+nongenti	DET	nongentis	4	Case=Abl|Gender=Fem,Masc,Neut|Number=Plur|NumType=Card	nongentos,nongentae	InflClass
+mansuete	ADV	mansuete	2	_		
+incorrupte	ADV	incorruptius	1	Degree=Cmp		
+dilute	ADV	dilutius	1	Degree=Cmp		
+persapienter	ADV	persapienter	1	_		
+inuidiose	ADV	inuidiose	3	_		
+heus	INTJ	heus	33	_		
+false	ADV	false	1	_		
+certum	ADV	certum	3	_		
+turbide	ADV	turbide	2	_		
+festinanter	VERB	festinanter,festinantius	4	Degree=Cmp|Form=Adverbial		
+rapide	ADV	rapide,rapidius	3	Degree=Cmp		
+mediusfidius	INTJ	medius,mediusfidius	4	_		
+pernecesse	ADJ	pernecesse	1	_		
+fauste	ADV	fauste	1	_		
+uerbose	ADV	uerbose	1	_		
+loquaciter	ADV	loquaciter	2	_		
+mage	ADV	mage	11	Degree=Cmp		
+austere	ADV	austere	1	_		
+stoice	ADV	stoice	1	_		
+cxxu	DET	cxxu	2	Number=Plural|NumForm=Roman|NumType=Card		
+fastidiose	ADJ	fastidiose	6	Form=Adverbial		
+repentino	ADV	repentino	1	_		
+anne	PART	anne	1	PartType=Int|Polarity=Neg		
+inculte	ADV	inculte,incultius	3	Degree=Cmp		
+horride	ADV	horride,horridius	2	Degree=Cmp		
+infeste	ADV	infestissime,infestius	6	Degree=Abs,Cmp		
+extemplo	VERB	extemplo,extempulo	83	Form=Adverbial		
+q	DET	q	2	Number=Plural|NumForm=Roman|NumType=Card		
+concinne	ADV	concinne	2	_		
+credibiliter	ADV	credibiliter	1	_		
+suspiciose	ADV	suspiciose	3	_		
+festiue	ADJ	festiue	2	Form=Adverbial		
+criminose	ADV	criminose,criminosius	5	Degree=Cmp		
+ingrate	ADV	ingrate	4	_		
+abstinenter	ADV	abstinenter	2	_		
+perliberaliter	ADV	perliberaliter	1	_		
+perfidiose	ADV	perfidiose	3	_		
+quippe	PART	quipp,quippe	307	Gender=Fem		
+muliebriter	ADV	muliebriter	10	_		
+sexcenti	DET	sescentis	1	Case=Abl|Gender=Fem,Masc,Neut|Number=Plur|NumType=Card	sexcenta,sexcenti,sescenti,sescenta	InflClass
+subinde	PRON	subinde	110	Form=Adverbial		
+superne	ADV	superne,supernest	34	_		
+impigre	ADV	impigre,inpigre	11	_		
+improuide	ADV	improuide,inprouide	2	_		
+pretiose	ADV	pretiose,pretiosius	2	Degree=Cmp		
+obedienter	ADV	oboedienter	5	_		
+macte	INTJ	macte	7	_		
+proterue	ADV	proterue	4	_		
+serio	ADV	serio	17	Gender=Masc		
+hospitaliter	ADV	hospitaliter	3	_		
+ccclxuiii	DET	ccclxuiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+pigre	ADV	pigre,pigrius	7	Degree=Cmp		
+propalam	ADV	propalam	12	_		
+cl	DET	cl	4	Number=Plural|NumForm=Roman|NumType=Card		
+xc	DET	xc	4	Number=Plural|NumForm=Roman|NumType=Card		
+lxu	DET	lxu	2	Number=Plural|NumForm=Roman|NumType=Card		
+cunctanter	ADV	cunctanter,cunctantius	14	Degree=Cmp		
+nedum	ADV	nedum	28	_		
+perplexe	ADV	perplexe	3	_		
+xxxuiii	DET	xxxuiii	2	Number=Plural|NumForm=Roman|NumType=Card		
+incomposite	ADV	inconposite	1	_		
+lui	DET	lui	1	Number=Plural|NumForm=Roman|NumType=Card		
+contemptim	ADV	contemptim	7	_		
+necdum	ADV	necdum	32	Polarity=Neg		
+mxxx	DET	mxxx	1	Number=Plural|NumForm=Roman|NumType=Card		
+socorditer	ADV	socordius	2	Degree=Cmp		
+peruicaciter	ADV	peruicacius	4	Degree=Cmp		
+operose	ADV	operose,operosius	6	Degree=Cmp		
+emendate	ADV	emendate	1	_		
+crebre	ADV	crebrius	7	Degree=Cmp		
+prodigialiter	ADV	prodigialiter	1	_		
+potenter	ADV	potenter,potentius	2	Degree=Cmp		
+impariter	ADV	inpariter	1	_		
+praue	ADV	praue,prauissume	9	Degree=Abs		
+gelide	ADV	gelide	1	_		
+magnum	ADV	magnum	5	_		
+eu	INTJ	eu	2	_		
+sinistre	ADV	sinistre	4	_		
+longum	ADV	longum	3	_		
+ocior	ADJ	ocior,ociore,ociorem,ocissima,ocissimo	16	Case=Abl,Acc,Nom|Gender=Fem,Masc,Neut|Number=Sing		
+cumque	ADV	cumque	32	_		
+retrorsum	ADV	retrorsum,retrorsus	7	_		
+generose	ADV	generose,generosius	2	Degree=Cmp		
+lucidum	ADV	lucidum	1	_		
+turbidum	ADV	turbidum	1	_		
+exsultim	ADV	exsultim	1	_		
+perfidum	ADV	perfidum	1	_		
+tempestiue	ADV	tempestiue,tempestiuius	4	Degree=Cmp		
+flebiliter	ADV	flebiliter	1	_		
+aestuose	ADV	aestuosius	1	Degree=Abs		
+sinistrorsus	PRON	sinistrorsum	1	Form=Adverbial		
+sagaciter	ADV	sagacius	2	Degree=Cmp		
+nauiter	ADV	gnauiter,nauiter	3	_		
+quandantenus	ADV	quadamtenus	1	_		
+laeue	ADV	laeue	1	_		
+pol	INTJ	pol	94	_		
+deterius	ADJ	deterius	7	Degree=Cmp|Form=Adverbial		
+nimio	ADV	nimio	15	_		
+aeternum	ADV	aeternum	14	_		
+insolabiliter	ADV	insolabiliter	1	_		
+speciose	ADV	speciose,speciosissime,speciosius	7	Degree=Abs,Cmp		
+docte	VERB	docte,doctissime,doctius	12	Degree=Abs,Cmp|Form=Adverbial		
+ignaue	ADV	ignaue,ignauius	4	Degree=Cmp		
+crasse	ADV	crasse,crassius	3	Degree=Cmp		
+illepide	ADV	inlepide	2	_		
+amabiliter	ADV	amabiliter,amabilius	3	Degree=Cmp		
+inscite	ADV	inscite	1	_		
+quantumuis	SCONJ	quantumuis	1	ConjType=Cmpr		
+ubiuis	ADV	ubiuis	3	_		
+quauis	ADV	quauis	1	_		
+ohe	INTJ	ohe	7	_		
+forsit	ADV	forsit	1	_		
+singultim	ADV	singultim	1	_		
+mordicus	ADV	mordicus	4	_		
+cite	ADV	citius	2	Degree=Cmp		
+sodes	ADV	sodes	1	_		
+dextere	ADV	dextere,dexterius	3	Degree=Cmp		
+insane	ADV	insane,insanius	3	Degree=Cmp		
+simul	ADP	simul	2	AdpType=Prep		
+infabre	ADV	infabre	1	_		
+dextrorsum	ADV	dextrorsum,dextrouorsum	2	_		
+tercentum	DET	tercentum	1	Number=Plural|NumType=Card		
+undeoctoginta	DET	undeoctoginta	1	Number=Plural|NumType=Card		
+mendose	ADJ	mendose	4	Form=Adverbial		
+aucte	ADV	auctius	1	Degree=Cmp		
+nec	SCONJ	nec	48	_		
+uerniliter	ADV	uerniliter	2	_		
+damnose	ADV	damnose	1	_		
+ingenue	ADJ	ingenue	5	Form=Adverbial		
+dudum	ADV	dudum	37	_		
+obiter	NOUN	obiter	11	Form=Adverbial		
+miserabile	ADV	miserabile	2	_		
+ζωη	X	ζωη	1	Foreign=Yes		
+και	X	και	21	Foreign=Yes		
+ψυχη	X	ψυχη	1	Foreign=Yes		
+grande	ADV	grande	1	_		
+αυτος	X	αυτος	3	Foreign=Yes		
+γαρ	X	γαρ	9	Foreign=Yes		
+εφελκεται	X	εφελκεται	1	Foreign=Yes		
+ανδρα	X	ανδρα	1	Foreign=Yes		
+κιναιδος	X	κιναιδος	1	Foreign=Yes		
+γνωθι	X	γνωθι	1	Foreign=Yes		
+σεαυτον	X	σεαυτον	1	Foreign=Yes		
+neutro	ADV	neutro	2	_		
+manipulatim	ADV	manipulatim	2	_		
+quamprimum	ADV	quamprimum	9	_		
+trifariam	ADV	trifariam	1	_		
+utroque	DET	utroque	8	Form=Adverbial		
+quandoquidem	SCONJ	quandoquidem	1	_		
+incuriose	ADV	incuriose,incuriosius	3	Degree=Cmp		
+iampridem	ADV	iampridem	7	_		
+subter	PRON	subter,supter	15	Form=Adverbial		
+praeter	ADV	praeter	8	_		
+moderatim	ADV	moderatim	1	_		
+supera	ADV	supera	3	_		
+dis	PART	dis	1	_		
+omnimodis	ADV	omnimodis	8	_		
+utqui	SCONJ	utqui	4	_		
+multimodis	ADV	multimodis	9	_		
+uaste	ADV	uaste,uastius	2	Degree=Cmp		
+proporro	ADV	proporro	6	_		
+con	PART	con	2	_		
+admoderate	ADV	admoderate	1	_		
+desubito	ADV	desubito	5	_		
+per	PART	per	2	_		
+procliue	ADV	procliue,procliuius	3	Degree=Cmp		
+interutrasque	ADV	interutrasque	6	_		
+quamlibet	PRON	quamlibet,quamlubet	23	Form=Adverbial		
+horrifice	ADV	horrifice	2	_		
+omnigenus	ADV	omnigenus	3	_		
+filatim	ADV	filatim	1	_		
+propritim	ADV	propritim	1	_		
+moderanter	ADV	moderanter	1	_		
+in	PART	in	9	_		
+minutatim	ADV	minutatim	15	_		
+proquam	SCONJ	proquam	3	ConjType=Cmpr|PronType=Rel		
+nenum	ADV	noenu	2	Polarity=Neg		
+supera	ADP	supera	6	AdpType=Prep		
+grauatim	ADV	grauatim	1	_		
+tractim	ADV	tractim	5	_		
+particulatim	ADV	particulatim	5	_		
+seorsum	ADP	seorsum	1	AdpType=Prep		
+mixtim	ADV	mixtim	1	_		
+praeproperanter	ADV	praeproperanter	1	_		
+uniter	ADV	uniter	5	_		
+uage	ADV	uage	1	_		
+illim	ADV	illim	2	_		
+insatiabiliter	ADV	insatiabiliter	3	_		
+quamlibet	SCONJ	quamlibet	1	PronType=Rel		
+praecipitanter	ADV	praecipitanter	1	_		
+solute	ADV	solute,solutius	3	Degree=Cmp		
+utraque	ADV	utraque	3	_		
+fluenter	ADV	fluenter	1	_		
+torte	ADV	torte	1	_		
+adumbratim	ADV	adumbratim	1	_		
+mirande	ADV	mirande	2	_		
+iuxtim	ADV	iuxtim	2	_		
+articulatim	ADV	articulatim	2	_		
+fine	ADP	fine	1	AdpType=Prep		
+contractabiliter	ADV	contractabiliter	1	_		
+praemetuenter	ADV	praemetuenter	1	_		
+quolibet	ADV	quolibet	5	_		
+desidiose	ADV	desidiose	1	_		
+genitaliter	ADV	genitaliter	1	_		
+uitaliter	ADV	uitaliter	1	_		
+innumerabiliter	ADV	innumerabiliter	1	_		
+properanter	ADV	properanter,properantius	8	Degree=Cmp		
+permulto	ADV	permulto	1	_		
+consecue	ADV	consecue	1	_		
+balbe	ADV	balbe	1	_		
+quoad	PRON	quoad	2	Form=Adverbial|PronType=Int		
+duriter	ADV	duriter	1	_		
+inferne	ADV	inferne	1	_		
+lais	NOUN	laidos	1	Gender=Fem,Masc|Variant=Greek	lais	Number,Case,InflClass
+furtiue	ADV	furtiue	2	_		
+lasciue	ADV	lasciue	1	_		
+aeterno	ADV	aeterno	1	_		
+lene	ADV	lene,lenius	7	Degree=Cmp		
+tecte	VERB	tectius	2	Degree=Cmp|Form=Adverbial		
+dissimulanter	ADV	dissimulanter	3	_		
+innocue	ADV	innocue	1	_		
+palam	ADP	palam	3	AdpType=Prep		
+actutum	ADV	actutum	30	_		
+saeue	ADV	saeue,saeuius	2	Degree=Cmp		
+minanter	ADV	minanter	1	_		
+iuuenaliter	ADV	iuuenaliter	4	_		
+citra	ADV	citerius,citra	7	Degree=Cmp		
+qualibet	ADV	qualibet	3	_		
+adusque	ADP	adusque	3	AdpType=Prep		
+nouiens	ADV	nouiens,nouies	11	NumType=Mult		
+iamiam	ADV	iamiam	1	_		
+eos	NOUN	eos	5	Gender=Fem,Masc|Variant=Greek		
+immensum	ADV	immensum	6	_		
+culte	ADV	culte,cultius	3	Degree=Cmp		
+perenne	ADV	perenne	1	_		
+illac	DET	illac	7	Form=Adverbial		
+granditer	ADV	grandius	1	Degree=Cmp		
+isto	ADV	isto	10	_		
+tenus	NOUN	tenus	1	Gender=Neut	tenon	Number,Variant,Case,InflClass
+gummi	NOUN	gummi	1	Gender=Fem		
+extere	ADV	exterius	1	Degree=Cmp		
+quandocumque	ADV	quandocumque	1	_		
+simulac	SCONJ	simulac	2	_		
+phene	NOUN	phene	1	Variant=Greek		
+amplius	ADJ	amplius	3	Degree=Cmp|Form=Adverbial		
+pauidum	ADV	pauidum	2	_		
+sere	ADJ	serius	5	Degree=Cmp|Form=Adverbial		
+ai	INTJ	ai	4	_		
+nouies	ADV	nouiens	4	NumType=Mult		
+flebile	ADV	flebile	3	_		
+genialiter	ADV	genialiter	1	_		
+ualenter	ADV	ualentius	1	Degree=Cmp		
+iunctim	ADV	iunctim	1	_		
+extremum	ADV	extremum	1	_		
+fictum	ADV	fictum	1	_		
+aue	INTJ	aue	1	_		
+chaere	INTJ	chaere	1	_		
+euge	INTJ	eugae,euge	14	_		
+decoctior	ADJ	decoctius	1	Case=Acc|Gender=Neut|Number=Sing		
+theta	NOUN	theta	1	Gender=Fem,Masc,Neut|Variant=Greek		
+secrete	ADV	secrete	1	_		
+papae	INTJ	papae	4	_		
+pacate	ADV	pacatius	1	Degree=Cmp		
+perfunctorie	ADV	perfunctorie	1	_		
+spisse	ADJ	spissius	2	Degree=Cmp|Form=Adverbial		
+tenere	ADJ	tenere,tenerius	3	Degree=Cmp|Form=Adverbial		
+babae	INTJ	babae	3	_		
+illoc	ADV	illoc	1	_		
+sophos	INTJ	sophos	1	_		
+retrouersus	PRON	retrouersus	1	Form=Adverbial		
+urceatim	ADV	urceatim	1	_		
+aliubi	ADV	aliubi	25	_		
+tricentiens	ADV	tricenties	1	NumType=Mult		
+solide	ADV	solide	1	_		
+σιβυλλα	X	σιβυλλα	1	Foreign=Yes		
+τι	X	τι	3	Foreign=Yes		
+θελεις	X	θελεις	1	Foreign=Yes		
+αποθανειν	X	αποθανειν	1	Foreign=Yes		
+θελω	X	θελω	1	Foreign=Yes		
+hilare	ADV	hilare,hilarius	5	Degree=Cmp		
+mu	NOUN	mu	1	Gender=Neut		
+ma	NOUN	ma	1	Gender=Fem,Masc,Neut		
+istoc	ADV	istoc	1	_		
+depraesentiarum	X	depraesentiarum	2	_		
+uah	INTJ	uah	11	_		
+cocococo	INTJ	cocococo	1	_		
+curiose	ADJ	curiose,curiosius	5	Degree=Cmp|Form=Adverbial		
+introuersus	ADV	introuersus	1	_		
+au	INTJ	au	2	_		
+alia	ADV	alia	8	_		
+praefiscine	ADV	praefiscini	2	_		
+ocius	ADV	ocius	4	Degree=Cmp		
+μονοκνημον	X	μονοκνημον	1	Foreign=Yes		
+acide	ADV	acidius	1	Degree=Cmp		
+aliquatenus	PRON	aliquatenus	7	Form=Adverbial		
+candide	ADV	candide	2	_		
+blandum	ADV	blandum	1	_		
+τελος	X	τελος	1	Foreign=Yes		
+peregri	ADV	peregri	2	_		
+quapropter	PRON	quapropter	3	Form=Adverbial|PronType=Int		
+illi	ADV	illi	21	_		
+publicitus	ADV	publicitus,puplicitus	3	_		
+assiduo	ADV	adsiduo	1	_		
+plusculum	ADV	plusculum	1	_		
+apage	INTJ	apage	9	_		
+numnam	PART	numnam	3	PartType=Int		
+ilicet	VERB	ilicet	9	Form=Adverbial		
+praeut	SCONJ	praeut	2	PronType=Rel		
+ecastor	INTJ	ecastor	38	_		
+efflictim	ADV	ecflictim	3	_		
+clanculum	ADV	clanculum	9	_		
+prae	ADV	prae	2	_		
+eccere	X	eccere	2	_		
+tuatim	ADV	tuatim	1	_		
+priu	ADV	priu	6	_		
+somniculose	ADV	somniculose	2	_		
+simitu	ADV	simitu	1	_		
+praequam	SCONJ	praequam	2	ConjType=Cmpr|PronType=Rel		
+optato	ADV	optato	1	_		
+antidhac	ADV	antidhac	5	_		
+inclementer	ADV	inclementer	3	_		
+ter	SCONJ	qua	1	PronType=Rel		
+examussim	ADV	examussim	1	_		
+susquedeque	ADV	susquedeque	1	_		
+uolupe	ADJ	uolup,uolupe	4	_		
+eugepae	INTJ	eugepae	3	_		
+clandestino	ADJ	clandestino	1	Form=Adverbial		
+ualide	ADJ	ualide,ualidissime,ualidius	9	Degree=Abs,Cmp|Form=Adverbial		
+recessim	ADV	recessim	2	_		
+contente	ADV	contente	1	_		
+benedice	ADV	benedice	1	_		
+blanditer	ADV	blanditer	1	_		
+quouis	SCONJ	quouis	1	PronType=Rel		
+ubiubi	SCONJ	ubiubi	3	PronType=Rel		
+eho	INTJ	eho	9	_		
+ehem	INTJ	ehem	1	_		
+attatae	INTJ	attatae	5	_		
+interdius	ADV	interdius	3	_		
+tolutim	ADV	tolutim	1	_		
+postidea	ADV	postidea	2	_		
+tempori	ADV	temperi	5	_		
+mecastor	INTJ	mecastor	5	_		
+interibi	ADV	interibi	3	_		
+fenerato	ADV	faenerato	1	_		
+ecqui	ADV	ecqui	1	PronType=Int		
+quippini	PRON	quippini	2	Form=Adverbial|Polarity=Neg		
+quaquam	ADV	quaquam	1	_		
+sempiternum	ADV	sempiternum	1	_		
+perendie	ADV	perendie	1	_		
+perbene	ADV	perbene	1	_		
+neutrubi	ADV	neutrubi	1	Polarity=Neg		
+bifariam	ADV	bifariam	1	_		
+interuias	ADV	interuias	1	_		
+isti	ADV	isti	5	_		
+condigne	ADV	condigne	4	_		
+pessum	PRON	pessum	4	Form=Adverbial		
+aha	INTJ	aha	4	_		
+istactenus	ADV	istactenu	1	_		
+euax	INTJ	euax	4	_		
+pancratice	ADV	pancratice	1	_		
+athletice	ADV	athletice	2	_		
+opime	ADV	opime	1	_		
+protinam	ADV	protinam	3	_		
+affatim	NOUN	adfatim,affatim	7	Form=Adverbial		
+meditate	ADV	meditate	3	_		
+ampliter	ADV	ampliter	2	_		
+pauxillulum	ADV	pauxillulum	1	_		
+ellum	INTJ	ellum	1	_		
+assimiliter	ADV	adsimiliter	1	_		
+odiose	ADV	odiose	2	_		
+ναι	X	ναι	6	Foreign=Yes		
+pertractate	ADV	pertractate	1	_		
+numquo	ADV	numquo	1	PronType=Int		
+pauxillum	ADV	pauxillum	2	_		
+perpauxillum	ADV	perpauxillum	1	_		
+utroqueuersum	ADV	utroqueuorsum	1	_		
+fidele	ADV	fidele	1	_		
+adaeque	ADV	adaeque	4	_		
+assulatim	ADV	assulatim	1	_		
+μα	X	μα	1	Foreign=Yes		
+τον	X	τον	8	Foreign=Yes		
+απολλω	X	απολλω	1	Foreign=Yes		
+ταν	X	ταν	4	Foreign=Yes		
+κοραν	X	κοραν	1	Foreign=Yes		
+πραινεστην	X	πραινεστην	1	Foreign=Yes		
+σιγνεαν	X	σιγνεαν	1	Foreign=Yes		
+φρουσινωνα	X	φρουσινωνα	1	Foreign=Yes		
+αλατριον	X	αλατριον	1	Foreign=Yes		
+κληρουμενοι	X	κληρουμενοι	1	Foreign=Yes		
+st	INTJ	st	4	_		
+aliquouorsum	ADV	aliquouorsum	1	_		
+altrouorsum	ADV	altrouorsum	1	_		
+saepicule	ADV	saepicule	1	_		
+patrice	ADV	patrice	1	_		
+fui	INTJ	fui	2	_		
+πραγματα	X	πραγματα	1	Foreign=Yes		
+μοι	X	μοι	1	Foreign=Yes		
+παρεχεις	X	παρεχεις	1	Foreign=Yes		
+μεγα	X	μεγα	1	Foreign=Yes		
+κακον	X	κακον	1	Foreign=Yes		
+ω	X	ω	3	Foreign=Yes		
+ζευ	X	ζευ	1	Foreign=Yes		
+nitide	ADV	nitide	1	_		
+tantillum	ADV	tantillum	1	_		
+fabre	ADV	fabre	1	_		
+perlepide	ADV	perlepide	1	_		
+ductim	ADV	ductim	1	_		
+em	INTJ	em	10	_		
+uiliter	ADV	uilius	1	Degree=Cmp		
+celere	ADV	celere	1	_		
+datatim	ADV	datatim	1	_		
+classia	INTJ	classiam	1	_		
+pro	ADV	prod	1	_		
+frustillatim	ADV	frustillatim	1	_		
+salue	ADJ	salue	3	Form=Adverbial		
+pugilice	ADV	pugilice	1	_		
+basilice	ADV	basilice	1	_		
+bat	CCONJ	bat	1	_		
+fortunate	ADV	fortunate	1	_		
+pauxillatim	ADV	pauxillatim	1	_		
+uiue	ADV	uiue	1	_		
+calide	ADV	calide	1	_		
+incerte	ADV	incerte	2	_		
+istac	ADV	istac	1	_		
+quaqua	SCONJ	quaqua	1	PronType=Rel		
+obnoxiose	ADV	obnoxiosse	1	_		
+quacumque	PRON	quacumque	2	Form=Adverbial		
+praepostere	ADV	praepostere	2	_		
+xlii	DET	xlii	2	Number=Plural|NumForm=Roman|NumType=Card		
+cxlii	DET	cxlii	1	Number=Plural|NumForm=Roman|NumType=Card		
+xluiii	DET	xluiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+sexcentus	DET	sexcentos	1	Case=Acc|Number=Plur|NumType=Card		
+capitulatim	ADV	capitulatim	1	_		
+ccxxiii	DET	ccxxiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+αψιδας	X	αψιδας	1	Foreign=Yes		
+xxuiii	DET	xxuiii	2	Number=Plural|NumForm=Roman|NumType=Card		
+xuiiii	DET	xuiiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+quindecies	ADV	quindeciens,quindecies	2	NumType=Mult		
+duplicato	ADV	duplicato	1	NumType=Mult		
+quadruplicato	ADV	quadruplicato	1	NumType=Mult		
+lxuiiii	DET	lxuiiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+lii	DET	lii	1	Number=Plural|NumForm=Roman|NumType=Card		
+undeuiginti	DET	undeuiginti	2	Number=Plural|NumType=Card		
+cxxui	DET	cxxui	1	Number=Plural|NumForm=Roman|NumType=Card		
+δια	X	δια	2	Foreign=Yes		
+πασων	X	πασων	1	Foreign=Yes		
+αρμονιαu	X	αρμονιαu	1	Foreign=Yes		
+dcxxu	DET	dcxxu	2	Number=Plural|NumForm=Roman|NumType=Card		
+quinquies	ADV	quinquiens	1	NumType=Mult		
+millies	ADV	miliens	2	NumType=Mult		
+ccclx	DET	ccclx	2	Number=Plural|NumForm=Roman|NumType=Card		
+cuiii	DET	cuiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+ccccuiii	DET	ccccuiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+δοκους	X	δοκους	1	Foreign=Yes		
+cuii	DET	cuii	1	Number=Plural|NumForm=Roman|NumType=Card		
+scrupulose	ADV	scrupulosius	1	Degree=Cmp		
+ilico	PRON	ilico	2	Form=Adverbial		
+lxxuiii	DET	lxxuiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+aegos	NOUN	aegos	1	Gender=Fem,Masc|Variant=Greek		
+mccl	DET	mccl	1	Number=Plural|NumForm=Roman|NumType=Card		
+ccclxxu	DET	ccclxxu	1	Number=Plural|NumForm=Roman|NumType=Card		
+quingeni	DET	quingenis	1	Case=Abl|Gender=Fem,Masc,Neut|Number=Plur|NumType=Card		
+iiiidcccxx	DET	iiiidcccxx	1	Number=Plural|NumForm=Roman|NumType=Card		
+septies	ADV	septies	2	NumType=Mult		
+quinquagies	ADV	quinquagies	1	NumType=Mult		
+cxxxu	DET	cxxxu	1	Number=Plural|NumForm=Roman|NumType=Card		
+ccxlii	DET	ccxlii	1	Number=Plural|NumForm=Roman|NumType=Card		
+mm	DET	mm	5	Number=Plural|NumForm=Roman|NumType=Card		
+clxiii	DET	clxiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+αναπαυομενον	X	αναπαυομενον	1	Foreign=Yes		
+θεοδοσια	X	θεοδοσια	1	Foreign=Yes		
+hesperu	NOUN	hesperu	1	Gender=Fem|Variant=Greek		
+lxxxulxxuiii	DET	lxxxulxxuiii	3	Number=Plural|NumForm=Roman|NumType=Card		
+xcuiiixuiii	DET	xcuiiixuiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+dccccxcid	DET	dccccxcid	1	Number=Plural|NumForm=Roman|NumType=Card		
+liixu	DET	liixu	1	Number=Plural|NumForm=Roman|NumType=Card		
+xxixiii	DET	xxixiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+xxixii	DET	xxixii	1	Number=Plural|NumForm=Roman|NumType=Card		
+xiil	DET	xiil	3	Number=Plural|NumForm=Roman|NumType=Card		
+lilxix	DET	lilxix	1	Number=Plural|NumForm=Roman|NumType=Card		
+ccxliiii	DET	ccxliiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+ccccxcuiiii	DET	ccccxcuiiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+ccxiid	DET	ccxiid	2	Number=Plural|NumForm=Roman|NumType=Card		
+lxxxuiid	DET	lxxxuiid	6	Number=Plural|NumForm=Roman|NumType=Card		
+lxxxiid	DET	lxxxiid	2	Number=Plural|NumForm=Roman|NumType=Card		
+dxuiiii	DET	dxuiiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+cccclxuiii	DET	cccclxuiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+dcccxxxi	DET	dcccxxxi	1	Number=Plural|NumForm=Roman|NumType=Card		
+uiid	DET	uiid	2	Number=Plural|NumForm=Roman|NumType=Card		
+lxxxixxlu	DET	lxxxixxlu	1	Number=Plural|NumForm=Roman|NumType=Card		
+liiiilxii	DET	liiiilxii	1	Number=Plural|NumForm=Roman|NumType=Card		
+dlxxxiiii	DET	dlxxxiiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+xciiii	DET	xciiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+cxix	DET	cxix	1	Number=Plural|NumForm=Roman|NumType=Card		
+xiid	DET	xiid	2	Number=Plural|NumForm=Roman|NumType=Card		
+cccxiid	DET	cccxiid	4	Number=Plural|NumForm=Roman|NumType=Card		
+cccl	DET	cccl	1	Number=Plural|NumForm=Roman|NumType=Card		
+cclxxu	DET	cclxxu	1	Number=Plural|NumForm=Roman|NumType=Card		
+lxxix	DET	lxxix	1	Number=Plural|NumForm=Roman|NumType=Card		
+trecenties	NUM	trecentiens	1	Form=Adverbial|NumType=Mult		
+quadamtenus	ADV	quadamtenus	1	_		
+αμμονος	X	αμμονος	1	Foreign=Yes		
+νησω	X	νησω	1	Foreign=Yes		
+sacal	NOUN	sacal	1	Gender=Masc,Neut		
+uiride	ADV	uiridius	1	Degree=Cmp		
+pinguiter	ADV	pinguiter	1	_		
+enormiter	ADV	enormiter	1	_		
+contumaciter	ADJ	contumaciter,contumacius	13	Degree=Cmp|Form=Adverbial		
+excitate	ADV	excitatius	1	Degree=Cmp		
+quoquomodo	ADV	quoquomodo	1	_		
+baripe	NOUN	baripe	1	Gender=Fem|Variant=Greek		
+proxime	ADP	proxime	5	AdpType=Prep		
+hermu	NOUN	hermu	1	Gender=Fem|Variant=Greek		
+aedoeon	NOUN	aedoeon	1	Gender=Neut|Variant=Greek		
+menui	NOUN	menui	1	Gender=Fem,Masc,Neut|Variant=Greek		
+myrmecias	NOUN	myrmecias	1	Gender=Masc|Variant=Greek		
+mucul	NOUN	mucul	1	Gender=Fem|Variant=Greek		
+taos	NOUN	taos	1	Gender=Fem,Masc|Variant=Greek		
+excusate	ADV	excusate,excusatius	4	Degree=Abs,Cmp		
+curate	ADV	curatius	4	Degree=Cmp		
+ζηλω	X	ζηλω	1	Foreign=Yes		
+ληκυθους	X	ληκυθους	1	Foreign=Yes		
+capitaliter	ADV	capitaliter	1	_		
+notabiliter	ADV	notabiliter,notabilius	3	Degree=Cmp		
+δυσκαθαιρετον	X	δυσκαθαιρετον	1	Foreign=Yes		
+τω	X	τω	6	Foreign=Yes		
+δ	X	δ	9	Foreign=Yes		
+ετερον	X	ετερον	2	Foreign=Yes		
+μεν	X	μεν	7	Foreign=Yes		
+εδωκε	X	εδωκε	1	Foreign=Yes		
+πατηρ	X	πατηρ	2	Foreign=Yes		
+ανενευσεν	X	ανενευσεν	1	Foreign=Yes		
+η	X	η	7	Foreign=Yes		
+κυανεησιν	X	κυανεησιν	1	Foreign=Yes		
+επ	X	επ	1	Foreign=Yes		
+οφρυσι	X	οφρυσι	1	Foreign=Yes		
+νευσε	X	νευσε	1	Foreign=Yes		
+μουσειον	X	μουσειον	1	Foreign=Yes		
+κεκρικα	X	κεκρικα	1	Foreign=Yes		
+benefac	ADV	fecisti	2	_		
+apparate	ADV	apparatius	1	Degree=Cmp		
+τ	X	τ	2	Foreign=Yes		
+οναρ	X	οναρ	1	Foreign=Yes		
+εκ	X	εκ	3	Foreign=Yes		
+διος	X	διος	1	Foreign=Yes		
+εστιν	X	εστιν	3	Foreign=Yes		
+λογισαμενος	X	λογισαμενος	1	Foreign=Yes		
+εις	X	εις	5	Foreign=Yes		
+οιωνος	X	οιωνος	1	Foreign=Yes		
+αριστος	X	αριστος	1	Foreign=Yes		
+αμυνεσθαι	X	αμυνεσθαι	1	Foreign=Yes		
+περι	X	περι	3	Foreign=Yes		
+πατρης	X	πατρης	1	Foreign=Yes		
+αρχετυπον	X	αρχετυπον	1	Foreign=Yes		
+παντα	X	παντα	3	Foreign=Yes		
+λιθον	X	λιθον	1	Foreign=Yes		
+κινω	X	κινω	1	Foreign=Yes		
+προς	X	προς	4	Foreign=Yes		
+δε	X	δε	11	Foreign=Yes		
+γ	X	γ	1	Foreign=Yes		
+αυτου	X	αυτου	2	Foreign=Yes		
+ταχει	X	ταχει	1	Foreign=Yes		
+πειθω	X	πειθω	2	Foreign=Yes		
+τις	X	τις	6	Foreign=Yes		
+επεκαθητο	X	επεκαθητο	1	Foreign=Yes		
+τοισι	X	τοισι	1	Foreign=Yes		
+χειλεσιν	X	χειλεσιν	1	Foreign=Yes		
+ουτως	X	ουτως	1	Foreign=Yes		
+εκηλει	X	εκηλει	2	Foreign=Yes		
+μονος	X	μονος	1	Foreign=Yes		
+των	X	των	5	Foreign=Yes		
+ρητορων	X	ρητορων	1	Foreign=Yes		
+το	X	το	3	Foreign=Yes		
+κεντρον	X	κεντρον	1	Foreign=Yes		
+εγκατελειπε	X	εγκατελειπε	1	Foreign=Yes		
+τοις	X	τοις	2	Foreign=Yes		
+ακροωμενοις	X	ακροωμενοις	1	Foreign=Yes		
+ηστραπτ	X	ηστραπτ	1	Foreign=Yes		
+εβροντα	X	εβροντα	1	Foreign=Yes		
+συνεκυκα	X	συνεκυκα	1	Foreign=Yes		
+την	X	την	6	Foreign=Yes		
+ελλαδα	X	ελλαδα	1	Foreign=Yes		
+astricte	ADV	adstrictius	3	Degree=Cmp		
+immodice	ADJ	immodice,inmodice	6	Form=Adverbial		
+redundanter	ADV	redundanter	1	_		
+ieiune	ADV	ieiune	1	_		
+infirme	ADV	infirme	1	_		
+αμετροεπη	X	αμετροεπη	1	Foreign=Yes		
+επεα	X	επεα	1	Foreign=Yes		
+νιφαδεσσιν	X	νιφαδεσσιν	1	Foreign=Yes		
+εοικοτα	X	εοικοτα	1	Foreign=Yes		
+χειμεριησιν	X	χειμεριησιν	1	Foreign=Yes		
+παυρα	X	παυρα	1	Foreign=Yes		
+αλλα	X	αλλα	4	Foreign=Yes		
+μαλα	X	μαλα	2	Foreign=Yes		
+λιγεως	X	λιγεως	1	Foreign=Yes		
+μικραιτιος	X	μικραιτιος	1	Foreign=Yes		
+excelse	ADV	excelse	1	_		
+ενθυμηματα	X	ενθυμηματα	1	Foreign=Yes		
+εξιν	X	εξιν	1	Foreign=Yes		
+αφιλοκαλον	X	αφιλοκαλον	1	Foreign=Yes		
+ει	X	ει	2	Foreign=Yes		
+του	X	του	3	Foreign=Yes		
+θηριου	X	θηριου	1	Foreign=Yes		
+ηκουσατε	X	ηκουσατε	1	Foreign=Yes		
+λαμπροφωνοτατος	X	λαμπροφωνοτατος	1	Foreign=Yes		
+historice	ADV	historice	1	_		
+poetica	ADV	poetice	1	_		
+eloquenter	ADV	eloquentissime,eloquentius	3	Degree=Abs,Cmp		
+σεμνως	X	σεμνως	1	Foreign=Yes		
+insigniter	ADV	insigniter	3	_		
+λιτουργιον	X	λιτουργιον	2	Foreign=Yes		
+inurbane	ADV	inurbane	1	_		
+σοφοκλεις	X	σοφοκλεις	1	Foreign=Yes		
+απο	X	απο	2	Foreign=Yes		
+σοφως	X	σοφως	1	Foreign=Yes		
+καλεισθαι	X	καλεισθαι	1	Foreign=Yes		
+solito	ADV	solito	1	_		
+διατεινομαι	X	διατεινομαι	1	Foreign=Yes		
+sescenties	ADV	sescentiens	1	NumType=Mult		
+ducenties	ADV	ducentiens	1	NumType=Mult		
+exiguum	ADV	exiguum	1	_		
+φιλοκαλος	X	φιλοκαλος	1	Foreign=Yes		
+αγαθη	X	αγαθη	1	Foreign=Yes		
+ερις	X	ερις	1	Foreign=Yes		
+ακοινωνητον	X	ακοινωνητον	1	Foreign=Yes		
+quadragies	ADV	quadragiens,quadragies	2	NumType=Mult		
+mortifere	ADV	mortifere	1	_		
+spatiose	ADV	spatiose,spatiosius	3	Degree=Cmp		
+exsultanter	ADV	exsultantius	1	Degree=Cmp		
+quinquagiens	ADV	quinquagiens,quinquagies	12	NumType=Mult		
+αμαθια	X	αμαθια	1	Foreign=Yes		
+θρασος	X	θρασος	1	Foreign=Yes		
+λογισμος	X	λογισμος	1	Foreign=Yes		
+οκνον	X	οκνον	1	Foreign=Yes		
+φερει	X	φερει	1	Foreign=Yes		
+επαρας	X	επαρας	1	Foreign=Yes		
+φωνην	X	φωνην	2	Foreign=Yes		
+γεγηθως	X	γεγηθως	1	Foreign=Yes		
+λαρυγγιζων	X	λαρυγγιζων	1	Foreign=Yes		
+προδρομον	X	προδρομον	1	Foreign=Yes		
+πολλην	X	πολλην	1	Foreign=Yes		
+προνοιαν	X	προνοιαν	1	Foreign=Yes		
+εσχεν	X	εσχεν	1	Foreign=Yes		
+ευσχημων	X	ευσχημων	1	Foreign=Yes		
+πεσειν	X	πεσειν	1	Foreign=Yes		
+κειται	X	κειται	1	Foreign=Yes		
+πατροκλος	X	πατροκλος	1	Foreign=Yes		
+obsequenter	ADV	obsequenter,obsequentissime	2	Degree=Abs		
+sera	ADV	sera	2	_		
+perseueranter	ADV	perseuerantissime	1	Degree=Abs		
+amoene	ADV	amoenissime	1	Degree=Abs		
+scurriliter	ADV	scurriliter	1	_		
+ταυτα	X	ταυτα	3	Foreign=Yes		
+υπερ	X	υπερ	3	Foreign=Yes		
+ημας	X	ημας	1	Foreign=Yes		
+μελησει	X	μελησει	1	Foreign=Yes		
+γινωσκων	X	γινωσκων	1	Foreign=Yes		
+οτι	X	οτι	1	Foreign=Yes		
+τοιουτος	X	τοιουτος	1	Foreign=Yes		
+οισπερ	X	οισπερ	1	Foreign=Yes		
+ηδεται	X	ηδεται	1	Foreign=Yes		
+συνων	X	συνων	1	Foreign=Yes		
+tepide	ADV	tepidius	1	Degree=Cmp		
+sedecies	ADV	sedeciens	1	NumType=Mult		
+κτημα	X	κτημα	1	Foreign=Yes		
+αγωνισμα	X	αγωνισμα	1	Foreign=Yes		
+tredecim	DET	tredecim	3	Number=Plural|NumType=Card		
+custodite	ADV	custodite,custoditius	2	Degree=Cmp		
+καταστερισμων	X	καταστερισμων	1	Foreign=Yes		
+ως	X	ως	2	Foreign=Yes		
+ηπιος	X	ηπιος	1	Foreign=Yes		
+ηιεν	X	ηιεν	1	Foreign=Yes		
+inuenuste	ADV	inuenuste	1	_		
+αοιδην	X	αοιδην	1	Foreign=Yes		
+μαλλον	X	μαλλον	2	Foreign=Yes		
+επικλειους	X	επικλειους	1	Foreign=Yes		
+ανθρωποι	X	ανθρωποι	2	Foreign=Yes		
+ακουοντεσσι	X	ακουοντεσσι	1	Foreign=Yes		
+νεωτατη	X	νεωτατη	1	Foreign=Yes		
+αμφιπεληται	X	αμφιπεληται	1	Foreign=Yes		
+benef	ADV	fecit	1	_		
+ου	X	ου	2	Foreign=Yes		
+εμευ	X	εμευ	1	Foreign=Yes		
+ζωντος	X	ζωντος	1	Foreign=Yes		
+carptim	ADV	carptim	6	_		
+κατα	X	κατα	4	Foreign=Yes		
+κεφαλαιον	X	κεφαλαιον	1	Foreign=Yes		
+innoxie	ADV	innoxie	1	_		
+επιστησατε	X	επιστησατε	1	Foreign=Yes		
+κτησιφωντος	X	κτησιφωντος	1	Foreign=Yes		
+υμεις	X	υμεις	1	Foreign=Yes		
+οι	X	οι	1	Foreign=Yes		
+ευζηλοι	X	ευζηλοι	1	Foreign=Yes		
+multa	ADV	multa	5	_		
+centies	ADV	centiens,centies	8	NumType=Mult		
+μειδιου	X	μειδιου	1	Foreign=Yes		
+ηδιστον	X	ηδιστον	1	Foreign=Yes		
+ακουσμα	X	ακουσμα	1	Foreign=Yes		
+επαινος	X	επαινος	1	Foreign=Yes		
+εν	X	εν	7	Foreign=Yes		
+ιη	X	ιη	1	Foreign=Yes		
+τιμη	X	τιμη	1	Foreign=Yes		
+ημεν	X	ημεν	1	Foreign=Yes		
+κακος	X	κακος	1	Foreign=Yes		
+ηδε	X	ηδε	2	Foreign=Yes		
+εσθλος	X	εσθλος	1	Foreign=Yes		
+puellariter	ADV	puellariter	1	_		
+ουχ	X	ουχ	1	Foreign=Yes		
+οσιη	X	οσιη	1	Foreign=Yes		
+φθιμενοισι	X	φθιμενοισι	1	Foreign=Yes		
+undecumque	SCONJ	undecumque	3	PronType=Rel		
+pueriliter	ADV	pueriliter	3	_		
+γερον	X	γερον	1	Foreign=Yes		
+δη	X	δη	2	Foreign=Yes		
+σε	X	σε	2	Foreign=Yes		
+νεοι	X	νεοι	1	Foreign=Yes		
+τειρουσι	X	τειρουσι	1	Foreign=Yes		
+μαχηται	X	μαχηται	1	Foreign=Yes		
+destricte	ADV	destricte	1	_		
+ουτος	X	ουτος	2	Foreign=Yes		
+εστι	X	εστι	2	Foreign=Yes		
+δημοσθενης	X	δημοσθενης	1	Foreign=Yes		
+iamiamque	ADV	iamiamque	1	_		
+παραβολα	X	παραβολα	1	Foreign=Yes		
+αμφι	X	αμφι	1	Foreign=Yes		
+σαλπιγξεν	X	σαλπιγξεν	1	Foreign=Yes		
+μεγας	X	μεγας	1	Foreign=Yes		
+ουρανος	X	ουρανος	1	Foreign=Yes		
+ηερι	X	ηερι	1	Foreign=Yes		
+εγχος	X	εγχος	1	Foreign=Yes		
+εκεκλιτο	X	εκεκλιτο	1	Foreign=Yes		
+ουτε	X	ουτε	3	Foreign=Yes		
+θαλασσης	X	θαλασσης	1	Foreign=Yes		
+κυμα	X	κυμα	1	Foreign=Yes		
+τοσον	X	τοσον	1	Foreign=Yes		
+βοαα	X	βοαα	1	Foreign=Yes		
+μιαροι	X	μιαροι	1	Foreign=Yes		
+κολακες	X	κολακες	1	Foreign=Yes		
+αλαστορες	X	αλαστορες	1	Foreign=Yes		
+λιθοις	X	λιθοις	1	Foreign=Yes		
+ετειχισα	X	ετειχισα	1	Foreign=Yes		
+πολιν	X	πολιν	2	Foreign=Yes		
+ουδε	X	ουδε	2	Foreign=Yes		
+πλινθοις	X	πλινθοις	1	Foreign=Yes		
+εγω	X	εγω	5	Foreign=Yes		
+ουκ	X	ουκ	1	Foreign=Yes		
+θαλαττης	X	θαλαττης	1	Foreign=Yes		
+ευβοιαν	X	ευβοιαν	1	Foreign=Yes		
+προβαλεσθαι	X	προβαλεσθαι	1	Foreign=Yes		
+προ	X	προ	1	Foreign=Yes		
+της	X	της	2	Foreign=Yes		
+αττικης	X	αττικης	1	Foreign=Yes		
+οιμαι	X	οιμαι	1	Foreign=Yes		
+ανδρες	X	ανδρες	1	Foreign=Yes		
+αθηναιοι	X	αθηναιοι	1	Foreign=Yes		
+νη	X	νη	1	Foreign=Yes		
+τους	X	τους	4	Foreign=Yes		
+θεους	X	θεους	1	Foreign=Yes		
+εκεινον	X	εκεινον	1	Foreign=Yes		
+μεθυειν	X	μεθυειν	1	Foreign=Yes		
+μεγεθει	X	μεγεθει	1	Foreign=Yes		
+πεπραγμενων	X	πεπραγμενων	1	Foreign=Yes		
+νοσημα	X	νοσημα	1	Foreign=Yes		
+τοτε	X	τοτε	1	Foreign=Yes		
+πυθωνι	X	πυθωνι	1	Foreign=Yes		
+θρασυνομενω	X	θρασυνομενω	1	Foreign=Yes		
+πολλω	X	πολλω	1	Foreign=Yes		
+ρεοντι	X	ρεοντι	1	Foreign=Yes		
+καθ	X	καθ	1	Foreign=Yes		
+ημων	X	ημων	1	Foreign=Yes		
+οταν	X	οταν	2	Foreign=Yes		
+πλεονεξιας	X	πλεονεξιας	1	Foreign=Yes		
+πονηριας	X	πονηριας	2	Foreign=Yes		
+ωσπερ	X	ωσπερ	2	Foreign=Yes		
+ισχυση	X	ισχυση	1	Foreign=Yes		
+πρωτη	X	πρωτη	1	Foreign=Yes		
+προφασις	X	προφασις	1	Foreign=Yes		
+μικρον	X	μικρον	1	Foreign=Yes		
+πταισμα	X	πταισμα	1	Foreign=Yes		
+απαντα	X	απαντα	1	Foreign=Yes		
+ανεχαιτισε	X	ανεχαιτισε	1	Foreign=Yes		
+διελυσε	X	διελυσε	1	Foreign=Yes		
+απεσχοινισμενος	X	απεσχοινισμενος	1	Foreign=Yes		
+απασι	X	απασι	1	Foreign=Yes		
+τη	X	τη	3	Foreign=Yes		
+πολει	X	πολει	2	Foreign=Yes		
+δικαιοις	X	δικαιοις	1	Foreign=Yes		
+συ	X	συ	2	Foreign=Yes		
+ελεον	X	ελεον	1	Foreign=Yes		
+προυδωκας	X	προυδωκας	1	Foreign=Yes		
+αριστογειτον	X	αριστογειτον	1	Foreign=Yes		
+ανηρηκας	X	ανηρηκας	1	Foreign=Yes		
+ολως	X	ολως	1	Foreign=Yes		
+μη	X	μη	2	Foreign=Yes		
+ους	X	ους	1	Foreign=Yes		
+εχωσας	X	εχωσας	1	Foreign=Yes		
+λιμενας	X	λιμενας	1	Foreign=Yes		
+προβολων	X	προβολων	1	Foreign=Yes		
+ενεπλησας	X	ενεπλησας	1	Foreign=Yes		
+τουτους	X	τουτους	1	Foreign=Yes		
+ορμιζου	X	ορμιζου	1	Foreign=Yes		
+τουτω	X	τουτω	1	Foreign=Yes		
+ουδενα	X	ουδενα	1	Foreign=Yes		
+ορω	X	ορω	1	Foreign=Yes		
+τοπων	X	τοπων	1	Foreign=Yes		
+τουτων	X	τουτων	1	Foreign=Yes		
+βασιμον	X	βασιμον	1	Foreign=Yes		
+οντα	X	οντα	1	Foreign=Yes		
+αποκρημνα	X	αποκρημνα	1	Foreign=Yes		
+φαραγγας	X	φαραγγας	1	Foreign=Yes		
+βαραθρα	X	βαραθρα	1	Foreign=Yes		
+δεδοικα	X	δεδοικα	1	Foreign=Yes		
+δοξητε	X	δοξητε	1	Foreign=Yes		
+τισι	X	τισι	1	Foreign=Yes		
+αει	X	αει	1	Foreign=Yes		
+βουλομενον	X	βουλομενον	1	Foreign=Yes		
+ειναι	X	ειναι	1	Foreign=Yes		
+πονηρον	X	πονηρον	1	Foreign=Yes		
+παιδοτριβειν	X	παιδοτριβειν	1	Foreign=Yes		
+προγονους	X	προγονους	1	Foreign=Yes		
+υπολαμβανω	X	υπολαμβανω	1	Foreign=Yes		
+τα	X	τα	2	Foreign=Yes		
+δικαστηρια	X	δικαστηρια	1	Foreign=Yes		
+υμιν	X	υμιν	1	Foreign=Yes		
+οικοδομησαι	X	οικοδομησαι	1	Foreign=Yes		
+ινα	X	ινα	1	Foreign=Yes		
+τοιουτους	X	τοιουτους	1	Foreign=Yes		
+αυτοις	X	αυτοις	1	Foreign=Yes		
+μοσχευητε	X	μοσχευητε	1	Foreign=Yes		
+καπηλος	X	καπηλος	1	Foreign=Yes		
+παλιγκαπηλος	X	παλιγκαπηλος	1	Foreign=Yes		
+μεταβολευς	X	μεταβολευς	1	Foreign=Yes		
+θαυματα	X	θαυματα	1	Foreign=Yes		
+ρηματα	X	ρηματα	1	Foreign=Yes		
+χρη	X	χρη	2	Foreign=Yes		
+αυτο	X	αυτο	1	Foreign=Yes		
+φθεγγεσθαι	X	φθεγγεσθαι	1	Foreign=Yes		
+ρητορα	X	ρητορα	1	Foreign=Yes		
+νομον	X	νομον	1	Foreign=Yes		
+ετεραν	X	ετεραν	2	Foreign=Yes		
+αφιη	X	αφιη	1	Foreign=Yes		
+ο	X	ο	2	Foreign=Yes		
+νομος	X	νομος	1	Foreign=Yes		
+ρητωρ	X	ρητωρ	1	Foreign=Yes		
+επειτα	X	επειτα	1	Foreign=Yes		
+αναφαινεται	X	αναφαινεται	1	Foreign=Yes		
+παντων	X	παντων	1	Foreign=Yes		
+ψηφισματι	X	ψηφισματι	1	Foreign=Yes		
+αλλ	X	αλλ	2	Foreign=Yes		
+εγκαθημενοι	X	εγκαθημενοι	1	Foreign=Yes		
+ενεδρευοντες	X	ενεδρευοντες	1	Foreign=Yes		
+ακροασει	X	ακροασει	1	Foreign=Yes		
+εισελαυνετε	X	εισελαυνετε	2	Foreign=Yes		
+αυτον	X	αυτον	2	Foreign=Yes		
+παρανομους	X	παρανομους	1	Foreign=Yes		
+λογους	X	λογους	1	Foreign=Yes		
+ταις	X	ταις	1	Foreign=Yes		
+ιπποδρομιαις	X	ιπποδρομιαις	1	Foreign=Yes		
+πραγματος	X	πραγματος	1	Foreign=Yes		
+δρομον	X	δρομον	1	Foreign=Yes		
+ελκοποιεις	X	ελκοποιεις	1	Foreign=Yes		
+συλλαβοντες	X	συλλαβοντες	1	Foreign=Yes		
+ληστην	X	ληστην	1	Foreign=Yes		
+πραγματων	X	πραγματων	1	Foreign=Yes		
+πολιτειας	X	πολιτειας	1	Foreign=Yes		
+πλεοντα	X	πλεοντα	1	Foreign=Yes		
+munifice	ADV	munifice	1	_		
+νομου	X	νομου	1	Foreign=Yes		
+μεμφιτου	X	μεμφιτου	1	Foreign=Yes		
+benefaci	ADV	faciendi	1	_		
+μαλεαν	X	μαλεαν	1	Foreign=Yes		
+|xxx|	DET	|xxx|	1	Number=Plural|NumForm=Roman|NumType=Card		
+cccxuiii	DET	cccxuiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+prouidenter	ADV	prouidenter,prouidentissime	4	Degree=Abs		
+θρεπτους	X	θρεπτους	1	Foreign=Yes		
+ερανους	X	ερανους	1	Foreign=Yes		
+διανομης	X	διανομης	2	Foreign=Yes		
+εισηλασαν	X	εισηλασαν	1	Foreign=Yes		
+εισηλασεν	X	εισηλασεν	1	Foreign=Yes		
+inusitate	ADV	inusitate	1	_		
+maximum	ADV	maximum	2	Degree=Abs		
+formose	ADV	formose,formosius	2	Degree=Cmp		
+triste	ADV	tristius	2	Degree=Cmp		
+pone	ADV	pone	5	_		
+fortuitu	ADV	fortuitu	1	_		
+cateruatim	ADV	cateruatim	3	_		
+diuerse	ADV	diuerse,diuorsius	2	Degree=Cmp		
+cruciabiliter	ADV	cruciabiliter	1	_		
+xxuiiii	DET	xxuiiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+aggar	NOUN	aggar	3	Gender=Fem,Masc		
+dextrorsus	ADV	dextrorsus	1	_		
+citatim	ADV	citatim	1	_		
+ignauiter	ADV	ignauiter	1	_		
+dubitanter	ADV	dubitanter	1	_		
+impotenter	ADV	impotenter,inpotenter,inpotentissime	5	Degree=Abs		
+cxxiii	DET	cxxiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+cccxxiiii	DET	cccxxiiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+cxxxuiii	DET	cxxxuiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+superius	ADJ	superius	4	Degree=Cmp|Form=Adverbial		
+profuse	ADV	profusius	1	Degree=Cmp		
+subdole	ADV	subdole	2	_		
+confertim	ADV	confertim	1	_		
+naue	ADV	naue	1	_		
+anxie	ADV	anxie	3	_		
+opulenter	ADV	opulenter	1	_		
+depresse	ADV	depressius	1	Degree=Cmp		
+praepostero	ADV	praepostero	1	_		
+casu	ADV	casu	12	_		
+απαθειαν	X	απαθειαν	1	Foreign=Yes		
+βεβιωται	X	βεβιωται	2	Foreign=Yes		
+tranquille	ADJ	tranquille,tranquillius	4	Degree=Cmp|Form=Adverbial		
+tolerabiliter	ADJ	tolerabiliter	1	Form=Adverbial		
+pusillum	ADJ	pusillum	2	Form=Adverbial		
+mendice	ADV	mendice	1	_		
+quomodocumque	SCONJ	quomodocumque	2	PronType=Rel		
+concitate	ADV	concitate,concitatius	2	Degree=Cmp		
+φιλητας	X	φιλητας	1	Foreign=Yes		
+inoffense	ADV	inoffense	1	_		
+ουσια	X	ουσια	1	Foreign=Yes		
+ον	X	ον	1	Foreign=Yes		
+idos	NOUN	idos	6	Gender=Fem,Masc|Variant=Greek		
+lucide	ADV	lucidius	1	Degree=Cmp		
+cessim	ADV	cessim	1	_		
+putide	ADV	putide	1	_		
+compte	ADV	compte	1	_		
+ubilibet	ADV	ubilibet	2	_		
+παραδοξα	X	παραδοξα	1	Foreign=Yes		
+αδιαφορα	X	αδιαφορα	1	Foreign=Yes		
+στερησιν	X	στερησιν	1	Foreign=Yes		
+ανυπαρξια	X	ανυπαρξια	1	Foreign=Yes		
+ενκυκλιους	X	ενκυκλιους	1	Foreign=Yes		
+οικονομικην	X	οικονομικην	1	Foreign=Yes		
+διαλεκτικην	X	διαλεκτικην	1	Foreign=Yes		
+ρητορικην	X	ρητορικην	1	Foreign=Yes		
+ρητορικη	X	ρητορικη	1	Foreign=Yes		
+διαλεκτικη	X	διαλεκτικη	1	Foreign=Yes		
+facunde	ADV	facunde	3	_		
+exercitate	ADV	exercitatius	1	Degree=Cmp		
+αοχλησιαν	X	αοχλησιαν	1	Foreign=Yes		
+eatenus	ADV	eatenus	1	_		
+καθηκοντος	X	καθηκοντος	1	Foreign=Yes		
+μητροδωρου	X	μητροδωρου	1	Foreign=Yes		
+επιστολων	X	επιστολων	1	Foreign=Yes		
+αδελφην	X	αδελφην	1	Foreign=Yes		
+ηδονη	X	ηδονη	1	Foreign=Yes		
+λυπη	X	λυπη	1	Foreign=Yes		
+συγγενης	X	συγγενης	1	Foreign=Yes		
+ην	X	ην	1	Foreign=Yes		
+θηρευειν	X	θηρευειν	1	Foreign=Yes		
+τουτον	X	τουτον	1	Foreign=Yes		
+καιρον	X	καιρον	1	Foreign=Yes		
+oratorie	ADV	oratorie	1	_		
+fidenter	VERB	fidenter	2	Form=Adverbial		
+rationaliter	ADV	rationaliter	1	_		
+circumspecte	ADV	circumspecte,circumspectius	4	Degree=Cmp		
+inuerecunde	ADV	inuerecunde	1	_		
+perturbate	ADV	perturbate	2	_		
+indisposite	ADV	indisposite	2	_		
+χαιροντας	X	χαιροντας	1	Foreign=Yes		
+ευφημουντας	X	ευφημουντας	1	Foreign=Yes		
+εκπεμπειν	X	εκπεμπειν	1	Foreign=Yes		
+δομων	X	δομων	1	Foreign=Yes		
+ποθεν	X	ποθεν	1	Foreign=Yes		
+ανδρων	X	ανδρων	1	Foreign=Yes		
+ποθι	X	ποθι	1	Foreign=Yes		
+τοι	X	τοι	1	Foreign=Yes		
+πολις	X	πολις	1	Foreign=Yes		
+τοκηες	X	τοκηες	1	Foreign=Yes		
+ιλιοθεν	X	ιλιοθεν	1	Foreign=Yes		
+με	X	με	1	Foreign=Yes		
+φερων	X	φερων	1	Foreign=Yes		
+ανεμος	X	ανεμος	1	Foreign=Yes		
+κικονεσσι	X	κικονεσσι	1	Foreign=Yes		
+πελασσεν	X	πελασσεν	1	Foreign=Yes		
+ενθα	X	ενθα	1	Foreign=Yes		
+επραθον	X	επραθον	1	Foreign=Yes		
+ωλεσα	X	ωλεσα	1	Foreign=Yes		
+αυτους	X	αυτους	1	Foreign=Yes		
+μωρου	X	μωρου	2	Foreign=Yes		
+πληγην	X	πληγην	1	Foreign=Yes		
+επικουρειος	X	επικουρειος	1	Foreign=Yes		
+θεος	X	θεος	1	Foreign=Yes		
+πραγμα	X	πραγμα	1	Foreign=Yes		
+εχει	X	εχει	1	Foreign=Yes		
+αλλοις	X	αλλοις	1	Foreign=Yes		
+παρεχει	X	παρεχει	1	Foreign=Yes		
+ευιλατου	X	ευιλατου	1	Foreign=Yes		
+τυχην	X	τυχην	1	Foreign=Yes		
+αμα	X	αμα	1	Foreign=Yes		
+προσσω	X	προσσω	1	Foreign=Yes		
+οπισσω	X	οπισσω	1	Foreign=Yes		
+αρουρης	X	αρουρης	1	Foreign=Yes		
+καρπον	X	καρπον	1	Foreign=Yes		
+εδουσιν	X	εδουσιν	1	Foreign=Yes		
+ζειδωρος	X	ζειδωρος	1	Foreign=Yes		
+αρουρα	X	αρουρα	1	Foreign=Yes		
+εγγιον	X	εγγιον	1	Foreign=Yes		
+γονυ	X	γονυ	1	Foreign=Yes		
+κνημης	X	κνημης	1	Foreign=Yes		
+ριψε	X	ριψε	1	Foreign=Yes		
+ποδος	X	ποδος	1	Foreign=Yes		
+τεταγων	X	τεταγων	1	Foreign=Yes		
+βηλου	X	βηλου	1	Foreign=Yes		
+θεσπεσιοιο	X	θεσπεσιοιο	1	Foreign=Yes		
+μεγαλω	X	μεγαλω	1	Foreign=Yes		
+χορικω	X	χορικω	1	Foreign=Yes		
+ευρηκαμεν	X	ευρηκαμεν	1	Foreign=Yes		
+συγχαιρωμεν	X	συγχαιρωμεν	1	Foreign=Yes		
+φιλων	X	φιλων	1	Foreign=Yes		
+πληρη	X	πληρη	1	Foreign=Yes		
+ccxxi	DET	ccxxi	1	Number=Plural|NumForm=Roman|NumType=Card		
+οσα	X	οσα	1	Foreign=Yes		
+ψαμαθος	X	ψαμαθος	1	Foreign=Yes		
+τε	X	τε	2	Foreign=Yes		
+κονις	X	κονις	1	Foreign=Yes		
+αικε	X	αικε	1	Foreign=Yes		
+παθοι	X	παθοι	1	Foreign=Yes		
+ερεξε	X	ερεξε	1	Foreign=Yes		
+δικη	X	δικη	1	Foreign=Yes		
+κ	X	κ	1	Foreign=Yes		
+ιθεια	X	ιθεια	1	Foreign=Yes		
+γενοιτο	X	γενοιτο	1	Foreign=Yes		
+infinitum	ADV	infinitum	1	_		
+furiose	ADV	furiose	1	_		
+rigide	ADV	rigide	1	_		
+excusse	ADV	excusse	1	_		
+supine	ADV	supine	1	_		
+quaestuose	ADV	quaestuosissime	1	Degree=Abs		
+infeliciter	ADV	infeliciter	3	_		
+nasute	ADV	nasute	1	_		
+cruente	ADV	cruentius	1	Degree=Cmp		
+contempte	ADV	contemptius	1	Degree=Cmp		
+salutariter	ADV	salutariter	1	_		
+μ	X	μ	1	Foreign=Yes		
+αναειρ	X	αναειρ	1	Foreign=Yes		
+θηριοτροφεις	X	θηριοτροφεις	1	Foreign=Yes		
+pugnaciter	ADV	pugnacius	1	Degree=Cmp		
+priuato	ADV	priuato	1	_		
+contracte	ADV	contractius	1	Degree=Cmp		
+impauide	ADV	inpauide	1	_		
+hauddum	ADV	hauddum	1	Polarity=Neg		
+toruum	ADV	toruum	2	_		
+immane	ADV	immane	4	_		
+perpetuum	ADV	perpetuum	1	_		
+postergum	ADV	postergum	1	_		
+obliquum	ADV	obliquum	1	_		
+troas	ADJ	troada	1	Variant=Greek		
+flagranter	ADV	flagrantissime	1	Degree=Abs		
+stolide	ADV	stolide	1	_		
+ccccxxxu	DET	ccccxxxu	1	Number=Plural|NumForm=Roman|NumType=Card		
+improspere	ADV	improspere,inprospere	2	_		
+implacabiliter	ADV	implacabilius	2	Degree=Cmp		
+irreligiose	ADV	inreligiose	1	_		
+iactanter	ADV	iactantius	2	Degree=Cmp		
+temperanter	ADV	temperanter	2	_		
+innocenter	ADV	innocenter,innocentius	2	Degree=Cmp		
+audenter	VERB	audentius	6	Degree=Cmp|Form=Adverbial		
+infense	ADV	infense,infensius	3	Degree=Cmp		
+secus	NOUN	secus	2	Gender=Fem,Masc,Neut		
+luiiii	DET	luiiii	1	Number=Plural|NumForm=Roman|NumType=Card		
+quintum	ADV	quintum	1	NumType=Ord		
+properato	ADV	properato	1	_		
+abusque	ADP	abusque	2	AdpType=Prep		
+sexcentiens	ADV	sexcenties	1	NumType=Mult		
+duodeciens	ADV	duodecies	1	NumType=Mult		
+contrarie	ADV	contrarie	1	_		
+fataliter	ADV	fataliter	2	_		
+militariter	ADV	militariter	1	_		
+supremum	ADV	supremum	3	Degree=Abs		
+septuagiens	NUM	septuagiens	1	Form=Adverbial|NumType=Mult		
+sescentiens	ADV	sescentiens	1	NumType=Mult		
+quadripartito	ADV	quadripertito	1	_		
+uerno	ADV	uerno	1	_		
+hei	INTJ	ei	3	_		
+seiunctim	ADV	seiunctim	1	_		
+quianam	ADV	quianam	2	PronType=Int		
+torua	ADV	torua	1	_		
+lugubre	ADV	lugubre	1	_		
+crebra	ADV	crebra	1	_		

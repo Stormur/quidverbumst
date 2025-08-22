@@ -1,0 +1,1418 @@
+PRON	quis	sed quid hoc	3	2	Latin_SenecaYounger_HercF_poetry-342,Latin_SenecaYounger_Oedip_poetry-323
+PRON	quis	quid hoc	2	2	Latin_SenecaYounger_HercF_poetry-470,Latin_SenecaYounger_HercF_poetry-363
+PRON	quis	quid ergo est	3	2	24601,28426,76862
+PRON	quis	sed haec quid sunt inter tantos	6	2	18777
+PRON	quis	quis est hic	3	2	13983
+PRON	quis	quid ad nos	3	2	14518
+PRON	quis	tu quis es	3	2	19053,18400
+PRON	quis	quid ergo	2	2	18404,27014,76463
+PRON	quis	quis es	2	2	18412
+PRON	quis	uos autem qui estis	4	2	24480
+PRON	quis	quid igitur	2	2	26631
+PRON	quis	quid enim	2	2	76589,76782
+PRON	quis	quid enim sum	3	2	77195
+PRON	quis	quid istuc erat	3	2	85682
+PRON	quis	quid ni	2	2	DVE-38
+PRON	ubi	ubi sum	2	2	Latin_SenecaYounger_Ag_poetry-264,Latin_SenecaYounger_HercF_poetry-424
+PRON	ubi	ibi fuit	2	2	train-s4771,train-s4772,train-s4777,train-s4776,train-s4768
+PRON	ubi	et nouem ubi sunt	4	2	17707
+PRON	ubi	ubi est ille	3	2	19162,18914
+PRON	tu	tu ne es	3	2	Latin_SenecaYounger_HercF_poetry-235
+PRON	tu	deinde sine te	3	2	83514
+PRON	sui	est autem per se	4	2	train-s2780
+PRON	ubique	est igitur ubique	3	2	train-s8799
+PRON	ibidem	ibidem fuit	2	2	train-s2538
+PRON	nihil	nihil est	2	2	phi0975.phi001.perseus-lat1.tb.xml@421
+PRON	tantus	etiam tanti	2	2	23637
+PRON	tantus	nihil nobis fuerat tanti	4	2	78078
+PRON	tantus	fuit tanti	2	2	78374
+PRON	postridie	postridie scilicet	2	2	84853
+PRON	ego	ego sum	2	2	48243,47535,47429,18797,19808,62837,11424
+PRON	ego	numquid ego	2	2	11336
+PRON	ego	qui non est me cum aduersum me est	8	2	17249
+PRON	ego	et ego	2	2	225145,225147,225146
+PRON	unde	unde ergo huic omnia ista	5	2	13509
+PRON	unde	unde es tu	3	2	19927
+PRON	quisnam	quidnam est hoc	3	2	10335
+PRON	quisnam	quidnam id est	3	2	76603
+PRON	uos	qui enim non est aduersum uos pro uobis est	9	2	17093,10952
+PRON	ille	et hic cum illo erat	5	2	18170
+PRON	ille	et tu de illis es	5	2	18174
+PRON	deorsum	uos de deorsum estis	4	2	48269
+PRON	alius	alii autem	2	2	19150
+PRON	alius	sed et alii	3	2	86671
+PRON	uester	omnia enim uestra sunt	4	2	27961
+PRON	hic	et haec quidam fuistis	4	2	28043
+PRON	hic	hoc autem	2	2	29104
+PRON	hic	haec igitur	2	2	80843
+PRON	hic	haec sunt	2	2	78100
+PRON	is	non solum autem eius	4	2	30023
+PRON	is	sed non est id	4	2	84732
+PRON	idem	ego enim idem sum	4	2	81891
+PRON	qui	quo sum scilicet	3	2	77549
+PRON	qui	quem igitur istorum	3	2	77927
+PRON	ipse	ab ipso autem	3	2	79081
+PRON	noster	huius autem nostri	3	2	79706
+PRON	cur	cur non	2	2	Epi-202
+VERB	dubito	dubitatur etiam	2	2	Latin_SenecaYounger_HercF_poetry-359
+VERB	dubito	dubitas	1	2	Latin_SenecaYounger_Oedip_poetry-371,Latin_SenecaYounger_Oedip_poetry-292
+VERB	dubito	quidam autem dubitauerunt	3	2	14664
+VERB	dubito	quid dubito	2	2	Egl-97
+VERB	moror	quid moror	2	2	Latin_SenecaYounger_HercF_poetry-375
+VERB	redeo	certe redimus	2	2	Latin_SenecaYounger_HercF_poetry-429
+VERB	redeo	illi autem redierunt in sua	5	2	24576
+VERB	redeo	sed redeo ad illud	4	2	77987
+VERB	taceo	tacuere	1	2	Latin_SenecaYounger_HercF_poetry-479
+VERB	taceo	quid taces	2	2	phi0474.phi013.perseus-lat1.tb.xml@53
+VERB	taceo	at illi tacebant	3	2	10429
+VERB	taceo	tace	1	2	47416
+VERB	taceo	at illi tacuerunt	3	2	17488
+VERB	nosco	sed et ille nouit	4	2	Latin_SenecaYounger_HercF_poetry-553
+VERB	nosco	noscis ne memet	3	2	Latin_SenecaYounger_Oedip_poetry-288
+VERB	nosco	immo uero ista nec nosse	5	2	train-s10923
+VERB	nosco	nosti me	2	2	phi0972.phi001.perseus-lat1.xml@1037
+VERB	nosco	unde me nosti	3	2	18470
+VERB	nosco	ego autem noui eum	4	2	19123
+VERB	timeo	quod non timet	3	2	Latin_SenecaYounger_Ag_poetry-307
+VERB	timeo	ne ergo timueritis eos	4	2	13236
+VERB	timeo	timebant enim	2	2	11543
+VERB	timeo	hunc timete	2	2	62738
+VERB	morior	morieris hodie	2	2	Latin_SenecaYounger_Ag_poetry-383
+VERB	morior	ego autem mortuus sum	4	2	26795
+VERB	morior	cras enim moriemur	3	2	224977
+VERB	effor	effare	1	2	Latin_SenecaYounger_Oedip_poetry-291,Latin_SenecaYounger_Ag_poetry-162
+VERB	quaero	quid quaeris ultra	3	2	Latin_SenecaYounger_Oedip_poetry-303
+VERB	quaero	quid quaeris	2	2	77934,76541,77851,78648,78373,76429,76592,76748,78097,76439,76619,76131,76921,77966,77577,76415,76999,78244
+VERB	quaero	omnes quaerunt te	3	2	10350
+VERB	quaero	quid quaeritis	2	2	18444
+VERB	quaero	quem quaeritis	2	2	19814,19804
+VERB	quaero	quem quaeris	2	2	20031
+VERB	quaero	non quaerit quae sua sunt	5	2	224951
+VERB	quaero	non enim quaero quae uestra sunt sed uos	8	2	29215
+VERB	quaero	quid quaeris aliud	3	2	77840
+VERB	quaero	eadem secreto ab aliis quaerit	5	2	52670
+VERB	edoceo	edoce	1	2	Latin_SenecaYounger_Oedip_poetry-305
+VERB	teneo	sed non tenebit	3	2	Latin_SenecaYounger_HercF_poetry-86
+VERB	teneo	teneris undique	2	2	phi0474.phi013.perseus-lat1.tb.xml@39
+VERB	teneo	tenete eum	2	2	62979
+VERB	teneo	et tenuerunt eum	3	2	11404
+VERB	tento	quid temptat	2	2	Latin_SenecaYounger_HercF_poetry-115
+VERB	tento	cuncta prius temptata	3	2	phi0959.phi006.perseus-lat1.tb.xml@19
+VERB	tento	quid tento	2	2	Egl-98
+VERB	cogo	cogere	1	2	Latin_SenecaYounger_HercF_poetry-150
+VERB	cogo	igitur nihil in eo est coactum	6	2	dev-s782
+VERB	cogo	et coegit nos	3	2	24316
+VERB	cogo	uos me coegistis	3	2	29207
+VERB	resto	quid restat aliud	3	2	Latin_SenecaYounger_HercF_poetry-227
+VERB	nolo	at illa nolet	3	2	Latin_SenecaYounger_Ag_poetry-99
+VERB	nolo	ille autem noluit	3	2	13826
+VERB	nolo	nolo	1	2	14035
+VERB	scrutor	quis enim scrutatus est	4	2	Latin_Tacitus_Ger_prose-22
+VERB	loquor	quid nam loquar	3	2	Latin_SenecaYounger_Oedip_poetry-99
+VERB	loquor	quamquam quid loquor	3	2	phi0474.phi013.perseus-lat1.tb.xml@146
+VERB	loquor	at ille amplius loquebatur	4	2	11359
+VERB	loquor	ego sum qui loquor te cum	6	2	18631
+VERB	loquor	quid loqueris cum ea	4	2	63006
+VERB	loquor	ipse de se loquatur	4	2	48282
+VERB	loquor	mihi non loqueris	3	2	19930
+VERB	loquor	cum ipso nihil eram locutus	5	2	80390
+VERB	recipio	hi uero neutrum recipiunt	4	2	dev-s50
+VERB	recipio	nihil enim recipit seipsum	4	2	train-s17685
+VERB	uideo	quod quidem uidetur ex his	5	2	dev-s256
+VERB	uideo	hoc autem non uidemus	4	2	train-s7497
+VERB	uideo	uisu sum	2	2	train-s2570
+VERB	uideo	uiderint	1	2	phi0972.phi001.perseus-lat1.xml@725
+VERB	uideo	uidi ego	2	2	phi0620.phi001.perseus-lat1.tb.xml@219
+VERB	uideo	sed uiderimus	2	2	77542,77563
+VERB	uideo	post haec uidi	3	2	33595
+VERB	uideo	et uidi	2	2	33624,33647,33892
+VERB	uideo	quid uobis uidetur	3	2	11429,14491,13793
+VERB	uideo	quid autem uobis uidetur	4	2	14031
+VERB	uideo	uidetis haec omnia	3	2	14207
+VERB	uideo	tu uideris	2	2	14519
+VERB	uideo	uos uideritis	2	2	14563
+VERB	uideo	ibi eum uidebitis	3	2	14648
+VERB	uideo	ibi me uidebunt	3	2	62989
+VERB	uideo	uidete	1	2	47467,47432
+VERB	uideo	uidete autem uos met ipsos	5	2	11258
+VERB	uideo	uos ergo uidete	3	2	11280
+VERB	uideo	et ego uidi	3	2	18437
+VERB	uideo	uidemus	1	2	19235
+VERB	uideo	et post haec uidi	4	2	33943
+VERB	uideo	sed hoc praeter me nemini uidetur	6	2	75872
+VERB	uideo	nos ea non uidimus	4	2	75911
+VERB	uideo	sed id quoque uidebimus	4	2	76585
+VERB	uideo	sed tu id uidebis	4	2	76775
+VERB	uideo	sed hoc ipse uiderit	4	2	78132
+VERB	moueo	alias manifeste ab alio moueretur	5	2	dev-s382
+VERB	moueo	ergo nihil mouebitur	3	2	dev-s464
+VERB	moueo	sed me non mouerunt	4	2	79098
+VERB	concedo	quod a multis non conceditur	5	2	dev-s559
+VERB	concedo	non concedebant	2	2	77428
+VERB	concedo	quod concessi libenter	3	2	78057
+VERB	compono	omne illud est compositum	4	2	dev-s1091
+VERB	compono	uterque igitur est compositus	4	2	train-s17713
+VERB	dico	quid dicam eis	3	2	dev-s1104
+VERB	dico	non dicas	2	2	test-s698
+VERB	dico	dicitur igitur aliquid relatiue de ipso	6	2	train-s353
+VERB	dico	deinde dicit	2	2	train-s4125,train-s4133
+VERB	dico	quasi dicat	2	2	train-s17864,train-s4403
+VERB	dico	dicit enim	2	2	train-s5266,16655,train-s12036,train-s21827
+VERB	dico	est igitur aliter dicendum	4	2	train-s6233
+VERB	dico	haec autem irrationabiliter dicuntur	4	2	train-s7531
+VERB	dico	et 1121 eiusdem dicitur	4	2	train-s10391
+VERB	dico	et hoc est quod dicitur	5	2	train-s11520
+VERB	dico	et ideo dicitur	3	2	train-s11523
+VERB	dico	dicunt enim	2	2	train-s11548
+VERB	dico	unde et ei dicimus	4	2	train-s17472
+VERB	dico	nam et ipse ibidem dicit	5	2	train-s17589
+VERB	dico	et dixi	2	2	24650,train-s18337
+VERB	dico	et dixit	2	2	17340,11371,24638,13841,tlg0031.tlg027.perseus-lat1.tb.xml@546,18018,train-s18339
+VERB	dico	et 142 dicitur	3	2	train-s18371
+VERB	dico	postmodum autem dicit	3	2	train-s18427
+VERB	dico	parum post dicit	3	2	train-s18443
+VERB	dico	et dixit eis	3	2	train-s19230,18355,11553,18123
+VERB	dico	unde ipse eis dicebat	4	2	train-s20845
+VERB	dico	et infra 79 dicit	4	2	train-s21431
+VERB	dico	et 20 dicitur	3	2	train-s22228
+VERB	dico	nos autem eis diximus	4	2	train-s644
+VERB	dico	illi autem dicebant	3	2	24117,train-s1177
+VERB	dico	qui dixit	2	2	13854,24629,train-s4056,train-s5695,18026,23887
+VERB	dico	qui dixerunt	2	2	10975,23996,train-s5649,24464
+VERB	dico	quibus ipse dixit	3	2	16884,train-s6004,train-s6024
+VERB	dico	alius alia uobis dicet	4	2	phi0972.phi001.perseus-lat1.xml@1044
+VERB	dico	et dixit mihi	3	2	tlg0031.tlg027.perseus-lat1.tb.xml@549,tlg0031.tlg027.perseus-lat1.tb.xml@585,34200,33710,29200,34153,tlg0031.tlg027.perseus-lat1.tb.xml@189,34010
+VERB	dico	et dicunt mihi	3	2	tlg0031.tlg027.perseus-lat1.tb.xml@256,33794
+VERB	dico	et dicit mihi	3	2	tlg0031.tlg027.perseus-lat1.tb.xml@433,33789,34211,tlg0031.tlg027.perseus-lat1.tb.xml@488,tlg0031.tlg027.perseus-lat1.tb.xml@491,34086,34091,tlg0031.tlg027.perseus-lat1.tb.xml@589,tlg0031.tlg027.perseus-lat1.tb.xml@593,34207
+VERB	dico	et iterum dixerunt	3	2	34069,tlg0031.tlg027.perseus-lat1.tb.xml@473
+VERB	dico	dictum est autem	3	2	12898
+VERB	dico	ego autem dico uobis	4	2	12923
+VERB	dico	dicebat enim illi	3	2	10559
+VERB	dico	et dicit ei	3	2	10563,20126,18478
+VERB	dico	ille autem dixit ei	4	2	10600
+VERB	dico	tibi dico	2	2	57018,47411
+VERB	dico	at illi dixerunt ad eum	5	2	24962,16641
+VERB	dico	is que dixit illi	4	2	17589
+VERB	dico	at ipse dixit illi	4	2	17597,16972
+VERB	dico	at illa dixit	3	2	23636,13631
+VERB	dico	dixit autem illi	3	2	23968
+VERB	dico	dixit que ad illos	4	2	24007,17333
+VERB	dico	iterum dico	2	2	76865,49911
+VERB	dico	dices	1	2	77608,78111,77856,77827,77725,77435,77871,77957,77535
+VERB	dico	quid dico	2	2	77673
+VERB	dico	et dicebat eis	3	2	10493,10641,10831,19047,10418
+VERB	dico	et illa dixit	3	2	10668
+VERB	dico	et dixerunt ei	3	2	17877,10694
+VERB	dico	et dicit eis	3	2	19915,10696,13987,13094,10426
+VERB	dico	at ille dixit	3	2	17823,17668,17613,17260,24683,16981,13610,24659,17193
+VERB	dico	dixit que illi	3	2	17615,17174
+VERB	dico	deinde alio dixit	3	2	17618
+VERB	dico	et ego uobis dico	4	2	17626,17223
+VERB	dico	ille autem dicit eis	4	2	18796
+VERB	dico	dixerunt ergo ad eum	4	2	18809,18822
+VERB	dico	dixerunt ergo ei	3	2	18813,19858,18411
+VERB	dico	et dicebant	2	2	63039
+VERB	dico	et dicebat	2	2	10526,18881,10522,10490
+VERB	dico	at illi dixerunt ei	4	2	12731,11043
+VERB	dico	dicebat enim intra se	4	2	13160
+VERB	dico	dicunt ei	2	2	14107,20080,13939,14144,19370,13177,13499,10825
+VERB	dico	at ille dixit eis	4	2	18135,13322,11036
+VERB	dico	ipse autem dixit illis	4	2	13335
+VERB	dico	ideo dico uobis	3	2	48166,13368
+VERB	dico	dixit autem ei quidam	4	2	13399
+VERB	dico	uos autem dicitis	3	2	10745,13589
+VERB	dico	at illi dixerunt	3	2	17017,13650,17896,14550,18125,18133,14517,18201,13686,24345,18078
+VERB	dico	qui dixit illis	3	2	13672
+VERB	dico	dicit illis	2	2	13688,13752,13911
+VERB	dico	dixit que eis	3	2	13730
+VERB	dico	et ille dixit	3	2	13769,62880
+VERB	dico	dicunt illi	2	2	11184,13960,13845
+VERB	dico	qui dixit ei	3	2	13868,18119,13932
+VERB	dico	dicit illi	2	2	13872
+VERB	dico	et iterum dico uobis	4	2	13886
+VERB	dico	dicunt	1	2	14041
+VERB	dico	dico enim uobis	3	2	16818,47560
+VERB	dico	dicebant autem	2	2	14368
+VERB	dico	tu dixisti	2	2	14485,14405
+VERB	dico	dico autem uobis	3	2	17322,14413,48170
+VERB	dico	hic dixit	2	2	14477
+VERB	dico	tu dicis	2	2	18210,14533,11456
+VERB	dico	dicunt omnes	2	2	14554
+VERB	dico	et statim dicunt ei de illa	6	2	10341
+VERB	dico	et dicunt ei	3	2	10829,10469
+VERB	dico	et dicebat illis	3	2	10511,10739,17121,10868,10517
+VERB	dico	qui dixit illi	3	2	10766
+VERB	dico	et dixit illis	3	2	10927
+VERB	dico	et dicit illis	3	2	10985
+VERB	dico	et dixerunt	2	2	18326,11038
+VERB	dico	propterea dico uobis	3	2	47457
+VERB	dico	et dicunt illi	3	2	11129
+VERB	dico	dicebant enim	2	2	11300
+VERB	dico	similiter autem et omnes dicebant	5	2	11361
+VERB	dico	qui dicit illis	3	2	11534
+VERB	dico	et nemini quicquam dixerunt	4	2	11542
+VERB	dico	at ille dixit ad eos	5	2	16474
+VERB	dico	dictum est	2	2	16514
+VERB	dico	utique dico uobis	3	2	48121
+VERB	dico	at ille dixit ei	4	2	16850,17331
+VERB	dico	dixit autem ad illam	4	2	16863
+VERB	dico	dixit autem illis	3	2	17034,16919
+VERB	dico	dicebat autem ad omnes	4	2	17040
+VERB	dico	ille autem dixit	3	2	17110,24732
+VERB	dico	at ille dixit ad eum	5	2	17168
+VERB	dico	dico uobis	2	2	48156,17740,48208
+VERB	dico	quidam autem ex eis dixerunt	5	2	17235
+VERB	dico	ita dico uobis	3	2	17303,17317
+VERB	dico	dico tibi	2	2	48177
+VERB	dico	non dico uobis	3	2	17421,17417
+VERB	dico	dicebat ergo	2	2	17446
+VERB	dico	et iterum dixit	3	2	17450
+VERB	dico	ipse autem dixit ad illos	5	2	17456
+VERB	dico	et dicet uobis	3	2	17465
+VERB	dico	at ipse dixit ei	4	2	17511
+VERB	dico	et alius dixit	3	2	17521
+VERB	dico	et non dicet ei	4	2	17689
+VERB	dico	et dicent uobis	3	2	17721
+VERB	dico	qui dixit eis	3	2	17805,17749
+VERB	dico	post haec autem dixit intra se	6	2	17756
+VERB	dico	dixit ergo	2	2	17850
+VERB	dico	dicit ei	2	2	17871,20114,20128,20112,20120
+VERB	dico	dixit autem ad illos	4	2	18006
+VERB	dico	et dixit ad eos	4	2	18080,18363
+VERB	dico	dixit autem eis	3	2	23444,18104
+VERB	dico	dixit ergo eis	3	2	18127
+VERB	dico	dixerunt autem omnes	3	2	18197
+VERB	dico	ille autem tertio dixit ad illos	6	2	18238
+VERB	dico	quibus ille dixit	3	2	18324
+VERB	dico	et ipse dixit ad eos	5	2	18334
+VERB	dico	hic erat quem dixi uobis	5	2	18392
+VERB	dico	et dicit	2	2	18406,34151
+VERB	dico	quid dicis de te ipso	5	2	18413
+VERB	dico	hic est de quo dixi	5	2	18428
+VERB	dico	qui dixerunt ei	3	2	18445
+VERB	dico	dicit eis	2	2	18447
+VERB	dico	ille autem dixit eis	4	2	20059,19168,18642
+VERB	dico	alii autem dicebant	3	2	18918
+VERB	dico	alii dicebant	2	2	19456,19172,18975,19273
+VERB	dico	quidam autem dicebant	3	2	18977
+VERB	dico	et dixerunt eis illi	4	2	18985
+VERB	dico	tu ergo quid dicis	4	2	19005
+VERB	dico	quae dixit	2	2	19016
+VERB	dico	dicebant ergo ei	3	2	19154,19034,19052
+VERB	dico	quomodo tu dicis	3	2	19067,19597
+VERB	dico	dixerunt itaque ei	3	2	19086
+VERB	dico	dixerunt ei	2	2	19161
+VERB	dico	dixit ergo ille	3	2	19195
+VERB	dico	dixerunt ergo illi	3	2	19197
+VERB	dico	quidam autem dixerunt ex ipsis	5	2	19375
+VERB	dico	hoc autem a se met ipso non dixit	8	2	19402
+VERB	dico	et quid dicam	3	2	19449
+VERB	dico	et quomodo tu dicis	4	2	19466
+VERB	dico	propterea dixit	2	2	63055
+VERB	dico	et bene dicitis	3	2	63071
+VERB	dico	non de omnibus uobis dico	5	2	19526
+VERB	dico	dicebant ergo	2	2	19713
+VERB	dico	illi autem dixerunt	3	2	19815
+VERB	dico	dicit ille	2	2	19840
+VERB	dico	dicunt ei illi	3	2	20022
+VERB	dico	dixit ergo eis iterum	4	2	20049
+VERB	dico	dixit eis	2	2	20090
+VERB	dico	dicit ei iterum	3	2	20116
+VERB	dico	dicit ei tertio	3	2	20122
+VERB	dico	dicit autem ipse	3	2	23515
+VERB	dico	dixi autem	2	2	24047
+VERB	dico	et dixit illi	3	2	24101
+VERB	dico	at illi dixerunt ad eam	5	2	24114
+VERB	dico	ideo que et alias dicit	5	2	24184
+VERB	dico	dixit que ad eos	4	2	24458
+VERB	dico	dixit que ad me	4	2	24647
+VERB	dico	et ego dixi	3	2	24667
+VERB	dico	et dixit ad me	4	2	24670
+VERB	dico	dic mihi	2	2	48816
+VERB	dico	ego autem dixi	3	2	24845
+VERB	dico	quid ergo dicemus	3	2	26914,26947,26740,26785
+VERB	dico	quid ergo dicemus ad haec	5	2	26875
+VERB	dico	dicis itaque mihi	3	2	26925
+VERB	dico	sed quid dicit	3	2	26967
+VERB	dico	sed dico	2	2	26990,26987
+VERB	dico	dico ergo	2	2	27000,27025
+VERB	dico	dices ergo	2	2	27040
+VERB	dico	et iterum dicit	3	2	27214
+VERB	dico	an propter nos utique dicit	5	2	28185
+VERB	dico	quid ergo dico	3	2	28247
+VERB	dico	quid dicam uobis	3	2	28308
+VERB	dico	sed dicet aliquis	3	2	28520
+VERB	dico	hoc autem dico	3	2	29518
+VERB	dico	dico autem	2	2	29618,29540
+VERB	dico	sed dixit	2	2	32936
+VERB	dico	et dixi illi	3	2	33708
+VERB	dico	quid dicam	2	2	79075,76260
+VERB	dico	dic clarius	2	2	77592
+VERB	dico	itaque dixit statim	3	2	77893
+VERB	dico	tu illi nihil dixeris	4	2	85737
+VERB	dico	dicit liberius atque audacius	4	2	52669
+VERB	praedetermino	quod est contra praedeterminata	4	2	dev-s1130
+VERB	contingo	quod quidem dupliciter contingit	4	2	dev-s1552
+VERB	contingo	hoc autem multipliciter contingit	4	2	train-s172
+VERB	contingo	quod quidem contingit dupliciter	4	2	train-s9992
+VERB	oportet	ergo oportet	2	2	dev-s1764
+VERB	intellego	est igitur intelligens	3	2	dev-s2013
+VERB	intellego	quod solum intelligentis est	4	2	train-s861
+VERB	intellego	uterque ergo similiter intelliget	4	2	train-s3935
+VERB	intellego	et propter hoc in uno trium omnes tres intelliguntur	9	2	train-s18821
+VERB	intellego	at illi non intellexerunt	4	2	23748
+VERB	intellego	intellexistis haec omnia	3	2	13498
+VERB	intellego	quomodo nondum intellegitis	3	2	10832
+VERB	improbo	quod supra improbatum est	4	2	test-s2058,test-s973
+VERB	improbo	quae omnia supra improbata sunt	5	2	test-s1178
+VERB	improbo	et hoc supra improbatum est	5	2	train-s4774
+VERB	uolo	est igitur uolens	3	2	test-s1101
+VERB	uolo	uolo	1	2	16600,47406
+VERB	uolo	uolumus	1	2	88994
+VERB	uolo	quid uis	2	2	13933
+VERB	uolo	quid uultis	2	2	28001
+VERB	uolo	hoc uellem mediocrius	3	2	76396
+VERB	uolo	paulo uellem fidentius	3	2	85919
+VERB	uolo	quid sibi uellet	3	2	52888
+VERB	praeostendo	quod est contra praeostensa	4	2	test-s1281,train-s7725
+VERB	odi	nihil igitur odit	3	2	test-s1979
+VERB	uiuo	ipse igitur est uiuens	4	2	test-s2031
+VERB	uiuo	illud erat uiuere	3	2	phi0972.phi001.perseus-lat1.xml@296
+VERB	uiuo	hic tamen uiuit	3	2	phi0474.phi013.perseus-lat1.tb.xml@9
+VERB	uiuo	uiuit	1	2	phi0474.phi013.perseus-lat1.tb.xml@10
+VERB	uiuo	omnes enim uiuunt ei	4	2	18002
+VERB	uiuo	uiuo ego	2	2	49346
+VERB	praeexisto	cui nulla praeexistit	3	2	train-s563
+VERB	praesuppono	nam nihil praesupponit	3	2	train-s723
+VERB	ostendo	quae omnia supra ostensa sunt	5	2	train-s1259
+VERB	ostendo	quod prius fuit ostensum	4	2	train-s10108
+VERB	ostendo	quod idem tibi ostenderam	4	2	85844
+VERB	subdo	unde subditur	2	2	train-s1695
+VERB	subdo	et post pauca subdit	4	2	train-s12790
+VERB	subdo	nam subdit	2	2	train-s16961
+VERB	subdo	unde ibidem subditur	3	2	train-s18290
+VERB	subdo	et postea subdit	3	2	train-s18420
+VERB	subdo	post pauca subditur	3	2	train-s18432
+VERB	subdo	unde et ibidem subditur	4	2	train-s18851
+VERB	subdo	unde et subditur	3	2	train-s19357
+VERB	subdo	nam post pauca subdit	4	2	train-s21819
+VERB	subdo	et postmodum subdit	3	2	train-s21821
+VERB	pateo	quod ex hoc patet	4	2	train-s4207,train-s1715
+VERB	pateo	quod patet ex tribus	4	2	train-s4969
+VERB	pateo	et similiter patet in omnibus aliis	6	2	train-s7234
+VERB	pateo	hoc etiam ex alio patet	5	2	train-s12602
+VERB	causo	alias non esset causatum	4	2	train-s2381
+VERB	tango	unde totum tangitur	3	2	train-s2636
+VERB	tango	quis me tetigit	3	2	10597,16965
+VERB	tango	tetigit me aliquis	3	2	16967
+VERB	superfluo	quarum altera superflueret	3	2	train-s3087
+VERB	animo	omne autem huiusmodi est animatum	5	2	train-s3446
+VERB	proportiono	sunt enim ad inuicem proportionata	5	2	train-s3515
+VERB	subiungo	deinde subiungit	2	2	train-s4111,train-s4139
+VERB	subiungo	unde subiungit	2	2	train-s22362
+VERB	accido	nec immerito hoc accidit	4	2	train-s4355
+VERB	unio	non igitur una pluribus unitur	5	2	train-s4681
+VERB	cognosco	unaquaeque igitur et seipsam et alias cognoscet	7	2	train-s5482
+VERB	cognosco	quis cognoscet illud	3	2	train-s18438
+VERB	cognosco	cognosce	1	2	82314
+VERB	cognosco	et non cognouistis eum	4	2	63049
+VERB	cognosco	ego autem te cognoui	4	2	48322
+VERB	denomino	unde ab hoc denominatur	4	2	train-s7058
+VERB	fugio	hoc est enim quod omnes naturaliter fugiunt	7	2	train-s7360
+VERB	pono	ponit enim	2	2	train-s7454
+VERB	pono	sed ego pono eam	4	2	48291
+VERB	pono	ubi posuistis eum	3	2	19369
+VERB	manifesto	ego manifestabo ei meipsum	4	2	train-s8095
+VERB	persuadeo	quod est persuadere	3	2	train-s9818
+VERB	persuadeo	prorsus mihi persuadet	3	2	81806
+VERB	facio	cur ita facis	3	2	train-s10430
+VERB	facio	omnia per ipsum facta sunt	5	2	train-s18026,train-s17366,18377
+VERB	facio	ita factum est	3	2	train-s980,train-s1821
+VERB	facio	sicut et factum est	4	2	train-s1693
+VERB	facio	ita et factum est	4	2	train-s2262,train-s6770,train-s4975,train-s2377,train-s3387
+VERB	facio	quid faciat	2	2	phi0959.phi006.perseus-lat1.tb.xml@238
+VERB	facio	hoc autem factum est per ter	6	2	23985,24052
+VERB	facio	et factum est	3	2	13038,48786
+VERB	facio	prorsus id facies	3	2	77661
+VERB	facio	et fecit similiter	3	2	13906
+VERB	facio	bene omnia fecit	3	2	10785
+VERB	facio	quid ergo faciemus	3	2	16468
+VERB	facio	quid faciemus et nos	4	2	16477
+VERB	facio	et factum est deinceps	4	2	48129,48113
+VERB	facio	et ita fecerunt	3	2	17023
+VERB	facio	hoc faciam	2	2	17341
+VERB	facio	quid faciam	2	2	17951
+VERB	facio	quid fecit tibi	3	2	19198
+VERB	facio	quid fecisti	2	2	19886
+VERB	facio	qui etiam faciet	3	2	30435
+VERB	facio	factum est	2	2	33973,34154
+VERB	facio	faciam	1	2	77096
+VERB	facio	fac	1	2	77265
+VERB	facio	quid ego faciam	3	2	78327
+VERB	facio	feci igitur	2	2	79064
+VERB	facio	quid facies	2	2	Egl-31
+VERB	facio	quid facerem	2	2	Egl-50
+VERB	inuenio	hoc autem non inuenitur	4	2	train-s10737
+VERB	inuenio	sed quam non inuenit usquam	5	2	phi0959.phi006.perseus-lat1.tb.xml@224
+VERB	inuenio	ne c inueniebant	3	2	11411
+VERB	probo	quod etiam manifestius probatur per hoc	6	2	train-s11497
+VERB	probo	omnia autem probate	3	2	30429
+VERB	probo	et tamen illud probem	4	2	76725
+VERB	probo	id ego minime probabam	4	2	78134
+VERB	calefacio	unus quomodo calefiet	3	2	train-s11825
+VERB	occido	non occides	2	2	12875,train-s12798,27137,48212
+VERB	occido	occidamus eum	2	2	47462
+VERB	gigno	ego hodie genui te	4	2	48791,train-s16931
+VERB	sequor	et sequitur	2	2	train-s17220
+VERB	sequor	sequere me	2	2	20135,13132,47446,10390,48218,18459,17109,16632
+VERB	sequor	sequeris autem postea	3	2	19569
+VERB	sequor	tu me sequere	3	2	20142
+VERB	sequor	utrumque certe secuti sumus	4	2	88120
+VERB	reputo	unde nec reputauimus eum	4	2	train-s17567
+VERB	reputo	quomodo ergo reputata est	4	2	26682
+VERB	reputo	non illis reputetur	3	2	30939
+VERB	praemitto	nam supra praemiserat	3	2	train-s18262
+VERB	praemitto	praemittitur enim	2	2	train-s20410
+VERB	inhabito	quoniam inhabitabo in illis	4	2	train-s18397,train-s19481
+VERB	connumero	connumeratur autem eisdem	3	2	train-s18504
+VERB	concludo	et postea concludit	3	2	train-s18513
+VERB	operor	et deinde secundum eas operetur	5	2	train-s18693
+VERB	operor	quid operaris	2	2	18815
+VERB	signo	et signauit nos	3	2	train-s18701
+VERB	accipio	sunt enim accipienda metaphorice	4	2	train-s18827
+VERB	accipio	gratis accepistis	2	2	47513
+VERB	accipio	et acceperunt eam similiter septem	5	2	11198
+VERB	accipio	et non accepit	3	2	11489
+VERB	accipio	sed accipe alia	3	2	77883
+VERB	accipio	praeter eum accepit nemo	4	2	78437
+VERB	resurgo	ergo nec uere resurrexit	4	2	train-s19244
+VERB	resurgo	quod est resurgere	3	2	train-s21846
+VERB	nego	quod ipsi negabant	3	2	train-s19550
+VERB	nego	illi negarunt	2	2	phi0975.phi001.perseus-lat1.tb.xml@169
+VERB	nego	at ille iterum negauit	4	2	11442
+VERB	nego	negaui	1	2	76442
+VERB	nego	negant	1	2	76615
+VERB	nego	ego negare	2	2	76682
+VERB	disputo	contra quos supra disputauimus	4	2	train-s19784
+VERB	aduenio	igitur aduenit ei accidentaliter	4	2	train-s20087
+VERB	subsisto	non enim per illam sed in illa subsistit	8	2	train-s20318
+VERB	respondeo	non sufficienter respondet	3	2	train-s21693
+VERB	respondeo	respondebat illa	2	2	phi0972.phi001.perseus-lat1.xml@445
+VERB	respondeo	respondit ille	2	2	phi0975.phi001.perseus-lat1.tb.xml@156
+VERB	respondeo	respondit unus	2	2	phi0975.phi001.perseus-lat1.tb.xml@307
+VERB	respondeo	respondit illa	2	2	phi0975.phi001.perseus-lat1.tb.xml@398
+VERB	respondeo	respondit eis	2	2	18703,19200
+VERB	respondeo	responderunt ei	2	2	19065,20088,13543,19805
+VERB	respondeo	respondete mihi	2	2	11136,17929
+VERB	respondeo	non respondes quicquam	3	2	11459
+VERB	respondeo	recte respondisti	2	2	17175
+VERB	respondeo	at ipse nihil illi respondebat	5	2	18220
+VERB	respondeo	et respondit	2	2	18409
+VERB	respondeo	respondit	1	2	19156
+VERB	respondeo	ego autem respondi	3	2	24645
+VERB	respondeo	ad quod facile respondetur	4	2	DVE-205
+VERB	baptizo	ipse enim est qui baptizat	5	2	train-s21695
+VERB	baptizo	hic est qui baptizat	4	2	train-s21738
+VERB	baptizo	et baptizatus est ipse et omnes eius continuo	8	2	24349
+VERB	baptizo	in quo ergo baptizati estis	5	2	24463
+VERB	baptizo	ut quid et baptizantur pro illis	6	2	28511
+VERB	diligo	ergo maxime ipsum diligit	4	2	train-s22636
+VERB	diligo	quis ergo eum plus diliget	5	2	16847
+VERB	diligo	quia non diligo uos	4	2	29157
+VERB	intersum	interfuit	1	2	dev-s311,dev-s308
+VERB	conuenio	uerumtamen conueni inter nos	4	2	dev-s343
+VERB	superimpono	amplius uouis nulla superinponatur	4	2	train-s935
+VERB	relego	et eis relecta est	4	2	train-s942,train-s943
+VERB	ago	age cum eo	3	2	train-s4052
+VERB	ago	agite	1	2	12829
+VERB	ago	quid acturus es	3	2	24679
+VERB	ago	non agit perperam	3	2	224954
+VERB	ago	sed quid ago	3	2	76195
+VERB	ago	sed haec sero agimus	4	2	77199
+VERB	ago	agitur tamen satis	3	2	85036
+VERB	ago	profecto enim aliquid egissem	4	2	85627
+VERB	possum	non possum	2	2	train-s4057
+VERB	possum	possumus	1	2	11044,13940
+VERB	possum	nondum enim poteratis	3	2	27919
+VERB	possum	si potero	2	2	229838
+VERB	superaccedo	et superaccessimus ad hec	4	2	train-s6012
+VERB	oro	unum oro	2	2	phi0690.phi003.perseus-lat1.tb.xml@67
+VERB	iubeo	iusserat	1	2	phi0959.phi006.perseus-lat1.tb.xml@76
+VERB	aio	ait	1	2	13763,phi0959.phi006.perseus-lat1.tb.xml@173,18414,phi0975.phi001.perseus-lat1.tb.xml@209,19163
+VERB	aio	quibus ipse ait	3	2	17906,16644
+VERB	aio	ait autem	2	2	17559,16535
+VERB	aio	at ille ait	3	2	16842,23899,10911,19224,17293
+VERB	aio	ai n tu	3	2	77516
+VERB	aio	et ait illis	3	2	17209,10351,11182,17149,13106,11367,16478,10499,17475,10680,18193,16531,14382,13451,10546,18149,10415,18088,17979,10754,11346,17639
+VERB	aio	qui ait	2	2	17620,17789,18199,23858,23712
+VERB	aio	ait illi	2	2	14404,17622,13934,20118,19358
+VERB	aio	et ait	2	2	13455,23802,17661,16787
+VERB	aio	ait autem illi	3	2	17671
+VERB	aio	et ait illi	3	2	17709,13572,13131,14089,13831,10771,17861
+VERB	aio	ait illis	2	2	13501,13941,14146,17801
+VERB	aio	qui ait eis	3	2	13545
+VERB	aio	at ipse ait	3	2	13565
+VERB	aio	ait illis et ipse	4	2	14029
+VERB	aio	aiunt illi	2	2	14058
+VERB	aio	qui ait illis	3	2	11337
+VERB	aio	et ait ad illos	4	2	17216,16992,16444,18320
+VERB	aio	ait autem ad illos	4	2	17015
+VERB	aio	ait autem illi quidam	4	2	17454
+VERB	aio	et huic ait	3	2	17865
+VERB	aio	ait enim	2	2	29015
+VERB	aio	quid ais	2	2	78480,76616,77590,76685
+VERB	insequor	moderatius insequar ipse	3	2	phi0959.phi006.perseus-lat1.tb.xml@187
+VERB	impropero	non impropero illi	3	2	phi0972.phi001.perseus-lat1.xml@159
+VERB	scio	scito autem	2	2	phi0972.phi001.perseus-lat1.xml@164
+VERB	scio	neque tamen scit quisquam	4	2	81780
+VERB	scio	unde hoc sciam	3	2	16287
+VERB	scio	scies autem postea	3	2	19504
+VERB	adiicio	itaque adiecit	2	2	phi0972.phi001.perseus-lat1.xml@188
+VERB	adiicio	ultimo etiam adiecit	3	2	phi0972.phi001.perseus-lat1.xml@1007
+VERB	abeo	tamen abiit ad plures	4	2	phi0972.phi001.perseus-lat1.xml@248
+VERB	abeo	illi autem abierunt	3	2	13904
+VERB	habeo	et habet unde	3	2	phi0972.phi001.perseus-lat1.xml@340
+VERB	habeo	omnes enim habuerunt eam	4	2	14123
+VERB	habeo	habes ad omnia	3	2	78040,78707
+VERB	habeo	habes omnia	2	2	78383
+VERB	traduco	hoc est se ipsum traducere	5	2	phi0972.phi001.perseus-lat1.xml@346
+VERB	pecco	sed sibi quisque peccat	4	2	phi0972.phi001.perseus-lat1.xml@355
+VERB	pecco	non peccat	2	2	49578
+VERB	plodo	et ego tibi plodo	4	2	phi0972.phi001.perseus-lat1.xml@368
+VERB	credo	credite mihi	2	2	phi0972.phi001.perseus-lat1.xml@514,phi0972.phi001.perseus-lat1.xml@1102
+VERB	credo	sed sunt quidam ex uobis qui non credunt	8	2	18879
+VERB	credo	credis	1	2	76882
+VERB	credo	credo	1	2	76884,47437
+VERB	credo	quare ergo non credidistis illi	5	2	14024,62830
+VERB	credo	nec illis crediderunt	3	2	11549
+VERB	credo	credis hoc	2	2	19357
+VERB	credo	omnia credit	2	2	49610
+VERB	credo	quod ego non credo	4	2	82396
+VERB	credo	mihi crede	2	2	83440
+VERB	credo	sed mihi crede	3	2	85675
+VERB	credo	non credo	2	2	78321
+VERB	rideo	diu risimus	2	2	phi0972.phi001.perseus-lat1.xml@599
+VERB	rideo	ridet	1	2	phi0972.phi001.perseus-lat1.xml@609
+VERB	rideo	rides	1	2	76286
+VERB	seruio	quare ergo seruiuisti	3	2	phi0972.phi001.perseus-lat1.xml@614
+VERB	placeo	placemus illi	2	2	phi0972.phi001.perseus-lat1.xml@631
+VERB	placeo	placuit enim eis	3	2	27240
+VERB	narro	narrabo tamen	2	2	phi0972.phi001.perseus-lat1.xml@726
+VERB	narro	narra mihi	2	2	76591
+VERB	narro	narro tibi	2	2	76663
+VERB	delector	nihil nos delectaris	3	2	phi0972.phi001.perseus-lat1.xml@784
+VERB	ualeo	uale	1	2	Sabellicus_DeLatinaeLinguaeReparatione-13,76333,Sabellicus_DeLatinaeLinguaeReparatione-421,77587,phi0972.phi001.perseus-lat1.xml@960
+VERB	ualeo	ualete	1	2	24277
+VERB	ualeo	etiam atque etiam uale	4	2	78317,78406
+VERB	fallo	multum falleris	2	2	phi0975.phi001.perseus-lat1.tb.xml@164
+VERB	noceo	nulli nocendum	2	2	phi0975.phi001.perseus-lat1.tb.xml@180
+VERB	noceo	ut quid nocetis alterutrum	4	2	23752
+VERB	noceo	et nihil uobis nocebit	4	2	17152
+VERB	noceo	et in his nocent	4	2	33769
+VERB	plecto	merito plectimur	2	2	phi0975.phi001.perseus-lat1.tb.xml@220
+VERB	supersum	quod superfuit	2	2	phi0975.phi001.perseus-lat1.tb.xml@318
+VERB	inquam	inquit ille	2	2	phi0975.phi001.perseus-lat1.tb.xml@413
+VERB	inquam	inquies	1	2	78326,77983,85908,85932,85933,89006
+VERB	inquam	inquam	1	2	78481,89036,85773,76617
+VERB	inquam	inquis	1	2	85797
+VERB	uenio	ueni ergo me cum	4	2	phi0975.phi001.perseus-lat1.tb.xml@418
+VERB	uenio	uenio cito	2	2	tlg0031.tlg027.perseus-lat1.tb.xml@79,33572
+VERB	uenio	ueni	1	2	34226,13566,34228,33650,50184,50196,47421,33646
+VERB	uenio	et uenit	2	2	33627
+VERB	uenio	uenite	1	2	47461,34108,47548,14645,18637,48327
+VERB	uenio	ad hoc enim ueni	4	2	10353
+VERB	uenio	et uenerunt ad eum	4	2	10444
+VERB	uenio	quidam enim ex eis de longe uenerunt	7	2	10791
+VERB	uenio	et ueni	2	2	47445,48217
+VERB	uenio	ipse est qui post me uenturus est	7	2	18423
+VERB	uenio	ueniam ad uos	3	2	19613
+VERB	uenio	uenimus et nos te cum	5	2	20081
+VERB	uenio	et unde uenerunt	3	2	33707
+VERB	uenio	alius nondum uenit	3	2	50189
+VERB	uenio	etiam uenio cito	3	2	34235
+VERB	erro	stulte erras	2	2	phi0975.phi001.perseus-lat1.tb.xml@510
+VERB	erro	uos ergo multum erratis	4	2	11209
+VERB	bibo	una bibamus	2	2	phi0975.phi001.perseus-lat1.tb.xml@532
+VERB	bibo	bibite ex hoc omnes	4	2	14411
+VERB	bibo	et biberunt ex illo omnes	5	2	11345
+VERB	bibo	bibe	1	2	48164
+VERB	iacto	crebro itaque illa iactabat	4	2	phi1348.abo012.perseus-lat1.tb.xml@141
+VERB	inquiro	nec quicquam ultra aut statim aut postea inquisiit	8	2	phi1348.abo012.perseus-lat1.tb.xml@321
+VERB	proficiscor	proficiscere	1	2	phi0474.phi013.perseus-lat1.tb.xml@69
+VERB	proficiscor	se autem maturius profecturum	4	2	24787
+VERB	exspecto	hi quid exspectant	3	2	phi0474.phi013.perseus-lat1.tb.xml@229
+VERB	exspecto	erant enim omnes expectantes eum	5	2	16954
+VERB	exspecto	uestra magis exspecto	3	2	83542
+VERB	exspecto	te exspectamus	2	2	77450
+VERB	fero	non impune feres	3	2	phi0620.phi001.perseus-lat1.tb.xml@64
+VERB	fero	et tulerunt	2	2	18495
+VERB	fero	permoleste tuli	2	2	76620
+VERB	fero	prae se fert	3	2	84795
+VERB	fero	istuc quidem non moleste fero	5	2	85030
+VERB	fero	ille ut ferebat	3	2	77863
+VERB	fero	id ne igitur facile fers	5	2	77875
+VERB	uinco	uicimus	1	2	phi0620.phi001.perseus-lat1.tb.xml@131
+VERB	sum	non sum ego qui fueram	5	2	phi0620.phi001.perseus-lat1.tb.xml@204
+VERB	mereo	quid tantum merui	3	2	phi0620.phi001.perseus-lat1.tb.xml@307
+VERB	expergiscor	quin igitur expergiscimini	3	2	phi0631.phi001.perseus-lat1.tb.xml@207
+VERB	censeo	sed ita censeo	3	2	phi0631.phi001.perseus-lat1.tb.xml@522
+VERB	omitto	sed ego haec omitto	4	2	phi0631.phi001.perseus-lat1.tb.xml@566
+VERB	propero	quo magis properandum est	4	2	phi0631.phi001.perseus-lat1.tb.xml@590
+VERB	cesso	cessas	1	2	phi0690.phi003.perseus-lat1.tb.xml@32
+VERB	moechor	non moechaberis	2	2	48213,12891
+VERB	peiero	non peierabis	2	2	12904
+VERB	torqueo	ne me torqueas	3	2	58243,47419
+VERB	interrogo	et interrogabat eum	3	2	10561
+VERB	interrogo	interrogauerunt ergo eum	3	2	18706
+VERB	interrogo	interrogo ergo	2	2	24011
+VERB	interrogo	et interrogauit eos	3	2	10896
+VERB	interrogo	et interrogauerunt eum	3	2	18403
+VERB	interrogo	ipsum interrogate	2	2	63054,48280
+VERB	interrogo	iterum ergo eos interrogauit	4	2	19813
+VERB	interrogo	quid me interrogas	3	2	19848
+VERB	interrogo	et interrogauit illum	3	2	24730
+VERB	miror	et omnes mirabantur	3	2	10581
+VERB	miror	et mirabantur super eo	4	2	11189
+VERB	miror	quare miraris	2	2	33994
+VERB	irrideo	et inridebant eum	3	2	10614
+VERB	surgo	surge	1	2	17710,47451,13127,47412,57019,24004,48118,47425
+VERB	surgo	et continuo surrexit	3	2	23941
+VERB	surgo	surgite	1	2	19642,47479,48231,14449
+VERB	surgo	et statim ille surrexit	4	2	10385
+VERB	surgo	surrexit	1	2	47487
+VERB	mundo	mundare	1	2	47407,16601
+VERB	mundo	nonne decem mundati sunt	4	2	17706
+VERB	do	et nemo illi dabat	4	2	17569
+VERB	do	gratis date	2	2	47514
+VERB	do	illis autem non est datum	5	2	13423
+VERB	do	dedit	1	2	82374
+VERB	do	alia data est	3	2	82219
+VERB	do	itaque duas ei praeterea dederam	5	2	78564
+VERB	scribo	de me enim ille scripsit	5	2	18763
+VERB	scribo	scribe quinquaginta	2	2	48191
+VERB	scribo	sed haec ad te scribam alias subtilius	7	2	76066
+VERB	scribo	scriptum est	2	2	13988,12818,16507,12804
+VERB	scribo	rursum scriptum est	3	2	12811
+VERB	scribo	hic enim est de quo scriptum est	7	2	13281
+VERB	scribo	scriptum est enim	3	2	27955,24703,29502,27178,29582,14418,27872,27104
+VERB	scribo	quia scriptum est	3	2	11352
+VERB	scribo	hic est de quo scriptum est	6	2	16816
+VERB	scribo	erat autem scriptum	3	2	19954
+VERB	scribo	sicut scriptum est	3	2	49329,49333,26982,49339,27018,49309
+VERB	scribo	sed sicut scriptum est	4	2	27232,49351
+VERB	scribo	de quibus autem scripsistis	4	2	28065
+VERB	scribo	ita scribo	2	2	225211
+VERB	scribo	scribe	1	2	33918,34087
+VERB	scribo	nam ad me de eo nihil scripsisti	7	2	82230
+VERB	scribo	quid aliud scribam ad te	5	2	76288
+VERB	scribo	sed quid tu scribas	4	2	77012
+VERB	scribo	itaque scripsi ad eum accurate	5	2	78159
+VERB	scribo	ergo id ipsum scribes ad me	6	2	78739
+VERB	scribo	nihil omnino scripseris	3	2	79806
+VERB	curo	qui curabantur omnes	3	2	23651
+VERB	curo	sed hoc ne curaris	4	2	77716
+VERB	curo	etiam ne hic mihi curandus est	6	2	78026
+VERB	consentio	consenserunt autem illi	3	2	23686
+VERB	mitto	confestim igitur misi ad te	5	2	24017
+VERB	mitto	cur igitur cuiquam misi prius	5	2	77518
+VERB	mitto	miserunt ergo	2	2	20092
+VERB	affirmo	sed nihil adfirmo	3	2	76818
+VERB	sileo	tu hoc silebis	3	2	81782
+VERB	sileo	itaque siletur	2	2	77148
+VERB	doleo	tantum doleo ac mirifice quidem	5	2	81786
+VERB	adsum	cur non ades	3	2	76830
+VERB	adsum	utinam adesses	2	2	81803
+VERB	praetereo	nihil profecto te praeteriret	4	2	76831
+VERB	opinor	hoc opinor	2	2	76869
+VERB	greekexpression	quid enim ακκιζομεθα tam diu	5	2	81804
+VERB	greekexpression	hic hic nimirum πολιτευτεον	4	2	76574
+VERB	greekexpression	omnino πορπαπυμνα	2	2	77866
+VERB	greekexpression	recte πεφυσιωμαι	2	2	78376
+VERB	greekexpression	interim haec λαμπρα	3	2	78378
+VERB	sentio	senseram	1	2	77524
+VERB	sentio	aliter sensero	2	2	79083
+VERB	seruo	itaque eo me seruaui	4	2	78259
+VERB	adicio	et omnia haec adicientur uobis	5	2	12990
+VERB	scandalizo	et scandalizabantur in illo	4	2	10632
+VERB	scandalizo	hoc uos scandalizat	3	2	18874
+VERB	scandalizo	et scandalizabantur in eo	4	2	13510
+VERB	conuoco	et conuocauit duodecim	3	2	10637
+VERB	peto	quid petam	2	2	10667
+VERB	confido	confidite	1	2	47428
+VERB	confido	confide	1	2	47505
+VERB	confido	sed confidite	2	2	48317
+VERB	stupeo	et plus magis intra se stupebant	6	2	10719
+VERB	extendo	et extendit	2	2	16678
+VERB	audio	quid hoc audio de te	5	2	17604
+VERB	audio	audiant illos	2	2	17667
+VERB	audio	ipsum audite	2	2	13727,48142
+VERB	audio	audite	1	2	10479
+VERB	audio	audite illum	2	2	10882
+VERB	audio	quid eum auditis	3	2	19272
+VERB	audio	audiemus te de hoc iterum	5	2	24410
+VERB	audio	cras audies eum	3	2	24817
+VERB	audio	numquid non audierunt	3	2	26988
+VERB	audio	nemo enim audit	3	2	28404
+VERB	sedeo	et sede cito	3	2	48190
+VERB	derideo	et deridebant illum	3	2	17638
+VERB	derideo	et deridebant eum	3	2	13168
+VERB	eligo	nonne ego uos duodecim elegi	5	2	18892
+VERB	obsecro	obsecro te	2	2	48784,16928
+VERB	obsecro	obsecra	1	2	50017
+VERB	fleo	ne fleueris	2	2	33622
+VERB	adoro	et adorauerunt	2	2	33644
+VERB	amplector	amplectitur	1	2	82334
+VERB	amo	amat	1	2	82335
+VERB	amo	amas me	2	2	20125
+VERB	amo	multum te amamus	3	2	75897
+VERB	amo	hunc tu non ames	4	2	77926
+VERB	amo	quem non minus amo quam tu	6	2	85817
+VERB	laudo	aperte laudat	2	2	82336
+VERB	laudo	laudo uos	2	2	28309
+VERB	laudo	in hoc non laudo	4	2	28310
+VERB	conficio	tu ista confice	3	2	76082
+VERB	conficio	ergo tu id conficies	4	2	78180
+VERB	frigeo	itaque frigebat	2	2	82349
+VERB	adiuro	adiurat	1	2	81807
+VERB	demitto	ut demissus erat	3	2	81821
+VERB	uereor	quid enim uereris	3	2	77572
+VERB	uereor	sed nihil horum uereor	4	2	24548
+VERB	deoleo	equidem dolui	2	2	77578
+VERB	satisfacio	sed certe satis faciam utrique	5	2	85795
+VERB	uoco	et uocauit eos	3	2	12835
+VERB	uoco	et statim uocauit illos	4	2	10320
+VERB	uoco	uocat te	2	2	47452
+VERB	uoco	uos uocatis me	3	2	19518
+VERB	uoco	uoco	1	2	76614
+VERB	pereo	perimus	1	2	13093
+VERB	eo	ite	1	2	13107,14655,17124,47583,48200,48179
+VERB	eo	et non iuit	3	2	62967
+VERB	eo	eamus	1	2	62978,47480
+VERB	eo	eamus hinc	2	2	63106
+VERB	blasphemo	hic blasphemat	2	2	13119
+VERB	blasphemo	blasphemauit	1	2	14488
+VERB	blasphemo	blasphemat	1	2	10375
+VERB	recedo	recedite	1	2	13166
+VERB	affero	adferte illos mihi huc	4	2	13546
+VERB	affero	adferte huc illum ad me	5	2	13748
+VERB	affero	adferte illum ad me	4	2	10905
+VERB	affero	et adtulerunt eum	3	2	10906
+VERB	affero	at illi adtulerunt	3	2	11181
+VERB	sino	sinite illos	2	2	13606
+VERB	sino	sine	1	2	14607,48086
+VERB	sino	sinite eam	2	2	47471
+VERB	sino	sinite	1	2	47485
+VERB	sino	sinite usque huc	3	2	18160
+VERB	sino	sinas	1	2	77603
+VERB	sino	quis sinat	2	2	229649
+VERB	uado	uade post me	3	2	47541
+VERB	uado	sed uade	2	2	47408
+VERB	uado	uade	1	2	50180,48277,47453,47443,48259,62779
+VERB	uado	tu autem uade	3	2	48147
+VERB	uado	quo uadis	2	2	19692
+VERB	transfiguro	et transfiguratus est ante eos	5	2	13717
+VERB	patior	usquequo patiar uos	3	2	13747
+VERB	patior	quamdiu uos patiar	3	2	10904
+VERB	patior	sed facile patior	3	2	85740
+VERB	patior	patiar	1	2	85886
+VERB	custodio	omnia haec custodiui	3	2	13877
+VERB	desum	quid adhuc mihi deest	4	2	13878
+VERB	desum	unum tibi deest	3	2	11006
+VERB	desum	adhuc unum tibi deest	4	2	17792
+VERB	desum	ne ista quidem desunt	4	2	77632
+VERB	conduco	nemo nos conduxit	3	2	13910
+VERB	dimitto	et confestim dimittet eos	4	2	13969
+VERB	dimitto	et dimisit eos	3	2	10804
+VERB	dimitto	et dimisit illam	3	2	16561
+VERB	sano	et sanauit eos	3	2	13992
+VERB	maneo	ibi que mansit	3	2	14002
+VERB	areo	quomodo continuo aruit	3	2	14009
+VERB	nescio	nescimus	1	2	11144,14028
+VERB	nescio	nescio uos	2	2	47567
+VERB	nescio	et ego nesciebam eum	4	2	18434
+VERB	nescio	nescio	1	2	19164
+VERB	obmutesco	at ille obmutuit	3	2	14091
+VERB	obmutesco	obmutesce	1	2	47417
+VERB	exeo	exite obuiam ei	3	2	47565
+VERB	exeo	exi ab eo	3	2	47440
+VERB	exeo	deinde exeant	2	2	79690
+VERB	osculor	et osculatus est eum	4	2	14456,11395
+VERB	crucifigo	crucifigatur	1	2	14559,14555
+VERB	crucifigo	crucifige eum	2	2	63129,11476,11472
+VERB	crucifigo	et crucifixerunt eum	3	2	11492
+VERB	crucifigo	crucifige	1	2	48324,48323,48235
+VERB	crucifigo	crucifige illum	2	2	48236
+VERB	aueo	hauete	1	2	47585
+VERB	complaceo	in te conplacui	3	2	10309
+VERB	complaceo	in te conplacuit mihi	4	2	48079
+VERB	transeo	transeamus contra	2	2	10535
+VERB	transeo	statim transi	2	2	48196
+VERB	conquiro	quid inter uos conquiritis	4	2	10897
+VERB	introeo	et amplius ne introeas in eum	6	2	10921
+VERB	introeo	non tamen introiuit	3	2	20013
+VERB	introeo	noctu introisti	2	2	76437
+VERB	clamo	at ille multo magis clamabat	5	2	11060
+VERB	clamo	at illi iterum clamauerunt	4	2	11471
+VERB	clamo	at illi magis clamabant	4	2	11475
+VERB	clamo	illi autem clamabant	3	2	19943
+VERB	clamo	alii autem aliud clamabant	4	2	24503
+VERB	soluo	et soluunt eum	3	2	11082
+VERB	tempto	quid me temptatis	3	2	17974,11179
+VERB	tempto	uos met ipsos temptate	4	2	225154
+VERB	uigilo	uigilate	1	2	49645,11297
+VERB	fremo	et fremebant in eam	4	2	11307
+VERB	paro	et illic parate nobis	4	2	11329
+VERB	sumo	sumite	1	2	47473
+VERB	sufficio	sufficit	1	2	11385
+VERB	prophetizo	prophetiza	1	2	11432
+VERB	interpretor	quod est interpretatum	3	2	11508
+VERB	interpretor	numquid omnes interpretantur	3	2	28379
+VERB	rogo	et rogauerunt illum pro ea	5	2	16559
+VERB	rogo	rogo te	2	2	48181,48183
+VERB	rogo	ego pro eis rogo	4	2	48319
+VERB	rogo	rogo autem te	3	2	48810
+VERB	rogo	rogo ergo uos	3	2	27994
+VERB	rogo	etiam rogo et te	4	2	49909
+VERB	rogo	rogamus autem uos	3	2	49952
+VERB	iudico	recte iudicasti	2	2	16851
+VERB	iudico	ego non iudico quemquam	4	2	19030
+VERB	iudico	sed neque me ipsum iudico	5	2	27967
+VERB	iudico	uos ipsi iudicate	3	2	28293
+VERB	nuntio	et nuntiatum est illi	4	2	16906
+VERB	ascendo	et ascenderunt	2	2	16913
+VERB	ascendo	ascendite huc	2	2	33815
+VERB	permitto	et permisit illos	3	2	16940
+VERB	reuertor	sin autem ad uos reuertetur	5	2	17130
+VERB	lego	quomodo legis	2	2	17170
+VERB	lego	legi	1	2	85739
+VERB	requiesco	requiesce	1	2	48162
+VERB	comedo	comede	1	2	48163
+VERB	epulor	epulare	1	2	48165
+VERB	laboro	non laborant	2	2	48168
+VERB	laboro	labora	1	2	50020
+VERB	neo	non nent	2	2	48169
+VERB	fio	et ita fit	3	2	17405
+VERB	fio	fiat	1	2	76733
+VERB	succido	succide ergo illam	3	2	17427
+VERB	succido	sin autem in futurum succides eam	6	2	17431
+VERB	attendo	adtendite uobis	2	2	17677
+VERB	recumbo	recumbe	1	2	48197
+VERB	recumbo	nonne qui recumbit	3	2	18111
+VERB	puto	non puto	2	2	17692
+VERB	puto	ac putaram paulo secus	4	2	85868
+VERB	puto	puto	1	2	78738
+VERB	puto	non putaram	2	2	86400
+VERB	planto	plantabant	1	2	48204
+VERB	planto	ego plantaui	2	2	49562
+VERB	aedifico	aedificabant	1	2	48205
+VERB	molo	duae erunt molentes in unum	5	2	17743
+VERB	respicio	respice	1	2	48221
+VERB	respicio	respice in nos	3	2	23541
+VERB	interficio	et interficite ante me	4	2	17882
+VERB	absum	absit	1	2	17960,26617,26800,27002,26787,26625,26742,26764,26669,27027,29476,26916,28055,29527
+VERB	dormio	quid dormitis	2	2	18150
+VERB	dormio	quidam autem dormierunt	3	2	49622
+VERB	cado	cadite super nos	3	2	62900
+VERB	cado	quinque ceciderunt	2	2	50187
+VERB	cado	cecidit	1	2	50190
+VERB	operio	operite nos	2	2	18256
+VERB	intro	et intrauit cum illis	4	2	18341
+VERB	aufero	auferte ista hinc	3	2	48249
+VERB	aufero	abstuli	1	2	78163
+VERB	adduco	quare non adduxistis eum	4	2	18986
+VERB	seduco	numquid et uos seducti estis	5	2	18990
+VERB	seduco	nemo se seducat	3	2	27952
+VERB	condemno	nemo te condemnauit	3	2	19015
+VERB	condemno	nec ego te condemnabo	4	2	57356
+VERB	condemno	quis est qui condemnet	4	2	49325
+VERB	condemno	condemnarunt duodetreginta	2	2	84997
+VERB	condemno	ac tamen triginta duo condemnarunt	5	2	77868
+VERB	eicio	et eiecerunt eum foras	4	2	19216
+VERB	tollo	nemo tollit eam a me	5	2	19266
+VERB	tollo	tolle	1	2	19944,63128
+VERB	tollo	tolle eum	2	2	24626
+VERB	clarifico	et continuo clarificabit eum	4	2	19557
+VERB	clarifico	et clarificatus sum in eis	5	2	19767
+VERB	sitio	sitio	1	2	19980
+VERB	consummo	consummatum est	2	2	19984
+VERB	prandeo	prandete	1	2	48328
+VERB	aperio	quae ultro aperta est eis	5	2	24106
+VERB	aperio	aperui	1	2	85738
+VERB	insanio	insanis	1	2	24115
+VERB	exsurgo	exsurge	1	2	48814
+VERB	nascor	ego autem et natus sum	5	2	24688
+VERB	praecello	praecellimus eos	2	2	26632
+VERB	declino	omnes declinauerunt	2	2	49312
+VERB	excludo	exclusa est	2	2	26658
+VERB	concupisco	non concupisces	2	2	26790,27139
+VERB	mentior	non mentior	2	2	49327
+VERB	queror	quid adhuc queritur	3	2	26926
+VERB	queror	queritur	1	2	85031
+VERB	retribuo	ego retribuam	2	2	27106
+VERB	adultero	non adulterabis	2	2	27136
+VERB	furor	non furaberis	2	2	27138
+VERB	sto	stabit autem	2	2	27161
+VERB	gaudeo	gaudeo igitur in uobis	4	2	27275
+VERB	gaudeo	gaudete	1	2	49912
+VERB	superaedifico	alius autem superaedificat	3	2	27940
+VERB	discerno	quis enim te discernit	4	2	27975
+VERB	regno	sine nobis regnastis	3	2	27979
+VERB	inflo	et uos inflati estis	4	2	28004
+VERB	inflo	non inflatur	2	2	224953
+VERB	circumcido	non circumcidatur	2	2	28099
+VERB	parco	ego autem uobis parco	4	2	28121
+VERB	nubo	nubat	1	2	49579
+VERB	utor	ego autem nullo horum usus sum	6	2	28196
+VERB	aemulor	non aemulatur	2	2	224946
+VERB	irrito	non inritatur	2	2	224950
+VERB	suffero	omnia suffert	2	2	49609
+VERB	spero	omnia sperat	2	2	49611
+VERB	sustineo	omnia sustinet	2	2	49612
+VERB	diiudico	diiudicatur ab omnibus	3	2	224966
+VERB	sperno	ne quis ergo illum spernat	5	2	28581
+VERB	angustio	non angustiamini in nobis	4	2	29027
+VERB	capio	capite nos	2	2	29042
+VERB	laedo	neminem laesimus	2	2	49775
+VERB	laedo	nihil me laesistis	3	2	29556
+VERB	corrumpo	neminem corrupimus	2	2	49776
+VERB	circumuenio	neminem circumuenimus	2	2	49777
+VERB	consolor	ideo consolati sumus	3	2	29063
+VERB	consolor	hoc me tamen consolor uno	5	2	78411
+VERB	dispergo	dispersit	1	2	49784
+VERB	grauo	ego uos non grauaui	4	2	29220
+VERB	curro	currebatis bene	2	2	29602
+VERB	redarguo	magis autem et redarguite	4	2	49878
+VERB	occupo	occupati autem eratis	3	2	30066
+VERB	creo	omnia per ipsum et in ipso creata sunt	8	2	30163
+VERB	insto	insta oportune inportune	3	2	50015
+VERB	arguo	argue	1	2	50016
+VERB	deuito	quem et tu deuita	4	2	30936
+VERB	caedo	cecidit	1	2	50182
+VERB	aro	arandum est spisse sed non alte	6	2	160290
+VERB	assequor	alii hoc ita adsequuntur	4	2	160367
+VERB	cupio	cupio quidem certe	3	2	84998
+VERB	arcesso	arcessiuit ad se	3	2	82371
+VERB	promitto	promisit	1	2	82372
+VERB	intercedo	intercessit	1	2	82373
+VERB	intercedo	huic frequenter interceditur	3	2	76355
+VERB	desidero	te desideramus	2	2	83443
+VERB	desidero	desidero enim non mea solum ne que meos sed me ipsum	11	2	77194
+VERB	desidero	denique haec non desidero	4	2	78223
+VERB	posco	aut ne poposcisses	3	2	80327
+VERB	offero	ego enim tibi me non offerebam	6	2	80328
+VERB	fateor	fateor	1	2	76445
+VERB	dissentio	nam ego dissensi	3	2	80385
+VERB	uerto	quo me uertam	3	2	76722
+VERB	ingemo	nondum plane ingemueram	3	2	76738
+VERB	salueo	salue	1	2	85805
+VERB	recuso	haec etiam id recusat	4	2	81755
+VERB	obtineo	hoc quem ad modum obtinebis	5	2	76761
+VERB	uolito	uolitat	1	2	76938
+VERB	furo	furit	1	2	81828
+VERB	occurro	occurritur	1	2	81837
+VERB	perturbo	ac ne sis perturbatus	4	2	76973
+VERB	reclamo	reclamatum est	2	2	76980
+VERB	exorior	subito exorta est	3	2	81869
+VERB	commendo	meos tibi commendo	3	2	77055
+VERB	commendo	eos mihi commendat	3	2	78568
+VERB	ignosco	hic mihi ignosces	3	2	77215
+VERB	ignosco	ignosce	1	2	77828
+VERB	accuso	me enim ipsum multo magis accuso	6	2	83560
+VERB	mando	sed tibi nihil mando nominatim	5	2	77284
+VERB	mando	mandaui omnia	2	2	78062
+VERB	perplaceo	ea mihi perplacet	3	2	77345
+VERB	prosum	nam hoc quidem etiam profuisset	5	2	84733
+VERB	obnuntio	obnuntiat	1	2	84791
+VERB	absoluo	nam absoluerunt uiginti duo	4	2	84995
+VERB	absoluo	triginta octo absoluerunt	3	2	85654
+VERB	pugno	pugnatur acriter	2	2	77744
+VERB	pugno	pugnatum est ab utrisque acriter	5	2	53441
+VERB	quiesco	tamen tu non quiescis	4	2	85632
+VERB	expedio	nondum est plane expeditus	4	2	77870
+VERB	commoueo	itaque me ipsum commouerat	4	2	85683
+VERB	discumbo	discubuimus omnes praeter illam	4	2	77960
+VERB	reicio	illa reiecit	2	2	77961
+VERB	accedo	nam ad me non accessit	5	2	85690
+VERB	quaeso	quaeso	1	2	85695
+VERB	considero	sed considerabimus	2	2	78036
+VERB	praesto	nostra praestabimus	2	2	85720
+VERB	indico	indicabo enim tibi	3	2	78161
+VERB	incendo	incendimus	1	2	89035
+VERB	moderor	cui moderabor diligentius	3	2	85819
+VERB	discedo	discessit	1	2	85847
+VERB	hortor	hortatus sum	2	2	85849
+VERB	cohorresco	cohorrui primo	2	2	78483
+VERB	debeo	uos quantum debetis	3	2	78496
+VERB	assido	adsidunt	1	2	78502
+VERB	subduco	subducunt	1	2	85857
+VERB	persequor	omnia sum diligentissime persecutus	4	2	78547
+VERB	suspicor	tu sceleste suspicaris	3	2	78601
+VERB	refero	quid refert	2	2	78660
+VERB	obsequor	obsequor	1	2	85909
+VERB	orno	orno	1	2	85911
+VERB	inaudio	num quid de quo inaudisti	5	2	78694
+VERB	perficio	perfice	1	2	225201
+VERB	ingeminisco	in quo tu quoque ingemiscis	5	2	79731
+VERB	remaneo	illi domi remanent	3	2	63537
+VERB	tueor	hos illi diligenter tuebantur	4	2	53978
+VERB	decedo	his omnes decedunt	3	2	74682
+VERB	impedio	nihil enim impedio	3	2	88119
+VERB	dono	dono	1	2	86198
+VERB	misereor	sed an non miserebitur cuiquam	5	2	Epi-50
+VERB	existo	quippe satis extiterat	3	2	DVE-62
+ADJ	inultus	ut inultus ego sim	4	2	Latin_SenecaYounger_HercF_poetry-463
+ADJ	magnus	at magnum tibi	3	2	Latin_SenecaYounger_Ag_poetry-305
+ADJ	indemonstrabilis	est igitur indemonstrabile	3	2	dev-s343
+ADJ	manifestus	ut manifestum est	3	2	dev-s411
+ADJ	manifestus	et hoc est de se manifestum	6	2	Mon-60
+ADJ	impossibilis	hoc autem est impossibile	4	2	train-s4670,dev-s488,train-s1766,train-s4265,train-s2246,train-s10852,dev-s445,train-s6686,dev-s1746,train-s6656,train-s731,train-s1963,train-s9734,train-s2788,test-s1985
+ADJ	impossibilis	quod est impossibile	3	2	dev-s1813,train-s8226,test-s213,dev-s890,train-s4386,train-s4592,test-s8,test-s1269,dev-s876,train-s22164,train-s7566,test-s79,test-s63,test-s1264,train-s4495
+ADJ	impossibilis	quod est impossibile secundum ipsum	5	2	dev-s916
+ADJ	impossibilis	hoc enim non est impossibile	5	2	dev-s1074
+ADJ	impossibilis	quod est impossibile propter duo	5	2	dev-s1810
+ADJ	impossibilis	quod etiam est impossibile	4	2	test-s220
+ADJ	impossibilis	quod est omnino impossibile	4	2	train-s20051,train-s2480
+ADJ	impossibilis	quod quidem impossibile est	4	2	train-s3313
+ADJ	impossibilis	sed hoc est impossibile	4	2	train-s5811
+ADJ	impossibilis	quorum utrumque est impossibile	4	2	train-s8495
+ADJ	infinitus	tum quia infinita essent	4	2	dev-s532
+ADJ	infinitus	est igitur infinitus	3	2	dev-s1924,dev-s1909
+ADJ	falsus	hoc autem est manifeste falsum	5	2	train-s2733,dev-s572,train-s3112
+ADJ	falsus	quod est manifeste falsum	4	2	train-s3716,train-s2745
+ADJ	falsus	quod est falsum	3	2	train-s2873
+ADJ	falsus	hoc autem est falsum	4	2	train-s6944,train-s4979,train-s6085
+ADJ	aeternus	est igitur aeternus	3	2	dev-s636
+ADJ	sempiternus	est igitur sempiternus	3	2	dev-s651
+ADJ	sempiternus	est igitur sempiterna	3	2	test-s2080
+ADJ	inconueniens	quod est inconueniens	3	2	train-s4257,train-s4546,train-s11418,dev-s818
+ADJ	inconueniens	quod non est inconueniens	4	2	train-s5076
+ADJ	inconueniens	hoc autem est inconueniens	4	2	train-s8807,train-s12653
+ADJ	inconueniens	quod inconueniens est	3	2	train-s11981
+ADJ	perfectus	est igitur uniuersaliter perfectus	4	2	dev-s1372
+ADJ	perfectus	est igitur perfectissimus	3	2	dev-s1380,dev-s1385
+ADJ	perfectus	omnia enim in ipso sunt uniuersaliter perfecta	7	2	test-s1401
+ADJ	bonus	est igitur bonus	3	2	dev-s1586
+ADJ	bonus	est igitur uere bonus	4	2	dev-s1603,dev-s1617
+ADJ	bonus	non est igitur bonus participatiue sed essentialiter	7	2	dev-s1643
+ADJ	bonus	illa igitur sunt meliora	4	2	train-s7125
+ADJ	bonus	bonus est	2	2	18917
+ADJ	actiuus	nam ex hoc ipso actiuum est	6	2	dev-s1896
+ADJ	primus	unde non erit primum	4	2	dev-s2067
+ADJ	ignobilis	illud autem est eo ignobilius	5	2	test-s61
+ADJ	ignobilis	nos autem ignobiles	3	2	49573
+ADJ	prior	nam hoc esset eo prius	5	2	test-s214
+ADJ	necessarius	et hoc quidem necessarium est	5	2	test-s234
+ADJ	necessarius	est ergo necessarium	3	2	test-s1483
+ADJ	necessarius	talia autem sunt necessaria absolute	5	2	train-s1179
+ADJ	necessarius	est enim necessaria	3	2	train-s4486
+ADJ	necessarius	est autem et propter aliud necessarium	6	2	train-s21171
+ADJ	necessarius	non estis mihi necessarii	4	2	28363
+ADJ	necessarius	uobis autem necessarium	3	2	49905
+ADJ	beatus	est igitur beatus	3	2	train-s15,test-s2097
+ADJ	beatus	ipse igitur est uere beatus	5	2	train-s21
+ADJ	beatus	est igitur ipse beatus	4	2	train-s26
+ADJ	beatus	ipse igitur est singulariter perfecte beatus	6	2	train-s62
+ADJ	factiuus	est igitur ipse omnium factiuus	5	2	train-s464
+ADJ	intellectualis	haec autem sunt sola intellectualia	5	2	train-s2191
+ADJ	incorruptibilis	sunt igitur incorruptibiles	3	2	train-s2474,train-s2491
+ADJ	incorruptibilis	sunt igitur omnino incorruptibiles	4	2	train-s2524,train-s2515
+ADJ	inopinabilis	quod est inopinabile	3	2	train-s3619
+ADJ	subsistens	ergo est per se subsistens	5	2	train-s4414
+ADJ	imperfectus	aliter enim esset uniuersum imperfectum	5	2	train-s5222
+ADJ	possibilis	quod non esset possibile	4	2	train-s5300
+ADJ	particularis	quod est quoddam particulare	4	2	train-s5640
+ADJ	uoluntarius	est igitur uoluntarius	3	2	train-s6157
+ADJ	laudabilis	aliter enim non essent laudabiles	5	2	train-s7089
+ADJ	laudabilis	nihil enim laudabilius	3	2	86436
+ADJ	intelligibilis	illa uero sunt secundum seipsa intelligibilia	6	2	train-s7679
+ADJ	irrationabilis	hoc autem irrationabile est	4	2	train-s9160
+ADJ	formalis	ipsa igitur sunt magis formalia omnibus aliis	7	2	train-s9425
+ADJ	probabilis	et hoc quidem satis probabile est	6	2	train-s11035
+ADJ	friuolus	haec autem friuola sunt	4	2	train-s12806
+ADJ	friuolus	sed hoc omnino friuolum est	5	2	train-s19048
+ADJ	absurdus	quod est omnino absurdum	4	2	train-s22198,train-s19428
+ADJ	absurdus	quod est absurdum	3	2	train-s21263
+ADJ	impassibilis	et propter hoc impassibilia erunt	5	2	train-s22389
+ADJ	contentus	ne c contentus eo est	5	2	phi0959.phi006.perseus-lat1.tb.xml@41
+ADJ	inaequalis	nihil autem tam inaequale erat	5	2	phi0972.phi001.perseus-lat1.xml@520
+ADJ	beo	tu beatior es	3	2	phi0972.phi001.perseus-lat1.xml@633
+ADJ	longus	longe a nobis	3	2	phi0972.phi001.perseus-lat1.xml@995
+ADJ	tardus	quam tarda es	3	2	phi0975.phi001.perseus-lat1.tb.xml@395
+ADJ	dignus	digni sunt	2	2	33957,tlg0031.tlg027.perseus-lat1.tb.xml@391
+ADJ	multus	nonne uos magis pluris estis illis	6	2	12978
+ADJ	multus	quanto magis uos pluris estis illis	6	2	17354
+ADJ	desertus	haec est deserta	3	2	23850
+ADJ	constans	nihil constantius	2	2	82350
+ADJ	constans	constans esto	2	2	24717
+ADJ	seuerus	nihil seuerius	2	2	82351
+ADJ	fortis	nihil fortius	2	2	82352
+ADJ	fortis	uos autem fortes	3	2	49571
+ADJ	fortis	numquid fortiores illo sumus	4	2	28254
+ADJ	paucus	ero cum paucis	3	2	77270
+ADJ	cautus	in aliis eris cautior	4	2	84866
+ADJ	serenus	serenum erit	2	2	13663
+ADJ	timidus	quid timidi estis	3	2	10547
+ADJ	animaequus	animaequior esto	2	2	11064
+ADJ	molestus	quid illi molesti estis	4	2	47472
+ADJ	subditus	et erat subditus illis	4	2	16449
+ADJ	pretiosus	qui illi erat pretiosus	4	2	16758
+ADJ	proximus	et quis est meus proximus	5	2	17178
+ADJ	satis	satis est	2	2	18136
+ADJ	supernus	ego de supernis sum	4	2	48270
+ADJ	liber	liberi eritis	2	2	19068
+ADJ	liber	non sum liber	3	2	28167
+ADJ	similis	nequaquam sed similis est eius	5	2	19151
+ADJ	caecus	numquid et nos caeci sumus	5	2	19231
+ADJ	quadriduanus	quadriduanus enim est	3	2	48296
+ADJ	mundus	et uos mundi estis sed non omnes	7	2	19513
+ADJ	mundus	non estis mundi omnes	4	2	19515
+ADJ	mundus	mundus ego	2	2	24421
+ADJ	mundus	omnia quidem munda sunt	4	2	49349
+ADJ	carnalis	adhuc enim estis carnales	4	2	27921
+ADJ	infirmus	nos infirmi	2	2	49570
+ADJ	nobilis	uos nobiles	2	2	49572
+ADJ	ambitiosus	non est ambitiosa	3	2	224952
+ADJ	idoneus	et ad haec quis tam idoneus	6	2	28931
+ADJ	mirus	et non mirum	3	2	29162
+ADJ	grauis	et non ero grauis uobis	5	2	29214
+ADJ	grauis	nihil grauius	2	2	85810
+ADJ	reprobus	nisi forte reprobi estis	4	2	29243
+ADJ	iustus	hoc enim est iustum	4	2	29851
+ADJ	sollicitus	nihil solliciti sitis	3	2	30059
+ADJ	patiens	patientes estote ad omnes	4	2	49956
+ADJ	praecipuus	omnes praecipuae	2	2	159858
+ADJ	formianus	in formiano sunt	3	2	82250
+ADJ	ridiculus	non sunt haec ridicula	4	2	76287
+ADJ	seditiosus	ea est enim seditiosa	4	2	76446
+ADJ	curiosus	tametsi nimis sum curiosus	4	2	76539
+ADJ	iners	nihil me est inertius	4	2	76628
+ADJ	infortunatus	nihil me infortunatius	3	2	77000
+ADJ	gratus	id est mihi gratissimum	4	2	77044
+ADJ	gratus	nihil gratius	2	2	77816
+ADJ	improuisus	haec improuisa omnia	3	2	84767
+ADJ	acer	omnes acres	2	2	84771
+ADJ	quietus	nihil quietius	2	2	77583
+ADJ	alsus	nihil alsius	2	2	84872
+ADJ	amoenus	nihil amoenius	2	2	84873
+ADJ	dissimilis	unum dissimile quod huic merito	5	2	84967
+ADJ	gloriosus	nihil gloriosius	2	2	85647
+ADJ	carus	nihil carius	2	2	85771
+ADJ	lenis	nihil lenius	2	2	85809
+ADJ	praeclarus	nihil est praeclarius	3	2	78377
+ADJ	miser	etsi nil miserius	3	2	79092
+ADJ	armatus	hae erant armata circiter milia sexaginta	6	2	53838
+ADJ	concors	o male concordes	3	2	Epi-91
+NOUN	cruor	unde hic cruor	3	2	Latin_SenecaYounger_HercF_poetry-473
+NOUN	periculum	nullum est periclum tibimet	4	2	Latin_SenecaYounger_Ag_poetry-304
+NOUN	periculum	an periculum	2	2	26888
+NOUN	agamemnon	quis iste est alter agamemnon tuus	6	2	Latin_SenecaYounger_Ag_poetry-374
+NOUN	mors	mortem aliquid ultra est	4	2	Latin_SenecaYounger_Ag_poetry-399
+NOUN	mors	in mortibus frequenter	3	2	49789
+NOUN	natus	gnatum ne	2	2	Latin_SenecaYounger_Oedip_poetry-370
+NOUN	natus	est ne ille natus	4	2	Latin_SenecaYounger_HercF_poetry-232
+NOUN	deus	quae deus est	3	2	dev-s574
+NOUN	deus	hoc autem est deus	4	2	dev-s833,dev-s978
+NOUN	deus	hoc autem deus est	4	2	dev-s1637,dev-s1934
+NOUN	deus	quod deus est	3	2	dev-s1867
+NOUN	deus	ergo in deo essentialiter est	5	2	test-s1383
+NOUN	deus	est igitur in deo	4	2	test-s1724
+NOUN	deus	et hoc est deus	4	2	train-s459
+NOUN	deus	dii estis	2	2	19298
+NOUN	deus	omnia autem ex deo	4	2	28292
+NOUN	materia	ipse igitur materia non est	5	2	dev-s706
+NOUN	corpus	igitur corpus non est	4	2	dev-s797
+NOUN	corpus	non est igitur corpus	4	2	dev-s819,train-s2262
+NOUN	corpus	igitur non est corpus	4	2	dev-s834
+NOUN	corpus	hoc est corpus meum	4	2	47474,14408
+NOUN	corpus	hoc est corpus meum pro uobis	6	2	28312
+NOUN	corpus	unum autem corpus	3	2	49602
+NOUN	magnitudo	ergo non est in aliqua magnitudine	6	2	dev-s849
+NOUN	essentia	est igitur ipse sua essentia	5	2	dev-s1018
+NOUN	quidditas	non ergo est quidditas eius	5	2	dev-s1054
+NOUN	esse	unumquodque est per suum esse	5	2	dev-s1060
+NOUN	genus	igitur non est in aliquo genere	6	2	dev-s1211
+NOUN	genus	ipsius enim et genus sumus	5	2	24406
+NOUN	finis	quod est finis	3	2	dev-s1612
+NOUN	finis	ipsa igitur est finis eius	5	2	train-s6781
+NOUN	finis	sed nondum finis	3	2	11255
+NOUN	bonitas	est igitur sua bonitas	4	2	dev-s1649
+NOUN	bonitas	ipse enim est sua bonitas	5	2	train-s1508
+NOUN	mundus	sed praeter hunc mundum non est alius	7	2	dev-s1780
+NOUN	mundus	uos de mundo hoc estis	5	2	48271
+NOUN	mundus	ego non sum de hoc mundo	6	2	48272
+NOUN	causa	nihil enim sui ipsius causa est	6	2	test-s109
+NOUN	causa	si autem causae	3	2	train-s10859
+NOUN	definitio	similiter autem est et in definitionibus	6	2	test-s255
+NOUN	ueritas	ergo est etiam sua ueritas	5	2	test-s494
+NOUN	conuersus	non autem e conuerso	4	2	test-s706
+NOUN	rex	ut est illud i reg 22	6	2	test-s1838
+NOUN	rex	ergo rex es tu	4	2	19892
+NOUN	uita	ego sum uita	3	2	test-s2061
+NOUN	beatitudo	ipse igitur est sua beatitudo	5	2	train-s40
+NOUN	potentia	est igitur ipse sua potentia	5	2	train-s293,train-s289
+NOUN	potentia	est igitur sua potentia	4	2	train-s299
+NOUN	agens	est igitur agens per se	5	2	train-s308
+NOUN	casus	non est igitur a casu	5	2	train-s1683
+NOUN	intellectus	quod quidem solius intellectus est	5	2	train-s2181
+NOUN	intellectus	adhuc et uos sine intellectu estis	6	2	13611
+NOUN	anima	quae est anima	3	2	train-s2844
+NOUN	malum	hoc autem est malum	4	2	train-s5836
+NOUN	bonum	quod est eius bonum	4	2	train-s6339
+NOUN	perfectio	est enim aliquid perfectio alicuius dupliciter	6	2	train-s6977
+NOUN	usus	hoc enim earum usus est	5	2	train-s7147
+NOUN	subiectum	est igitur subiectum utrorumque	4	2	train-s7597
+NOUN	gubernator	est igitur gubernator ipsius	4	2	train-s8622
+NOUN	determinatio	nam omnia alia sunt quaedam determinationes ipsius	7	2	train-s8731
+NOUN	res	est igitur in omnibus rebus	5	2	train-s8790
+NOUN	res	quae tamen inter eos de omnibus potius rebus est quam de me	12	2	83533
+NOUN	primus	quantum ad primum	3	2	train-s10022
+NOUN	secundus	quantum ad secundum	3	2	train-s10024
+NOUN	dominus	ac per hoc uere dominus noster est	7	2	train-s11384
+NOUN	dominus	hic est omnium dominus	4	2	74912
+NOUN	dominus	dominus est	2	2	20095
+NOUN	caro	erunt duo in carne una	5	2	train-s11704
+NOUN	caro	et erunt duo in carne una	6	2	10981
+NOUN	caro	erunt enim duo in carne una	6	2	28057
+NOUN	iustitia	quod est iustitiae	3	2	train-s11844
+NOUN	tenebra	eratis aliquando tenebrae	3	2	train-s12988
+NOUN	forma	ergo ipsa non est forma	5	2	train-s14912
+NOUN	creatura	non est igitur creatura	4	2	train-s17331,train-s17340
+NOUN	filius	aut igitur non est in filio	6	2	train-s17703
+NOUN	filius	cuius filius est	3	2	14143
+NOUN	filius	et quomodo filius eius est	5	2	18012
+NOUN	filius	filius meus es tu	4	2	48790
+NOUN	spiritualis	nec etiam spiritualis	3	2	train-s18460
+NOUN	uniuersalis	non autem uniuersalis	3	2	train-s20072
+NOUN	hypostasis	ergo est hypostasis	3	2	train-s20074
+NOUN	baptisma	quod quidem est per baptismum	5	2	train-s21445
+NOUN	homo	hoc autem non est omnium hominum	6	2	train-s21909
+NOUN	homo	et ego ipse homo sum	5	2	24005
+NOUN	libitinarius	libitinarius fuit	2	2	phi0972.phi001.perseus-lat1.xml@167
+NOUN	apophoretus	et hi quidem apophoreti fuerunt	5	2	phi0972.phi001.perseus-lat1.xml@205
+NOUN	agaga	agaga est	2	2	phi0972.phi001.perseus-lat1.xml@887
+NOUN	annus	erat autem annorum duodecim	4	2	10620
+NOUN	sabbatum	sabbatum est	2	2	18702
+NOUN	hostis	hostes omnibus	2	2	81797
+NOUN	inimicus	inimicus est	2	2	81799
+NOUN	manus	diu multum que in manibus fuerunt	6	2	77684
+NOUN	helias	helias est	2	2	47426
+NOUN	helias	helias es tu	3	2	18405
+NOUN	diabolus	et ex uobis unus diabolus est	6	2	18893
+NOUN	spiritus	statim fui in spiritu	4	2	33598
+NOUN	iudex	ideo ipsi iudices erunt uestri	5	2	13363
+NOUN	iudex	ideo ipsi iudices uestri erunt	5	2	17244
+NOUN	fantasma	fantasma est	2	2	13558
+NOUN	tempestas	hodie tempestas	2	2	47539
+NOUN	heres	hic est heres	3	2	47547,11159
+NOUN	frater	omnes autem uos fratres estis	5	2	47553
+NOUN	christus	ego sum christus	3	2	14215
+NOUN	christus	tu es christus	3	2	10852
+NOUN	christus	non sum ego christus	4	2	62992
+NOUN	christus	numquid ipse est christus	4	2	18638
+NOUN	christus	hic est christus	3	2	18976
+NOUN	christus	ego autem christi	3	2	27860
+NOUN	christus	uos autem christi	3	2	27962
+NOUN	galilaei	nam et galilaeus es	4	2	11445
+NOUN	galilaei	nam et galilaeus est	4	2	18179
+NOUN	galilaei	numquid et tu galilaeus es	5	2	18996
+NOUN	signum	et hoc uobis signum	4	2	16394
+NOUN	uidua	et haec uidua erat	4	2	16781
+NOUN	samaritani	et hic erat samaritanus	4	2	17704
+NOUN	ager	duo in agro	3	2	17745
+NOUN	ciuitas	et tu esto supra quinque ciuitates	6	2	17866
+NOUN	herodes	sed ne que herodes	4	2	18228
+NOUN	paradisus	hodie me cum eris in paradiso	6	2	18281
+NOUN	testis	uos autem estis testes horum	5	2	18368
+NOUN	propheta	propheta es tu	3	2	18408
+NOUN	propheta	propheta est	2	2	19178
+NOUN	propheta	numquid omnes prophetae	3	2	28374
+NOUN	discipulus	tu discipulus illius es	4	2	19205
+NOUN	discipulus	numquid et tu ex discipulis eius es	7	2	19859
+NOUN	ostium	ego sum ostium	3	2	19249
+NOUN	nox	erat autem nox	3	2	19553
+NOUN	mane	erat autem mane	3	2	19867
+NOUN	iudaei	numquid ego iudaeus sum	4	2	19884
+NOUN	iudaei	et quidam quidem erant cum iudaeis	6	2	48794
+NOUN	angelus	angelus eius est	3	2	24118
+NOUN	romanus	tu romanus es	3	2	48817
+NOUN	angustia	an angustia	2	2	26884
+NOUN	persecutio	an persecutio	2	2	26885
+NOUN	fames	an fames	2	2	26886
+NOUN	nuditas	an nuditas	2	2	26887
+NOUN	gladius	an gladius	2	2	26889
+NOUN	plebs	non plebs mea uos	4	2	26939
+NOUN	consiliarius	aut quis consiliarius eius fuit	5	2	27068
+NOUN	debitor	et debitores sunt eorum	4	2	27241
+NOUN	paulus	ego quidem sum pauli	4	2	27857
+NOUN	apollo	ego autem apollo	3	2	27858
+NOUN	imitator	imitatores mei estote	3	2	27995
+NOUN	cura	non sit tibi curae	4	2	28104
+NOUN	cura	haec sibi esse curae	4	2	52841
+NOUN	apostolus	non sum apostolus	3	2	28168
+NOUN	apostolus	numquid omnes apostoli	3	2	28373
+NOUN	doctor	numquid omnes doctores	3	2	28375
+NOUN	peccatum	adhuc enim estis in peccatis uestris	6	2	28494
+NOUN	hebraei	hebraei sunt	2	2	29173
+NOUN	israelitae	israhelitae sunt	2	2	29174
+NOUN	carcer	in carceribus abundantius	3	2	49787
+NOUN	uestigium	nonne iisdem uestigiis	3	2	225157
+NOUN	testamentum	haec enim sunt duo testamenta	5	2	29578
+NOUN	tenebrae	eratis enim aliquando tenebrae	4	2	29820
+NOUN	populus	qui aliquando non populus	4	2	32247
+NOUN	sapientia	hic sapientia est	3	2	33888
+NOUN	uirgo	uirgines enim sunt	3	2	33899
+NOUN	macula	sine macula sunt	3	2	33903
+NOUN	modus	atque haec huius modi sunt	5	2	75881
+NOUN	modus	etsi nihil eius modi est	5	2	78695
+NOUN	hypsaeus	item hypsaeo	2	2	88142
+NOUN	senatus	per senatum ne	3	2	77228
+NOUN	pompeius	nos hic cum pompeio fuimus	5	2	77617
+NOUN	onus	plane non est nostrum onus	5	2	85774
+NOUN	roma	at te romae non fore	5	2	78386
+NOUN	animus	sed tamen hoc sum animo	5	2	78577
+NOUN	nugator	nugatoribus quidem	2	2	78659
+NOUN	mos	atque haec in moribus	4	2	86231
+DET	noster	nostrum est	2	2	Latin_SenecaYounger_HercF_poetry-480
+DET	ita	ita ne	2	2	Latin_SenecaYounger_Oedip_poetry-335,77979
+DET	ita	ita ne est	3	2	Latin_SenecaYounger_Ag_poetry-107
+DET	ita	non est autem ita	4	2	train-s3377
+DET	talis	et est talis	3	2	dev-s583,dev-s461
+DET	ipse	utrumque igitur in ipso est	5	2	dev-s1340
+DET	alius	quod est aliud ab ipso	5	2	test-s108
+DET	alius	non est igitur una earum ab alia	7	2	train-s5507
+DET	unus	quod non est esse unum simpliciter	6	2	train-s2643
+DET	unus	immo magis sunt unum	4	2	train-s8207
+DET	unus	unum autem	2	2	30040
+DET	alter	est enim aliquid propter alterum dupliciter	6	2	train-s5098
+DET	alter	una tamen earum est sub altera	6	2	train-s11043
+DET	paucus	quod est in paucioribus	4	2	train-s6672
+DET	hic	non est autem in his	5	2	train-s7218
+DET	hic	non est hic	3	2	47488,14643
+DET	tuus	mea omnia tua sunt et tua mea sunt	8	2	train-s17324
+DET	solum	non solum autem	3	2	26910
+DET	hactenus	sed haec quidem hactenus	4	2	86455
+ADV	semper	quia non semper est	4	2	dev-s530
+ADV	simul	tum quia non simul sunt	5	2	dev-s533
+ADV	frustra	esset enim frustra	3	2	train-s9004
+AUX	sum	ego sum qui sum	4	2	dev-s1106
+AUX	sum	non erit tibi hoc	4	2	13703
+AUX	sum	quid ergo erit nobis	4	2	13895
+AUX	sum	non ita erit inter uos	5	2	13948
+AUX	sum	hoc est	2	2	14601
+AUX	sum	non sum	2	2	18407,19841,19861
+AUX	sum	hic est	2	2	19149
+AUX	sum	ego sum	2	2	19153
+AUX	sum	sum etenim	2	2	19519
+AUX	sum	et erit	2	2	23495
+AUX	sum	erit autem	2	2	23568
+AUX	sum	non est usque ad unum	5	2	49315
+AUX	sum	id est	2	2	26905,224620
+AUX	sum	sed esto	2	2	29219
+AUX	sum	unus est	2	2	50188
+AUX	sum	quid est praeterea	3	2	78119
+AUX	sum	esto	1	2	78640
+AUX	sum	hic quidem quae est	4	2	79825
+PART	non	non autem ita quod	4	2	train-s14050
+PART	ne	quid ni	2	2	Epi-227,Epi-197
+ADP	usque	usque septies	2	2	13811
+INTJ	heus	sed heus tu	3	2	77928,76225
